@@ -14,14 +14,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="caleb.lareau@gmail.com"
+  link="caleb.lareau@gmail.com""
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(580) 747 7796"
+  link="+1-580-747-7796"
 %}
 {%
   include button.html
