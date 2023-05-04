@@ -15,7 +15,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="email"
   text="caleb.lareau@gmail.com"
-  link="caleb.lareau@gmail.com""
+  link="caleb.lareau@gmail.com"
 %}
 {%
   include button.html
