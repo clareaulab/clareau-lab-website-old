@@ -1,23 +1,18 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1038/s41587-020-0645-6
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
+  description: Original report of mtscATAC-seq
+  date: 2020-8-12
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+      text: Manuscript source code
+      link: https://github.com/caleblareau/mtscATACpaper_reproducibility
     - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+      link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
+  repo: caleblareau/mtscATACpaper_reproducibility
 
-- id: doi:10.1016/j.csbj.2020.05.017
+- id: doi:10.1038/s41467-020-14667-5
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
+- id: doi:10.1182/blood.2021013753
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
