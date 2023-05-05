@@ -50,7 +50,7 @@
   publisher: Nature Communications
   date: '2020-02-13'
   link: https://doi.org/gms3vv
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/blood.2021013753
@@ -92,6 +92,25 @@
   publisher: Blood
   date: '2022-04-21'
   link: https://doi.org/gr7bqf
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/0008-5472.CAN-22-0275
+  title: Mitochondrial DNA Mutations as Natural Barcodes for Lineage Tracing of Murine
+    Tumor Models
+  authors:
+  - Livius Penter
+  - Elisa ten Hacken
+  - Jackson Southard
+  - Caleb A. Lareau
+  - Leif S. Ludwig
+  - Shuqiang Li
+  - Donna S. Neuberg
+  - Kenneth J. Livak
+  - Catherine J. Wu
+  publisher: Cancer Research
+  date: '2022-12-05'
+  link: https://doi.org/gr7bsk
+  image: null
   plugin: sources.py
   file: sources.yaml
