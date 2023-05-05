@@ -13,8 +13,11 @@
 
 # everything else
 
+- id: doi:10.1002/gepi.21739
+  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/encore.png
+
 - id: doi:10.1101/2023.04.23.537997
-  image: 
+  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/m7076.png
 
 - id: doi:10.1038/s41467-020-14667-5
   image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
