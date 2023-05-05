@@ -1,5 +1,59 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.ccell.2021.11.005
+  title: Charting the tumor antigen maps drawn by single-cell genomics
+  authors:
+  - Caleb A. Lareau
+  - Kevin R. Parker
+  - Ansuman T. Satpathy
+  publisher: Cancer Cell
+  date: '2021-12-01'
+  link: https://doi.org/gnrz64
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/ccellreview.png
+  buttons:
+  - type: paper
+    text: PDF
+    link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/Lareau-CancerCell-2021.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-021-00927-2
+  title: Scalable, multimodal profiling of chromatin accessibility, gene expression
+    and protein levels in single cells
+  authors:
+  - Eleni P. Mimitou
+  - Caleb A. Lareau
+  - Kelvin Y. Chen
+  - Andre L. Zorzetto-Fernandes
+  - Yuhan Hao
+  - Yusuke Takeshima
+  - Wendy Luo
+  - Tse-Shun Huang
+  - Bertrand Z. Yeung
+  - Efthymia Papalexi
+  - Pratiksha I. Thakore
+  - Tatsuya Kibayashi
+  - James Badger Wing
+  - Mayu Hata
+  - Rahul Satija
+  - Kristopher L. Nazor
+  - Shimon Sakaguchi
+  - Leif S. Ludwig
+  - Vijay G. Sankaran
+  - Aviv Regev
+  - Peter Smibert
+  publisher: Nature Biotechnology
+  date: '2021-06-03'
+  link: https://doi.org/gkcwn9
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapschematic.png
+  buttons:
+  - type: paper
+    text: PDF
+    link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
+  - type: source
+    text: Manuscript code
+    link: https://github.com/caleblareau/asap_reproducibility
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41587-020-0645-6
   title: Massively parallel single-cell mitochondrial DNA genotyping and chromatin
     profiling
@@ -31,13 +85,50 @@
   buttons:
   - type: paper
     text: PDF
-    link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/s41587-020-0645-6.pdf
+    link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
   - type: source
-    text: Source code
+    text: Manuscript code
     link: https://github.com/caleblareau/mtscATACpaper_reproducibility
   - type: website
     text: Coverage from 10x Genomics
     link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2019.01.022
+  title: Lineage Tracing in Humans Enabled by Mitochondrial Mutations and Single-Cell
+    Genomics
+  authors:
+  - Leif S. Ludwig
+  - Caleb A. Lareau
+  - Jacob C. Ulirsch
+  - Elena Christian
+  - Christoph Muus
+  - Lauren H. Li
+  - Karin Pelka
+  - Will Ge
+  - Yaara Oren
+  - Alison Brack
+  - Travis Law
+  - Christopher Rodman
+  - Jonathan H. Chen
+  - Genevieve M. Boland
+  - Nir Hacohen
+  - Orit Rozenblatt-Rosen
+  - Martin J. Aryee
+  - Jason D. Buenrostro
+  - Aviv Regev
+  - Vijay G. Sankaran
+  publisher: Cell
+  date: '2019-03-01'
+  link: https://doi.org/gfv49g
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mitotracing1.png
+  buttons:
+  - type: paper
+    text: PDF
+    link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LudwigLareauUlirsch-Cell-2019.pdf
+  - type: source
+    text: mtDNA genotyping software
+    link: https://github.com/caleblareau/mgatk
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.04.23.537997
@@ -121,7 +212,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-08-12'
   link: https://doi.org/gr7b6p
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.11.20.517242
@@ -160,7 +251,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-11-20'
   link: https://doi.org/gr7b8k
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson-selection.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2021.09.26.461821
@@ -177,7 +268,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-09-27'
   link: https://doi.org/gr7b6q
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/kamirdc.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2139/ssrn.4271102
@@ -211,7 +302,7 @@
   publisher: SSRN Electronic Journal
   date: '2022-01-01'
   link: https://doi.org/gr7b8m
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-020-14667-5
@@ -225,7 +316,7 @@
   publisher: Nature Communications
   date: '2020-02-13'
   link: https://doi.org/gms3vv
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/blood.2021013753
@@ -298,7 +389,7 @@
   publisher: Chromatin Accessibility
   date: '2023-01-01'
   link: https://doi.org/gr7b45
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-1-0716-2899-7_14
@@ -310,7 +401,7 @@
   publisher: Chromatin Accessibility
   date: '2023-01-01'
   link: https://doi.org/gr7b46
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41596-022-00795-3
@@ -334,19 +425,7 @@
   publisher: Nature Protocols
   date: '2023-02-15'
   link: https://doi.org/gr7b5r
-  image: null
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ccell.2021.11.005
-  title: Charting the tumor antigen maps drawn by single-cell genomics
-  authors:
-  - Caleb A. Lareau
-  - Kevin R. Parker
-  - Ansuman T. Satpathy
-  publisher: Cancer Cell
-  date: '2021-12-01'
-  link: https://doi.org/gnrz64
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciimmunol.abl5053
@@ -371,38 +450,7 @@
   publisher: Science Immunology
   date: '2021-11-26'
   link: https://doi.org/gr7b5s
-  image: null
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41587-021-00927-2
-  title: Scalable, multimodal profiling of chromatin accessibility, gene expression
-    and protein levels in single cells
-  authors:
-  - Eleni P. Mimitou
-  - Caleb A. Lareau
-  - Kelvin Y. Chen
-  - Andre L. Zorzetto-Fernandes
-  - Yuhan Hao
-  - Yusuke Takeshima
-  - Wendy Luo
-  - Tse-Shun Huang
-  - Bertrand Z. Yeung
-  - Efthymia Papalexi
-  - Pratiksha I. Thakore
-  - Tatsuya Kibayashi
-  - James Badger Wing
-  - Mayu Hata
-  - Rahul Satija
-  - Kristopher L. Nazor
-  - Shimon Sakaguchi
-  - Leif S. Ludwig
-  - Vijay G. Sankaran
-  - Aviv Regev
-  - Peter Smibert
-  publisher: Nature Biotechnology
-  date: '2021-06-03'
-  link: https://doi.org/gkcwn9
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41564-020-00846-z
@@ -432,7 +480,7 @@
   publisher: Nature Microbiology
   date: '2020-12-21'
   link: https://doi.org/gjt6c2
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1056/NEJMoa2001265
@@ -448,7 +496,7 @@
   publisher: New England Journal of Medicine
   date: '2020-10-15'
   link: https://doi.org/gr7b5t
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2020.08.008
@@ -569,7 +617,7 @@
   publisher: Cell
   date: '2020-09-01'
   link: https://doi.org/gg92dg
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41587-019-0147-6
@@ -590,37 +638,7 @@
   publisher: Nature Biotechnology
   date: '2019-06-24'
   link: https://doi.org/ggsf7q
-  image: null
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.cell.2019.01.022
-  title: Lineage Tracing in Humans Enabled by Mitochondrial Mutations and Single-Cell
-    Genomics
-  authors:
-  - Leif S. Ludwig
-  - Caleb A. Lareau
-  - Jacob C. Ulirsch
-  - Elena Christian
-  - Christoph Muus
-  - Lauren H. Li
-  - Karin Pelka
-  - Will Ge
-  - Yaara Oren
-  - Alison Brack
-  - Travis Law
-  - Christopher Rodman
-  - Jonathan H. Chen
-  - Genevieve M. Boland
-  - Nir Hacohen
-  - Orit Rozenblatt-Rosen
-  - Martin J. Aryee
-  - Jason D. Buenrostro
-  - Aviv Regev
-  - Vijay G. Sankaran
-  publisher: Cell
-  date: '2019-03-01'
-  link: https://doi.org/gfv49g
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/bloodadvances.2019001196
@@ -633,7 +651,7 @@
   publisher: Blood Advances
   date: '2019-12-16'
   link: https://doi.org/gjnr9n
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mitolong.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-019-0362-6
@@ -656,7 +674,7 @@
   publisher: Nature Genetics
   date: '2019-03-11'
   link: https://doi.org/gfwt9z
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/singlecellbloodtraits.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ajh.25421
@@ -680,7 +698,7 @@
   publisher: American Journal of Hematology
   date: '2019-02-06'
   link: https://doi.org/gr7b5w
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.celrep.2019.05.046
@@ -702,7 +720,7 @@
   publisher: Cell Reports
   date: '2019-06-01'
   link: https://doi.org/ghcbf4
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/erydiff.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nmeth.4541
@@ -719,7 +737,7 @@
   publisher: Nature Methods
   date: '2018-03-30'
   link: https://doi.org/gr7b5x
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nmeth.4583
@@ -730,7 +748,7 @@
   publisher: Nature Methods
   date: '2018-02-28'
   link: https://doi.org/ggzzfq
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/gene.2017.3
@@ -749,7 +767,7 @@
   publisher: Genes &amp; Immunity
   date: '2017-03-01'
   link: https://doi.org/gr7b52
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btx623
@@ -761,7 +779,7 @@
   publisher: Bioinformatics
   date: '2017-09-29'
   link: https://doi.org/gczfqp
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/gene.2016.15
@@ -777,7 +795,7 @@
   publisher: Genes &amp; Immunity
   date: '2016-04-07'
   link: https://doi.org/f9mvjk
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fgene.2015.00312
@@ -791,7 +809,7 @@
   publisher: Frontiers in Genetics
   date: '2015-10-19'
   link: https://doi.org/gr7b53
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/acn3.229
@@ -807,7 +825,7 @@
   publisher: Annals of Clinical and Translational Neurology
   date: '2015-07-31'
   link: https://doi.org/gcbzms
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13040-015-0040-x
@@ -821,7 +839,7 @@
   publisher: BioData Mining
   date: '2015-02-03'
   link: https://doi.org/gb5fpr
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fimmu.2022.1062415
@@ -833,7 +851,7 @@
   publisher: Frontiers in Immunology
   date: '2022-10-18'
   link: https://doi.org/gr7b54
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41590-020-0796-0
@@ -844,7 +862,7 @@
   publisher: Nature Immunology
   date: '2020-09-28'
   link: https://doi.org/gr7b55
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-1-4939-9057-3_13
@@ -856,7 +874,7 @@
   publisher: Methods in Molecular Biology
   date: '2019-01-01'
   link: https://doi.org/gr7b7r
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-1-4939-2155-3_15
@@ -867,7 +885,7 @@
   publisher: Methods in Molecular Biology
   date: '2014-11-03'
   link: https://doi.org/f6tgrs
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-023-05778-2
@@ -894,7 +912,7 @@
   publisher: Nature
   date: '2023-03-08'
   link: https://doi.org/gr7b58
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41590-022-01273-4
@@ -924,7 +942,7 @@
   publisher: Nature Immunology
   date: '2022-07-26'
   link: https://doi.org/gr7b59
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41590-022-01327-7
@@ -938,7 +956,7 @@
   publisher: Nature Immunology
   date: '2022-10-26'
   link: https://doi.org/gq5cgw
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41587-022-01210-8
@@ -990,7 +1008,7 @@
   publisher: Med
   date: '2022-01-01'
   link: https://doi.org/gn46nq
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41591-022-01986-x
@@ -1014,7 +1032,7 @@
   publisher: Nature Medicine
   date: '2022-09-01'
   link: https://doi.org/gr7b6b
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100166
@@ -1034,7 +1052,7 @@
   publisher: Cell Genomics
   date: '2022-09-01'
   link: https://doi.org/gr7b6c
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-022-05089-y
@@ -1066,7 +1084,7 @@
   publisher: Nature
   date: '2022-09-07'
   link: https://doi.org/grj4wj
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1158/2159-8290.CD-21-1491
@@ -1130,7 +1148,7 @@
   publisher: Cancer Discovery
   date: '2022-11-11'
   link: https://doi.org/gr7b6d
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-021-04217-4
@@ -1154,7 +1172,7 @@
   publisher: Nature
   date: '2021-12-15'
   link: https://doi.org/gn2kcb
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-021-27666-x
@@ -1200,7 +1218,7 @@
   publisher: Nature Communications
   date: '2022-01-10'
   link: https://doi.org/gpkktt
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41592-021-01282-5
@@ -1214,7 +1232,7 @@
   publisher: Nature Methods
   date: '2021-11-01'
   link: https://doi.org/gnb2nx
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41587-021-01065-5
@@ -1231,7 +1249,7 @@
   publisher: Nature Biotechnology
   date: '2021-10-21'
   link: https://doi.org/grxcc7
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciimmunol.abh3768
@@ -1253,7 +1271,7 @@
   publisher: Science Immunology
   date: '2021-10-29'
   link: https://doi.org/gr7b6f
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1158/2159-8290.CD-21-0276
@@ -1283,7 +1301,7 @@
   publisher: Cancer Discovery
   date: '2021-12-01'
   link: https://doi.org/gkjb9d
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.immuni.2021.04.005
@@ -1308,7 +1326,7 @@
   publisher: Immunity
   date: '2021-05-01'
   link: https://doi.org/gpwr4n
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ccell.2021.05.007
@@ -1346,7 +1364,7 @@
   publisher: Cancer Cell
   date: '2021-06-01'
   link: https://doi.org/gk5zhf
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2020.09.056
@@ -1371,7 +1389,7 @@
   publisher: Cell
   date: '2020-11-01'
   link: https://doi.org/ghgmw4
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-020-2786-7
@@ -1786,7 +1804,7 @@
   publisher: Nature
   date: '2020-10-14'
   link: https://doi.org/gjdn8w
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2020.06.045
@@ -1906,7 +1924,7 @@
   publisher: Cell
   date: '2020-09-01'
   link: https://doi.org/gjnz6f
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2020.07.030
@@ -1937,7 +1955,7 @@
   publisher: Cell
   date: '2020-09-01'
   link: https://doi.org/gg89cx
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fimmu.2020.567342
@@ -1958,7 +1976,7 @@
   publisher: Frontiers in Immunology
   date: '2020-12-08'
   link: https://doi.org/gqxmcr
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41587-020-0535-y
@@ -1978,7 +1996,7 @@
   publisher: Nature Biotechnology
   date: '2020-06-01'
   link: https://doi.org/ggzxzm
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ccell.2020.06.006
@@ -2006,7 +2024,7 @@
   publisher: Cancer Cell
   date: '2020-08-01'
   link: https://doi.org/gg69zn
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-019-0568-7
@@ -2037,7 +2055,7 @@
   publisher: Nature Genetics
   date: '2020-01-20'
   link: https://doi.org/gr7b6h
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-020-15022-4
@@ -2063,7 +2081,7 @@
   publisher: Nature Communications
   date: '2020-03-06'
   link: https://doi.org/gg89c7
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41590-020-0687-4
@@ -2295,7 +2313,7 @@
   publisher: Nature Immunology
   date: '2020-06-23'
   link: https://doi.org/gr7b6j
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2018.12.036
@@ -2330,7 +2348,7 @@
   publisher: Cell
   date: '2019-02-01'
   link: https://doi.org/gfttvp
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-019-1161-z
@@ -2347,7 +2365,7 @@
   publisher: Nature
   date: '2019-04-17'
   link: https://doi.org/gfzk4z
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13059-019-1854-5
@@ -2366,7 +2384,7 @@
   publisher: Genome Biology
   date: '2019-11-18'
   link: https://doi.org/ggdk3f
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-09670-4
@@ -2391,7 +2409,7 @@
   publisher: Nature Communications
   date: '2019-04-23'
   link: https://doi.org/ggbt8j
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41587-019-0236-6
@@ -2407,7 +2425,7 @@
   publisher: Nature Biotechnology
   date: '2019-09-01'
   link: https://doi.org/gmpdbz
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-019-0538-0
@@ -2436,7 +2454,7 @@
   publisher: Nature Genetics
   date: '2019-11-29'
   link: https://doi.org/ggffzx
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.44080
@@ -2462,7 +2480,7 @@
   publisher: eLife
   date: '2019-05-09'
   link: https://doi.org/ggbvp7
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-019-0363-5
@@ -2481,7 +2499,7 @@
   publisher: Nature Genetics
   date: '2019-03-11'
   link: https://doi.org/gfwt9x
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1084/jem.20181625
@@ -2510,7 +2528,7 @@
   publisher: Journal of Experimental Medicine
   date: '2019-03-26'
   link: https://doi.org/gr7b6k
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2018.03.074
@@ -2529,7 +2547,7 @@
   publisher: Cell
   date: '2018-05-01'
   link: https://doi.org/gddfkm
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-018-05328-9
@@ -2553,7 +2571,7 @@
   publisher: Nature Communications
   date: '2018-07-25'
   link: https://doi.org/gdzkpf
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-018-0081-4
@@ -2584,7 +2602,7 @@
   publisher: Nature Genetics
   date: '2018-04-01'
   link: https://doi.org/gdfjqt
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41556-018-0221-1
@@ -2613,7 +2631,7 @@
   publisher: Nature Cell Biology
   date: '2018-11-05'
   link: https://doi.org/gfgzvd
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/S41591-018-0008-8
@@ -2644,7 +2662,7 @@
   publisher: Nature Medicine
   date: '2018-04-23'
   link: https://doi.org/gdkgm5
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/blood-2017-05-783191
@@ -2659,7 +2677,7 @@
   publisher: Blood
   date: '2017-08-31'
   link: https://doi.org/gr7b6n
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pbio.2002690
@@ -2689,7 +2707,7 @@
   publisher: PLOS Biology
   date: '2017-12-28'
   link: https://doi.org/gcrvm7
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.celrep.2017.09.066
@@ -2719,7 +2737,7 @@
   publisher: Cell Reports
   date: '2017-10-01'
   link: https://doi.org/gjjc6p
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1084/jem.20170976
@@ -2745,7 +2763,7 @@
   publisher: Journal of Experimental Medicine
   date: '2017-09-06'
   link: https://doi.org/gb23v5
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pone.0158016
@@ -2761,7 +2779,7 @@
   publisher: PLOS ONE
   date: '2016-08-11'
   link: https://doi.org/gbp4wk
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/gepi.21739
