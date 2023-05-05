@@ -172,3 +172,27 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mousemtscatac.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/978-1-0716-2899-7_13
+  title: Massively Parallel Profiling of Accessible Chromatin and Proteins with ASAP-Seq
+  authors:
+  - Eleni P. Mimitou
+  - Peter Smibert
+  - Caleb A. Lareau
+  publisher: Chromatin Accessibility
+  date: '2023-01-01'
+  link: https://doi.org/gr7b45
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-1-0716-2899-7_14
+  title: Concomitant Sequencing of Accessible Chromatin and Mitochondrial Genomes
+    in Single Cells Using mtscATAC-Seq
+  authors:
+  - Leif S. Ludwig
+  - Caleb A. Lareau
+  publisher: Chromatin Accessibility
+  date: '2023-01-01'
+  link: https://doi.org/gr7b46
+  image: null
+  plugin: sources.py
+  file: sources.yaml
