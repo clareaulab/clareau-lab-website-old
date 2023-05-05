@@ -1,17 +1,44 @@
 
 # highlighted articles
+
+- id: doi:10.1016/j.ccell.2021.11.005
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/ccellreview.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/Lareau-CancerCell-2021.pdf
+
+- id: doi:10.1038/s41587-021-00927-2
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapschematic.png
+    - type: paper
+      text: PDF
+      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
+    - type: source
+      text: Manuscript code
+      link: https://github.com/caleblareau/asap_reproducibility
+
 - id: doi:10.1038/s41587-020-0645-6
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mtscatac.png
   buttons:
     - type: paper
       text: PDF
-      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/s41587-020-0645-6.pdf
+      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
     - type: source
-      text: Source code
+      text: Manuscript code
       link: https://github.com/caleblareau/mtscATACpaper_reproducibility
     - type: website
       text: Coverage from 10x Genomics
       link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
+
+- id: doi:10.1016/j.cell.2019.01.022
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mitotracing1.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LudwigLareauUlirsch-Cell-2019.pdf
+    - type: source
+      text: mtDNA genotyping software
+      link: https://github.com/caleblareau/mgatk
 
 
 # Current biorxiv
@@ -22,19 +49,19 @@
 
 # HHV6
 - id: doi:10.1101/2022.08.12.503683
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
 
 # Pearson
 - id: doi:10.1101/2022.11.20.517242
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson-selection.png
 
 # Kamir
 - id: doi:10.1101/2021.09.26.461821
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/kamirdc.png
 
 # NIH
 - id: doi:10.2139/ssrn.4271102
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 # everything else
 
@@ -49,229 +76,220 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mousemtscatac.png
 
 - id: doi:10.1007/978-1-0716-2899-7_13
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
   
 - id: doi:10.1007/978-1-0716-2899-7_14
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41596-022-00795-3
-  image: 
-  
-- id: doi:10.1016/j.ccell.2021.11.005
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
   
 - id: doi:10.1038/s41467-020-14667-5
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1126/sciimmunol.abl5053
-  image: 
-
-- id: doi:10.1038/s41587-021-00927-2
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41564-020-00846-z
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1056/NEJMoa2001265
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.cell.2020.08.008
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41587-019-0147-6
-  image: 
-
-- id: doi:10.1016/j.cell.2019.01.022
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1182/bloodadvances.2019001196
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mitolong.png
 
 - id: doi:10.1038/s41588-019-0362-6
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/singlecellbloodtraits.png
 
 - id: doi:10.1002/ajh.25421
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.celrep.2019.05.046
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/erydiff.png
 
 - id: doi:10.1038/nmeth.4541
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/nmeth.4583
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/gene.2017.3
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1093/bioinformatics/btx623
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/gene.2016.15
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.3389/fgene.2015.00312
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1002/acn3.229
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1186/s13040-015-0040-x
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.3389/fimmu.2022.1062415
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41590-020-0796-0
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1007/978-1-4939-9057-3_13
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1007/978-1-4939-2155-3_15
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41586-023-05778-2
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41590-022-01273-4
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41590-022-01327-7
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41587-022-01210-8
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/maester.png
 
 - id: doi:10.1016/j.medj.2021.12.003
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41591-022-01986-x
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.xgen.2022.100166
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41590-022-01273-4
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41586-022-05089-y
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1158/2159-8290.CD-21-1491
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41586-021-04217-4
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41467-021-27666-x
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41592-021-01282-5
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41587-021-01065-5
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1126/sciimmunol.abh3768
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1158/2159-8290.CD-21-0276
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.immuni.2021.04.005
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.ccell.2021.05.007
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.cell.2020.09.056
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41586-020-2786-7
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.cell.2020.06.045
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.cell.2020.07.030
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.3389/fimmu.2020.567342
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41587-020-0535-y
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.ccell.2020.06.006
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41588-019-0568-7
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41467-020-15022-4
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41590-020-0687-4
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.cell.2018.12.036
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41586-019-1161-z
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1186/s13059-019-1854-5
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41467-019-09670-4
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41587-019-0236-6
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41588-019-0538-0
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.7554/eLife.44080
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41588-019-0363-5
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1084/jem.20181625
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.cell.2018.03.074
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41467-018-05328-9
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41588-018-0081-4
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41556-018-0221-1
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/S41591-018-0008-8
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1182/blood-2017-05-783191
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1371/journal.pbio.2002690
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1016/j.celrep.2017.09.066
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1084/jem.20170976
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1371/journal.pone.0158016
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1002/gepi.21739
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/encore.png
