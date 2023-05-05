@@ -12,7 +12,10 @@
   repo: caleblareau/mtscATACpaper_reproducibility
 
 - id: doi:10.1038/s41467-020-14667-5
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image:
 
 - id: doi:10.1182/blood.2021013753
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: 
+  
+- id: doi:10.1158/0008-5472.CAN-22-0275
+  image: 
