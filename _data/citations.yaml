@@ -108,7 +108,7 @@
   publisher: Nature Communications
   date: '2020-02-13'
   link: https://doi.org/gms3vv
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
+  image: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/blood.2021013753
@@ -193,6 +193,2507 @@
   publisher: Chromatin Accessibility
   date: '2023-01-01'
   link: https://doi.org/gr7b46
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41596-022-00795-3
+  title: Mitochondrial single-cell ATAC-seq for high-throughput multi-omic detection
+    of mitochondrial genotypes and chromatin accessibility
+  authors:
+  - Caleb A. Lareau
+  - Vincent Liu
+  - Christoph Muus
+  - Samantha D. Praktiknjo
+  - Lena Nitsch
+  - Pauline Kautz
+  - Katalin Sandor
+  - Yajie Yin
+  - Jacob C. Gutierrez
+  - Karin Pelka
+  - Ansuman T. Satpathy
+  - Aviv Regev
+  - Vijay G. Sankaran
+  - Leif S. Ludwig
+  publisher: Nature Protocols
+  date: '2023-02-15'
+  link: https://doi.org/gr7b5r
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ccell.2021.11.005
+  title: Charting the tumor antigen maps drawn by single-cell genomics
+  authors:
+  - Caleb A. Lareau
+  - Kevin R. Parker
+  - Ansuman T. Satpathy
+  publisher: Cancer Cell
+  date: '2021-12-01'
+  link: https://doi.org/gnrz64
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/sciimmunol.abl5053
+  title: Single-cell multiomics defines tolerogenic extrathymic Aire-expressing populations
+    with unique homology to thymic epithelium
+  authors:
+  - Jiaxi Wang
+  - Caleb A. Lareau
+  - Jhoanne L. Bautista
+  - Alexander R. Gupta
+  - Katalin Sandor
+  - Joe Germino
+  - Yajie Yin
+  - Matthew P. Arvedson
+  - Gabriella C. Reeder
+  - Nathan T. Cramer
+  - Fang Xie
+  - Vasilis Ntranos
+  - Ansuman T. Satpathy
+  - Mark S. Anderson
+  - James M. Gardner
+  publisher: Science Immunology
+  date: '2021-11-26'
+  link: https://doi.org/gr7b5s
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-021-00927-2
+  title: Scalable, multimodal profiling of chromatin accessibility, gene expression
+    and protein levels in single cells
+  authors:
+  - Eleni P. Mimitou
+  - Caleb A. Lareau
+  - Kelvin Y. Chen
+  - Andre L. Zorzetto-Fernandes
+  - Yuhan Hao
+  - Yusuke Takeshima
+  - Wendy Luo
+  - Tse-Shun Huang
+  - Bertrand Z. Yeung
+  - Efthymia Papalexi
+  - Pratiksha I. Thakore
+  - Tatsuya Kibayashi
+  - James Badger Wing
+  - Mayu Hata
+  - Rahul Satija
+  - Kristopher L. Nazor
+  - Shimon Sakaguchi
+  - Leif S. Ludwig
+  - Vijay G. Sankaran
+  - Aviv Regev
+  - Peter Smibert
+  publisher: Nature Biotechnology
+  date: '2021-06-03'
+  link: https://doi.org/gkcwn9
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.07.15.204404
+  title: A direct RNA-protein interaction atlas of the SARS-CoV-2 RNA in infected
+    human cells
+  authors:
+  - Nora Schmidt
+  - Caleb A. Lareau
+  - Hasmik Keshishian
+  - Randy Melanson
+  - Matthias Zimmer
+  - Luisa Kirschner
+  - Jens Ade
+  - Simone Werner
+  - Neva Caliskan
+  - Eric S. Lander
+  - "J\xF6rg Vogel"
+  - Steven A. Carr
+  - Jochen Bodem
+  - Mathias Munschauer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-07-15'
+  link: https://doi.org/gk7dgk
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1056/NEJMoa2001265
+  title: Purifying Selection against Pathogenic Mitochondrial DNA in Human T Cells
+  authors:
+  - Melissa A. Walker
+  - Caleb A. Lareau
+  - Leif S. Ludwig
+  - Amel Karaa
+  - Vijay G. Sankaran
+  - Aviv Regev
+  - Vamsi K. Mootha
+  publisher: New England Journal of Medicine
+  date: '2020-10-15'
+  link: https://doi.org/gr7b5t
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.02.02.20020065
+  title: The Polygenic and Monogenic Basis of Blood Traits and Diseases
+  authors:
+  - Dragana Vuckovic
+  - Erik L. Bao
+  - Parsa Akbari
+  - Caleb A. Lareau
+  - Abdou Mousas
+  - Tao Jiang
+  - Ming-Huei Chen
+  - Laura M. Raffield
+  - Manuel Tardaguila
+  - Jennifer E. Huffman
+  - Scott C. Ritchie
+  - Karyn Megy
+  - Hannes Ponstingl
+  - Christopher J. Penkett
+  - Patrick K. Albers
+  - Emilie M. Wigdor
+  - Saori Sakaue
+  - Arden Moscati
+  - Regina Manansala
+  - Ken Sin Lo
+  - Huijun Qian
+  - Masato Akiyama
+  - Traci M. Bartz
+  - Yoav Ben-Shlomo
+  - Andrew Beswick
+  - Jette Bork-Jensen
+  - Erwin P. Bottinger
+  - Jennifer A. Brody
+  - Frank J.A. van Rooij
+  - Kumaraswamy N. Chitrala
+  - Kelly Cho
+  - "H\xE9l\xE8ne Choquet"
+  - Adolfo Correa
+  - John Danesh
+  - Emanuele Di Angelantonio
+  - Niki Dimou
+  - Jingzhong Ding
+  - Paul Elliott
+  - "T\xF5nu Esko"
+  - Michele K. Evans
+  - Stephan B. Felix
+  - James S. Floyd
+  - Linda Broer
+  - Niels Grarup
+  - Michael H. Guo
+  - Andreas Greinacher
+  - Jeff Haessler
+  - Torben Hansen
+  - Joanna M. M. Howson
+  - Wei Huang
+  - Eric Jorgenson
+  - Tim Kacprowski
+  - "Mika K\xE4h\xF6nen"
+  - Yoichiro Kamatani
+  - Masahiro Kanai
+  - Savita Karthikeyan
+  - Fotis Koskeridis
+  - Leslie A. Lange
+  - "Terho Lehtim\xE4ki"
+  - Allan Linneberg
+  - Yongmei Liu
+  - "Leo-Pekka Lyytik\xE4inen"
+  - Ani Manichaikul
+  - Koichi Matsuda
+  - Karen L. Mohlke
+  - Nina Mononen
+  - Yoshinori Murakami
+  - Girish N. Nadkarni
+  - Kjell Nikus
+  - Nathan Pankratz
+  - Oluf Pedersen
+  - Michael Preuss
+  - Bruce M. Psaty
+  - Olli T. Raitakari
+  - Stephen S. Rich
+  - Benjamin A.T. Rodriguez
+  - Jonathan D. Rosen
+  - Jerome I. Rotter
+  - Petra Schubert
+  - Cassandra N. Spracklen
+  - Praveen Surendran
+  - Hua Tang
+  - Jean-Claude Tardif
+  - Mohsen Ghanbari
+  - "Uwe V\xF6lker"
+  - "Henry V\xF6lzke"
+  - Nicholas A. Watkins
+  - Stefan Weiss
+  - Na Cai
+  - Kousik Kundu
+  - Stephen B. Watt
+  - Klaudia Walter
+  - Alan B. Zonderman
+  - Peter W.F. Wilson
+  - Yun Li
+  - Ruth J.F. Loos
+  - Julian Knight
+  - Michel Georges
+  - Oliver Stegle
+  - Evangelos Evangelou
+  - Yukinori Okada
+  - David J. Roberts
+  - Michael Inouye
+  - Andrew D. Johnson
+  - Paul L. Auer
+  - William J. Astle
+  - Alexander P. Reiner
+  - Adam S. Butterworth
+  - Willem H. Ouwehand
+  - Guillaume Lettre
+  - Vijay G. Sankaran
+  - Nicole Soranzo
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-02-03'
+  link: https://doi.org/gr7b5v
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-019-0147-6
+  title: Droplet-based combinatorial indexing for massive-scale single-cell chromatin
+    accessibility
+  authors:
+  - Caleb A. Lareau
+  - Fabiana M. Duarte
+  - Jennifer G. Chew
+  - Vinay K. Kartha
+  - Zach D. Burkett
+  - Andrew S. Kohlway
+  - Dmitry Pokholok
+  - Martin J. Aryee
+  - Frank J. Steemers
+  - Ronald Lebofsky
+  - Jason D. Buenrostro
+  publisher: Nature Biotechnology
+  date: '2019-06-24'
+  link: https://doi.org/ggsf7q
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2019.01.022
+  title: Lineage Tracing in Humans Enabled by Mitochondrial Mutations and Single-Cell
+    Genomics
+  authors:
+  - Leif S. Ludwig
+  - Caleb A. Lareau
+  - Jacob C. Ulirsch
+  - Elena Christian
+  - Christoph Muus
+  - Lauren H. Li
+  - Karin Pelka
+  - Will Ge
+  - Yaara Oren
+  - Alison Brack
+  - Travis Law
+  - Christopher Rodman
+  - Jonathan H. Chen
+  - Genevieve M. Boland
+  - Nir Hacohen
+  - Orit Rozenblatt-Rosen
+  - Martin J. Aryee
+  - Jason D. Buenrostro
+  - Aviv Regev
+  - Vijay G. Sankaran
+  publisher: Cell
+  date: '2019-03-01'
+  link: https://doi.org/gfv49g
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/bloodadvances.2019001196
+  title: Longitudinal assessment of clonal mosaicism in human hematopoiesis via mitochondrial
+    mutation tracking
+  authors:
+  - Caleb A. Lareau
+  - Leif S. Ludwig
+  - Vijay G. Sankaran
+  publisher: Blood Advances
+  date: '2019-12-16'
+  link: https://doi.org/gjnr9n
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-019-0362-6
+  title: Interrogation of human hematopoiesis at single-cell and single-variant resolution
+  authors:
+  - Jacob C. Ulirsch
+  - Caleb A. Lareau
+  - Erik L. Bao
+  - Leif S. Ludwig
+  - Michael H. Guo
+  - Christian Benner
+  - Ansuman T. Satpathy
+  - Vinay K. Kartha
+  - Rany M. Salem
+  - Joel N. Hirschhorn
+  - Hilary K. Finucane
+  - Martin J. Aryee
+  - Jason D. Buenrostro
+  - Vijay G. Sankaran
+  publisher: Nature Genetics
+  date: '2019-03-11'
+  link: https://doi.org/gfwt9z
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajh.25421
+  title: Heritability of fetal hemoglobin, white cell count, and other clinical traits
+    from a sickle cell disease family cohort
+  authors:
+  - Erik L. Bao
+  - Caleb A. Lareau
+  - Carlo Brugnara
+  - Isabel R. Fulcher
+  - Caroline Barau
+  - Stephane Moutereau
+  - Anoosha Habibi
+  - Bouchra Badaoui
+  - Jugurtha Berkenou
+  - Pablo Bartolucci
+  - "Fr\xE9d\xE9ric Galact\xE9ros"
+  - Orah S. Platt
+  - Michael Mahaney
+  - Vijay G. Sankaran
+  publisher: American Journal of Hematology
+  date: '2019-02-06'
+  link: https://doi.org/gr7b5w
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.celrep.2019.05.046
+  title: Transcriptional States and Chromatin Accessibility Underlying Human Erythropoiesis
+  authors:
+  - Leif S. Ludwig
+  - Caleb A. Lareau
+  - Erik L. Bao
+  - Satish K. Nandakumar
+  - Christoph Muus
+  - Jacob C. Ulirsch
+  - Kaitavjeet Chowdhary
+  - Jason D. Buenrostro
+  - Narla Mohandas
+  - Xiuli An
+  - Martin J. Aryee
+  - Aviv Regev
+  - Vijay G. Sankaran
+  publisher: Cell Reports
+  date: '2019-06-01'
+  link: https://doi.org/ghcbf4
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nmeth.4541
+  title: "Response to \u201CUnexpected mutations after CRISPR\u2013Cas9 editing in\
+    \ vivo\u201D"
+  authors:
+  - Caleb A Lareau
+  - Kendell Clement
+  - Jonathan Y Hsu
+  - Vikram Pattanayak
+  - J Keith Joung
+  - Martin J Aryee
+  - Luca Pinello
+  publisher: Nature Methods
+  date: '2018-03-30'
+  link: https://doi.org/gr7b5x
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nmeth.4583
+  title: 'hichipper: a preprocessing pipeline for calling DNA loops from HiChIP data'
+  authors:
+  - Caleb A Lareau
+  - Martin J Aryee
+  publisher: Nature Methods
+  date: '2018-02-28'
+  link: https://doi.org/ggzzfq
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/gene.2017.3
+  title: Polygenic risk assessment reveals pleiotropy between sarcoidosis and inflammatory
+    disorders in the context of genetic ancestry
+  authors:
+  - C A Lareau
+  - C F DeWeese
+  - I Adrianto
+  - C J Lessard
+  - P M Gaffney
+  - M C Iannuzzi
+  - B A Rybicki
+  - A M Levin
+  - C G Montgomery
+  publisher: Genes &amp; Immunity
+  date: '2017-03-01'
+  link: https://doi.org/gr7b52
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btx623
+  title: 'diffloop: a computational framework for identifying and analyzing differential
+    DNA loops from sequencing data'
+  authors:
+  - Caleb A Lareau
+  - Martin J Aryee
+  publisher: Bioinformatics
+  date: '2017-09-29'
+  link: https://doi.org/gczfqp
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/gene.2016.15
+  title: An interaction quantitative trait loci tool implicates epistatic functional
+    variants in an apoptosis pathway in smallpox vaccine eQTL data
+  authors:
+  - C A Lareau
+  - B C White
+  - A L Oberg
+  - R B Kennedy
+  - G A Poland
+  - B A McKinney
+  publisher: Genes &amp; Immunity
+  date: '2016-04-07'
+  link: https://doi.org/f9mvjk
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fgene.2015.00312
+  title: 'dcVar: a method for identifying common variants that modulate differential
+    correlation structures in gene expression data'
+  authors:
+  - Caleb A. Lareau
+  - Bill C. White
+  - Courtney G. Montgomery
+  - Brett A. McKinney
+  publisher: Frontiers in Genetics
+  date: '2015-10-19'
+  link: https://doi.org/gr7b53
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/acn3.229
+  title: "Fine mapping of chromosome 15q25 implicates\n            <scp>ZNF</scp>\n\
+    \            592 in neurosarcoidosis patients"
+  authors:
+  - Caleb A. Lareau
+  - Indra Adrianto
+  - Albert M. Levin
+  - Michael C. Iannuzzi
+  - Benjamin A. Rybicki
+  - Courtney G. Montgomery
+  publisher: Annals of Clinical and Translational Neurology
+  date: '2015-07-31'
+  link: https://doi.org/gcbzms
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13040-015-0040-x
+  title: Differential co-expression network centrality and machine learning feature
+    selection for identifying susceptibility hubs in networks with scale-free structure
+  authors:
+  - Caleb A Lareau
+  - Bill C White
+  - Ann L Oberg
+  - Brett A McKinney
+  publisher: BioData Mining
+  date: '2015-02-03'
+  link: https://doi.org/gb5fpr
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fimmu.2022.1062415
+  title: 'Editorial: Lineage tracing, hematopoietic stem cell and immune cell dynamics'
+  authors:
+  - Caleb A. Lareau
+  - Chiara Romagnani
+  - Leif S. Ludwig
+  publisher: Frontiers in Immunology
+  date: '2022-10-18'
+  link: https://doi.org/gr7b54
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41590-020-0796-0
+  title: "An old BATF\u2019s new T-ricks"
+  authors:
+  - Caleb A. Lareau
+  - Ansuman T. Satpathy
+  publisher: Nature Immunology
+  date: '2020-09-28'
+  link: https://doi.org/gr7b55
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-1-4939-9057-3
+  title: Computational Methods for Single-Cell Data Analysis
+  authors: []
+  publisher: Methods in Molecular Biology
+  date: '2019-01-01'
+  link: https://doi.org/gr7b56
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-1-4939-2155-3
+  title: Epistasis
+  authors: []
+  publisher: Methods in Molecular Biology
+  date: '2015-01-01'
+  link: https://doi.org/gr7b57
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-023-05778-2
+  title: Co-opting signalling molecules enables logic-gated control of CAR T cells
+  authors:
+  - Aidan M. Tousley
+  - Maria Caterina Rotiroti
+  - Louai Labanieh
+  - Lea Wenting Rysavy
+  - Won-Ju Kim
+  - Caleb Lareau
+  - Elena Sotillo
+  - Evan W. Weber
+  - Skyler P. Rietberg
+  - Guillermo Nicolas Dalton
+  - Yajie Yin
+  - Dorota Klysz
+  - Peng Xu
+  - Eva L. de la Serna
+  - Alexander R. Dunn
+  - Ansuman T. Satpathy
+  - Crystal L. Mackall
+  - Robbie G. Majzner
+  publisher: Nature
+  date: '2023-03-08'
+  link: https://doi.org/gr7b58
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41590-022-01273-4
+  title: Runx3 drives a CD8+ T cell tissue residency program that is absent in CD4+
+    T cells
+  authors:
+  - "Ra\xEDssa Fonseca"
+  - Thomas N. Burn
+  - Luke C. Gandolfo
+  - Sapna Devi
+  - Simone L. Park
+  - Andreas Obers
+  - Maximilien Evrard
+  - Susan N. Christo
+  - Frank A. Buquicchio
+  - Caleb A. Lareau
+  - Keely M. McDonald
+  - Sarah K. Sandford
+  - Natasha M. Zamudio
+  - Nagela G. Zanluqui
+  - Ali Zaid
+  - Terence P. Speed
+  - Ansuman T. Satpathy
+  - Scott N. Mueller
+  - Francis R. Carbone
+  - Laura K. Mackay
+  publisher: Nature Immunology
+  date: '2022-07-26'
+  link: https://doi.org/gr7b59
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41590-022-01327-7
+  title: Clonal expansion and epigenetic inheritance of long-lasting NK cell memory
+  authors:
+  - "Timo R\xFCckert"
+  - Caleb A. Lareau
+  - Mir-Farzin Mashreghi
+  - Leif S. Ludwig
+  - Chiara Romagnani
+  publisher: Nature Immunology
+  date: '2022-10-26'
+  link: https://doi.org/gq5cgw
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-022-01210-8
+  title: Mitochondrial variant enrichment from high-throughput single-cell RNA sequencing
+    resolves clonal populations
+  authors:
+  - Tyler E. Miller
+  - Caleb A. Lareau
+  - Julia A. Verga
+  - Erica A. K. DePasquale
+  - Vincent Liu
+  - Daniel Ssozi
+  - Katalin Sandor
+  - Yajie Yin
+  - Leif S. Ludwig
+  - Chadi A. El Farran
+  - Duncan M. Morgan
+  - Ansuman T. Satpathy
+  - Gabriel K. Griffin
+  - Andrew A. Lane
+  - J. Christopher Love
+  - Bradley E. Bernstein
+  - Vijay G. Sankaran
+  - Peter van Galen
+  publisher: Nature Biotechnology
+  date: '2022-02-24'
+  link: https://doi.org/gpkt3x
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medj.2021.12.003
+  title: JAK inhibition in a patient with a STAT1 gain-of-function variant reveals
+    STAT1 dysregulation as a common feature of aplastic anemia
+  authors:
+  - Jacob M. Rosenberg
+  - Joshua M. Peters
+  - Travis Hughes
+  - Caleb A. Lareau
+  - Leif S. Ludwig
+  - Lucas R. Massoth
+  - Christina Austin-Tse
+  - Heidi L. Rehm
+  - Bryan Bryson
+  - Yi-Bin Chen
+  - Aviv Regev
+  - Alex K. Shalek
+  - Sarah M. Fortune
+  - David B. Sykes
+  publisher: Med
+  date: '2022-01-01'
+  link: https://doi.org/gn46nq
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41591-022-01986-x
+  title: "Advancing T cell\u2013based cancer therapy with single-cell technologies"
+  authors:
+  - Samantha L. Bucktrout
+  - Nicholas E. Banovich
+  - Lisa H. Butterfield
+  - Cansu Cimen-Bozkus
+  - Josephine R. Giles
+  - Zinaida Good
+  - Daniel Goodman
+  - Vanessa D. Jonsson
+  - Caleb Lareau
+  - Alexander Marson
+  - Denna M. Maurer
+  - Paul V. Munson
+  - Mike Stubbington
+  - Sarah Taylor
+  - Abbey Cutchin
+  publisher: Nature Medicine
+  date: '2022-09-01'
+  link: https://doi.org/gr7b6b
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xgen.2022.100166
+  title: Functional inference of gene regulation using single-cell multi-omics
+  authors:
+  - Vinay K. Kartha
+  - Fabiana M. Duarte
+  - Yan Hu
+  - Sai Ma
+  - Jennifer G. Chew
+  - Caleb A. Lareau
+  - Andrew Earl
+  - Zach D. Burkett
+  - Andrew S. Kohlway
+  - Ronald Lebofsky
+  - Jason D. Buenrostro
+  publisher: Cell Genomics
+  date: '2022-09-01'
+  link: https://doi.org/gr7b6c
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-022-05089-y
+  title: "A ROR\u03B3t+ cell instructs gut microbiota-specific Treg cell differentiation"
+  authors:
+  - Ranit Kedmi
+  - Tariq A. Najar
+  - Kailin R. Mesa
+  - Allyssa Grayson
+  - Lina Kroehling
+  - Yuhan Hao
+  - Stephanie Hao
+  - Maria Pokrovskii
+  - Mo Xu
+  - Jhimmy Talbot
+  - Jiaxi Wang
+  - Joe Germino
+  - Caleb A. Lareau
+  - Ansuman T. Satpathy
+  - Mark S. Anderson
+  - Terri M. Laufer
+  - Iannis Aifantis
+  - Juliet M. Bartleson
+  - Paul M. Allen
+  - Helena Paidassi
+  - James M. Gardner
+  - Marlon Stoeckius
+  - Dan R. Littman
+  publisher: Nature
+  date: '2022-09-07'
+  link: https://doi.org/grj4wj
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/2159-8290.CD-21-1491
+  title: BAF Complex Maintains Glioma Stem Cells in Pediatric H3K27M Glioma
+  authors:
+  - Eshini Panditharatna
+  - Joana G. Marques
+  - Tingjian Wang
+  - Maria C. Trissal
+  - Ilon Liu
+  - Li Jiang
+  - Alexander Beck
+  - Andrew Groves
+  - Neekesh V. Dharia
+  - Deyao Li
+  - Samantha E. Hoffman
+  - Guillaume Kugener
+  - McKenzie L. Shaw
+  - Hafsa M. Mire
+  - Olivia A. Hack
+  - Joshua M. Dempster
+  - Caleb Lareau
+  - Lingling Dai
+  - Logan H. Sigua
+  - Michael A. Quezada
+  - Ann-Catherine J. Stanton
+  - Meghan Wyatt
+  - Zohra Kalani
+  - Amy Goodale
+  - Francisca Vazquez
+  - Federica Piccioni
+  - John G. Doench
+  - David E. Root
+  - Jamie N. Anastas
+  - Kristen L. Jones
+  - Amy Saur Conway
+  - Sylwia Stopka
+  - Michael S. Regan
+  - Yu Liang
+  - Hyuk-Soo Seo
+  - Kijun Song
+  - Puspalata Bashyal
+  - William P. Jerome
+  - Nathan D. Mathewson
+  - Sirano Dhe-Paganon
+  - "Mario L. Suv\xE0"
+  - Angel M. Carcaboso
+  - Cinzia Lavarino
+  - Jaume Mora
+  - Quang-De Nguyen
+  - Keith L. Ligon
+  - Yang Shi
+  - Sameer Agnihotri
+  - Nathalie Y.R. Agar
+  - Kimberly Stegmaier
+  - Charles D. Stiles
+  - Michelle Monje
+  - Todd R. Golub
+  - Jun Qi
+  - Mariella G. Filbin
+  publisher: Cancer Discovery
+  date: '2022-11-11'
+  link: https://doi.org/gr7b6d
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-021-04217-4
+  title: Spatial genomics enables multi-modal study of clonal heterogeneity in tissues
+  authors:
+  - Tongtong Zhao
+  - Zachary D. Chiang
+  - Julia W. Morriss
+  - Lindsay M. LaFave
+  - Evan M. Murray
+  - Isabella Del Priore
+  - Kevin Meli
+  - Caleb A. Lareau
+  - Naeem M. Nadaf
+  - Jilong Li
+  - Andrew S. Earl
+  - Evan Z. Macosko
+  - Tyler Jacks
+  - Jason D. Buenrostro
+  - Fei Chen
+  publisher: Nature
+  date: '2021-12-15'
+  link: https://doi.org/gn2kcb
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-021-27666-x
+  title: Functional dissection of inherited non-coding variation influencing multiple
+    myeloma risk
+  authors:
+  - Ram Ajore
+  - Abhishek Niroula
+  - Maroulio Pertesi
+  - Caterina Cafaro
+  - Malte Thodberg
+  - Molly Went
+  - Erik L. Bao
+  - Laura Duran-Lozano
+  - Aitzkoa Lopez de Lapuente Portilla
+  - Thorunn Olafsdottir
+  - Nerea Ugidos-Damboriena
+  - Olafur Magnusson
+  - Mehmet Samur
+  - Caleb A. Lareau
+  - Gisli H. Halldorsson
+  - Gudmar Thorleifsson
+  - Gudmundur L. Norddahl
+  - Kristbjorg Gunnarsdottir
+  - "Asta F\xF6rsti"
+  - Hartmut Goldschmidt
+  - Kari Hemminki
+  - Frits van Rhee
+  - Scott Kimber
+  - Adam S. Sperling
+  - Martin Kaiser
+  - Kenneth Anderson
+  - Ingileif Jonsdottir
+  - Nikhil Munshi
+  - Thorunn Rafnar
+  - Anders Waage
+  - Niels Weinhold
+  - Unnur Thorsteinsdottir
+  - Vijay G. Sankaran
+  - Kari Stefansson
+  - Richard Houlston
+  - "Bj\xF6rn Nilsson"
+  publisher: Nature Communications
+  date: '2022-01-10'
+  link: https://doi.org/gpkktt
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.11.09.373613
+  title: Multimodal single-cell chromatin analysis with Signac
+  authors:
+  - Tim Stuart
+  - Avi Srivastava
+  - Caleb Lareau
+  - Rahul Satija
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-11-10'
+  link: https://doi.org/ghk7v4
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-021-01065-5
+  title: Single-cell profiling of proteins and chromatin accessibility using PHAGE-ATAC
+  authors:
+  - Evgenij Fiskin
+  - Caleb A. Lareau
+  - Leif S. Ludwig
+  - "G\xF6kcen Eraslan"
+  - Feimei Liu
+  - Aaron M. Ring
+  - Ramnik J. Xavier
+  - Aviv Regev
+  publisher: Nature Biotechnology
+  date: '2021-10-21'
+  link: https://doi.org/grxcc7
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/sciimmunol.abh3768
+  title: "Integrated single-cell transcriptomics and epigenomics reveals strong germinal\
+    \ center\u2013associated etiology of autoimmune risk loci"
+  authors:
+  - Hamish W. King
+  - Kristen L. Wells
+  - Zohar Shipony
+  - Arwa S. Kathiria
+  - Lisa E. Wagar
+  - Caleb Lareau
+  - Nara Orban
+  - Robson Capasso
+  - Mark M. Davis
+  - Lars M. Steinmetz
+  - Louisa K. James
+  - William J. Greenleaf
+  publisher: Science Immunology
+  date: '2021-10-29'
+  link: https://doi.org/gr7b6f
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/2159-8290.CD-21-0276
+  title: Longitudinal Single-Cell Dynamics of Chromatin Accessibility and Mitochondrial
+    Mutations in Chronic Lymphocytic Leukemia Mirror Disease History
+  authors:
+  - Livius Penter
+  - Satyen H. Gohil
+  - Caleb Lareau
+  - Leif S. Ludwig
+  - Erin M. Parry
+  - Teddy Huang
+  - Shuqiang Li
+  - Wandi Zhang
+  - Dimitri Livitz
+  - Ignaty Leshchiner
+  - Laxmi Parida
+  - Gad Getz
+  - Laura Z. Rassenti
+  - Thomas J. Kipps
+  - Jennifer R. Brown
+  - Matthew S. Davids
+  - Donna S. Neuberg
+  - Kenneth J. Livak
+  - Vijay G. Sankaran
+  - Catherine J. Wu
+  publisher: Cancer Discovery
+  date: '2021-12-01'
+  link: https://doi.org/gkjb9d
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.immuni.2021.04.005
+  title: "Distinct Foxp3 enhancer elements coordinate development, maintenance, and\
+    \ function of regulatory T\_cells"
+  authors:
+  - Ryoji Kawakami
+  - Yohko Kitagawa
+  - Kelvin Y. Chen
+  - Masaya Arai
+  - Daiya Ohara
+  - Yamami Nakamura
+  - Keiko Yasuda
+  - Motonao Osaki
+  - Norihisa Mikami
+  - Caleb A. Lareau
+  - Hitomi Watanabe
+  - Gen Kondoh
+  - Keiji Hirota
+  - Naganari Ohkura
+  - Shimon Sakaguchi
+  publisher: Immunity
+  date: '2021-05-01'
+  link: https://doi.org/gpwr4n
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ccell.2021.05.007
+  title: STAG2 loss rewires oncogenic and developmental programs to promote metastasis
+    in Ewing sarcoma
+  authors:
+  - Biniam Adane
+  - Gabriela Alexe
+  - Bo Kyung A. Seong
+  - Diana Lu
+  - Elizabeth E. Hwang
+  - Denes Hnisz
+  - Caleb A. Lareau
+  - Linda Ross
+  - Shan Lin
+  - Filemon S. Dela Cruz
+  - Melissa Richardson
+  - Abraham S. Weintraub
+  - Sarah Wang
+  - Amanda Balboni Iniguez
+  - Neekesh V. Dharia
+  - Amy Saur Conway
+  - Amanda L. Robichaud
+  - Benjamin Tanenbaum
+  - John M. Krill-Burger
+  - Francisca Vazquez
+  - Monica Schenone
+  - Jason N. Berman
+  - Andrew L. Kung
+  - Steven A. Carr
+  - Martin J. Aryee
+  - Richard A. Young
+  - Brian D. Crompton
+  - Kimberly Stegmaier
+  publisher: Cancer Cell
+  date: '2021-06-01'
+  link: https://doi.org/gk5zhf
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2020.09.056
+  title: Chromatin Potential Identified by Shared Single-Cell Profiling of RNA and
+    Chromatin
+  authors:
+  - Sai Ma
+  - Bing Zhang
+  - Lindsay M. LaFave
+  - Andrew S. Earl
+  - Zachary Chiang
+  - Yan Hu
+  - Jiarui Ding
+  - Alison Brack
+  - Vinay K. Kartha
+  - Tristan Tay
+  - Travis Law
+  - Caleb Lareau
+  - Ya-Chieh Hsu
+  - Aviv Regev
+  - Jason D. Buenrostro
+  publisher: Cell
+  date: '2020-11-01'
+  link: https://doi.org/ghgmw4
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-020-2786-7
+  title: Inherited myeloproliferative neoplasm risk affects haematopoietic stem cells
+  authors:
+  - Erik L. Bao
+  - Satish K. Nandakumar
+  - Xiaotian Liao
+  - Alexander G. Bick
+  - Juha Karjalainen
+  - Marcin Tabaka
+  - Olga I. Gan
+  - Aki S. Havulinna
+  - Tuomo T. J. Kiiskinen
+  - Caleb A. Lareau
+  - Aitzkoa L. de Lapuente Portilla
+  - Bo Li
+  - Connor Emdin
+  - Veryan Codd
+  - Christopher P. Nelson
+  - Christopher J. Walker
+  - Claire Churchhouse
+  - Albert de la Chapelle
+  - Daryl E. Klein
+  - "Bj\xF6rn Nilsson"
+  - Peter W. F. Wilson
+  - Kelly Cho
+  - Saiju Pyarajan
+  - J. Michael Gaziano
+  - Nilesh J. Samani
+  - Aarno Palotie
+  - Mark Daly
+  - Howard Jacob
+  - Athena Matakidou
+  - Heiko Runz
+  - Sally John
+  - Robert Plenge
+  - Mark McCarthy
+  - Julie Hunkapiller
+  - Meg Ehm
+  - Dawn Waterworth
+  - Caroline Fox
+  - Anders Malarstig
+  - Kathy Klinger
+  - Kathy Call
+  - "Tomi M\xE4kel\xE4"
+  - Jaakko Kaprio
+  - Petri Virolainen
+  - Kari Pulkki
+  - Terhi Kilpi
+  - Markus Perola
+  - Jukka Partanen
+  - "Anne Pitk\xE4ranta"
+  - Riitta Kaarteenaho
+  - Seppo Vainio
+  - Kimmo Savinainen
+  - Veli-Matti Kosma
+  - Urho Kujala
+  - Outi Tuovila
+  - Minna Hendolin
+  - Raimo Pakkanen
+  - Jeff Waring
+  - Bridget Riley-Gillis
+  - Athena Matakidou
+  - Heiko Runz
+  - Jimmy Liu
+  - Shameek Biswas
+  - Julie Hunkapiller
+  - Dawn Waterworth
+  - Meg Ehm
+  - Dorothee Diogo
+  - Caroline Fox
+  - Anders Malarstig
+  - Catherine Marshall
+  - Xinli Hu
+  - Kathy Call
+  - Kathy Klinger
+  - Matthias Gossel
+  - Samuli Ripatti
+  - Johanna Schleutker
+  - Markus Perola
+  - Mikko Arvas
+  - "Olli Carp\xE9n"
+  - Reetta Hinttala
+  - Johannes Kettunen
+  - Reijo Laaksonen
+  - Arto Mannermaa
+  - Urho Kujala
+  - Outi Tuovila
+  - Minna Hendolin
+  - Raimo Pakkanen
+  - Hilkka Soininen
+  - Valtteri Julkunen
+  - Anne Remes
+  - "Reetta K\xE4lvi\xE4inen"
+  - Mikko Hiltunen
+  - Jukka Peltola
+  - Pentti Tienari
+  - Juha Rinne
+  - Adam Ziemann
+  - Jeffrey Waring
+  - Sahar Esmaeeli
+  - Nizar Smaoui
+  - Anne Lehtonen
+  - Susan Eaton
+  - Heiko Runz
+  - "Sanni Lahdenper\xE4"
+  - Janet van Adelsberg
+  - Shameek Biswas
+  - John Michon
+  - Geoff Kerchner
+  - Julie Hunkapiller
+  - Natalie Bowers
+  - Edmond Teng
+  - John Eicher
+  - Vinay Mehta
+  - Padhraig Gormley
+  - Kari Linden
+  - Christopher Whelan
+  - Fanli Xu
+  - David Pulford
+  - "Martti F\xE4rkkil\xE4"
+  - Sampsa Pikkarainen
+  - Airi Jussila
+  - Timo Blomster
+  - Mikko Kiviniemi
+  - Markku Voutilainen
+  - Bob Georgantas
+  - Graham Heap
+  - Jeffrey Waring
+  - Nizar Smaoui
+  - Fedik Rahimov
+  - Anne Lehtonen
+  - Keith Usiskin
+  - Joseph Maranville
+  - Tim Lu
+  - Natalie Bowers
+  - Danny Oh
+  - John Michon
+  - Vinay Mehta
+  - Kirsi Kalpala
+  - Melissa Miller
+  - Xinli Hu
+  - Linda McCarthy
+  - Kari Eklund
+  - "Antti Palom\xE4ki"
+  - "Pia Isom\xE4ki"
+  - "Laura Piril\xE4"
+  - "Oili Kaipiainen-Sepp\xE4nen"
+  - Johanna Huhtakangas
+  - Bob Georgantas
+  - Jeffrey Waring
+  - Fedik Rahimov
+  - Apinya Lertratanakul
+  - Nizar Smaoui
+  - Anne Lehtonen
+  - David Close
+  - Marla Hochfeld
+  - Natalie Bowers
+  - John Michon
+  - Dorothee Diogo
+  - Vinay Mehta
+  - Kirsi Kalpala
+  - Nan Bing
+  - Xinli Hu
+  - Jorge Esparza Gordillo
+  - Nina Mars
+  - Tarja Laitinen
+  - Margit Pelkonen
+  - Paula Kauppi
+  - Hannu Kankaanranta
+  - Terttu Harju
+  - Nizar Smaoui
+  - David Close
+  - Steven Greenberg
+  - Hubert Chen
+  - Natalie Bowers
+  - John Michon
+  - Vinay Mehta
+  - Jo Betts
+  - Soumitra Ghosh
+  - Veikko Salomaa
+  - Teemu Niiranen
+  - Markus Juonala
+  - "Kaj Mets\xE4rinne"
+  - "Mika K\xE4h\xF6nen"
+  - Juhani Junttila
+  - Markku Laakso
+  - "Jussi Pihlajam\xE4ki"
+  - Juha Sinisalo
+  - Marja-Riitta Taskinen
+  - Tiinamaija Tuomi
+  - Jari Laukkanen
+  - Ben Challis
+  - Andrew Peterson
+  - Julie Hunkapiller
+  - Natalie Bowers
+  - John Michon
+  - Dorothee Diogo
+  - Audrey Chu
+  - Vinay Mehta
+  - Jaakko Parkkinen
+  - Melissa Miller
+  - Anthony Muslin
+  - Dawn Waterworth
+  - Heikki Joensuu
+  - Tuomo Meretoja
+  - "Olli Carp\xE9n"
+  - Lauri Aaltonen
+  - Annika Auranen
+  - Peeter Karihtala
+  - Saila Kauppila
+  - "P\xE4ivi Auvinen"
+  - Klaus Elenius
+  - Relja Popovic
+  - Jeffrey Waring
+  - Bridget Riley-Gillis
+  - Anne Lehtonen
+  - Athena Matakidou
+  - Jennifer Schutzman
+  - Julie Hunkapiller
+  - Natalie Bowers
+  - John Michon
+  - Vinay Mehta
+  - Andrey Loboda
+  - Aparna Chhibber
+  - Heli Lehtonen
+  - Stefan McDonough
+  - Marika Crohns
+  - Diptee Kulkarni
+  - Kai Kaarniranta
+  - Joni Turunen
+  - Terhi Ollila
+  - Sanna Seitsonen
+  - Hannu Uusitalo
+  - Vesa Aaltonen
+  - "Hannele Uusitalo-J\xE4rvinen"
+  - "Marja Luodonp\xE4\xE4"
+  - Nina Hautala
+  - Heiko Runz
+  - Erich Strauss
+  - Natalie Bowers
+  - Hao Chen
+  - John Michon
+  - Anna Podgornaia
+  - Vinay Mehta
+  - Dorothee Diogo
+  - Joshua Hoffman
+  - Kaisa Tasanen
+  - Laura Huilaja
+  - Katariina Hannula-Jouppi
+  - Teea Salmi
+  - Sirkku Peltonen
+  - Leena Koulu
+  - Ilkka Harvima
+  - Kirsi Kalpala
+  - Ying Wu
+  - David Choy
+  - John Michon
+  - Nizar Smaoui
+  - Fedik Rahimov
+  - Anne Lehtonen
+  - Dawn Waterworth
+  - Justin Wade Davis
+  - Bridget Riley-Gillis
+  - Danjuma Quarless
+  - "Slav\xE9 Petrovski"
+  - Jimmy Liu
+  - Chia-Yen Chen
+  - Paola Bronson
+  - Robert Yang
+  - Joseph Maranville
+  - Shameek Biswas
+  - Diana Chang
+  - Julie Hunkapiller
+  - Tushar Bhangale
+  - Natalie Bowers
+  - Dorothee Diogo
+  - Emily Holzinger
+  - Padhraig Gormley
+  - Xulong Wang
+  - Xing Chen
+  - "\xC5sa Hedman"
+  - Kirsi Auro
+  - Clarence Wang
+  - Ethan Xu
+  - Franck Auge
+  - Clement Chatelain
+  - Mitja Kurki
+  - Samuli Ripatti
+  - Mark Daly
+  - Juha Karjalainen
+  - Aki Havulinna
+  - Anu Jalanko
+  - Kimmo Palin
+  - Priit Palta
+  - Pietro della Briotta Parolo
+  - Wei Zhou
+  - "Susanna Lemmel\xE4"
+  - Manuel Rivas
+  - Jarmo Harju
+  - Aarno Palotie
+  - Arto Lehisto
+  - Andrea Ganna
+  - Vincent Llorens
+  - Antti Karlsson
+  - Kati Kristiansson
+  - Mikko Arvas
+  - "Kati Hyv\xE4rinen"
+  - Jarmo Ritari
+  - Tiina Wahlfors
+  - Miika Koskinen
+  - "Olli Carp\xE9n"
+  - Johannes Kettunen
+  - "Katri Pylk\xE4s"
+  - Marita Kalaoja
+  - Minna Karjalainen
+  - Tuomo Mantere
+  - Eeva Kangasniemi
+  - Sami Heikkinen
+  - Arto Mannermaa
+  - Eija Laakkonen
+  - Juha Kononen
+  - Lila Kallio
+  - Sirpa Soini
+  - Jukka Partanen
+  - "Kimmo Pitk\xE4nen"
+  - Seppo Vainio
+  - Kimmo Savinainen
+  - Veli-Matti Kosma
+  - Teijo Kuopio
+  - Anu Jalanko
+  - Risto Kajanne
+  - Ulrike Lyhs
+  - Mitja Kurki
+  - Juha Karjalainen
+  - Pietro della Briotta Parola
+  - "Sina R\xFCeger"
+  - "Arto Lehist\xF6"
+  - Wei Zhou
+  - Masahiro Kanai
+  - Hannele Laivuori
+  - Aki Havulinna
+  - "Susanna Lemmel\xE4"
+  - Tuomo Kiiskinen
+  - Mari Kaunisto
+  - Jarmo Harju
+  - "Elina Kilpel\xE4inen"
+  - "Timo P. Sipil\xE4"
+  - Georg Brein
+  - Oluwaseun A. Dada
+  - Ghazal Awaisa
+  - Anastasia Shcherban
+  - "Tuomas Sipil\xE4"
+  - Kati Donner
+  - Anu Loukola
+  - "P\xE4ivi Laiho"
+  - Tuuli Sistonen
+  - Essi Kaiharju
+  - Markku Laukkanen
+  - "Elina J\xE4rvensivu"
+  - "Sini L\xE4hteenm\xE4ki"
+  - "Lotta M\xE4nnikk\xF6"
+  - Regis Wong
+  - Hannele Mattsson
+  - Kati Kristiansson
+  - "Susanna Lemmel\xE4"
+  - Tero Hiekkalinna
+  - "Manuel Gonz\xE1lez Jim\xE9nez"
+  - Priit Palta
+  - "Kalle P\xE4rn"
+  - Javier Nunez-Fontarnau
+  - Tarja Laitinen
+  - Harri Siirtola
+  - Javier Gracia Tabuenca
+  - Michelle Agee
+  - Babak Alipanahi
+  - Adam Auton
+  - Robert K. Bell
+  - Katarzyna Bryc
+  - Sarah L. Elson
+  - Pierre Fontanillas
+  - Nicholas A. Furlotte
+  - David A. Hinds
+  - Karen E. Huber
+  - Aaron Kleinman
+  - Nadia K. Litterman
+  - Jennifer C. McCreight
+  - Matthew H. McIntyre
+  - Joanna L. Mountain
+  - Elizabeth S. Noblin
+  - Carrie A.M. Northover
+  - Steven J. Pitts
+  - J. Fah Sathirapongsasuti
+  - Olga V. Sazonova
+  - Janie F. Shelton
+  - Suyash Shringarpure
+  - Chao Tian
+  - Joyce Y. Tung
+  - Vladimir Vacic
+  - Catherine H. Wilson
+  - Aviv Regev
+  - Aarno Palotie
+  - Benjamin M. Neale
+  - John E. Dick
+  - Pradeep Natarajan
+  - "Christopher J. O\u2019Donnell"
+  - Mark J. Daly
+  - Michael Milyavsky
+  - Sekar Kathiresan
+  - Vijay G. Sankaran
+  publisher: Nature
+  date: '2020-10-14'
+  link: https://doi.org/gjdn8w
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2020.06.045
+  title: Trans-ethnic and Ancestry-Specific Blood-Cell Genetics in 746,667 Individuals
+    from 5 Global Populations
+  authors:
+  - Ming-Huei Chen
+  - Laura M. Raffield
+  - Abdou Mousas
+  - Saori Sakaue
+  - Jennifer E. Huffman
+  - Arden Moscati
+  - Bhavi Trivedi
+  - Tao Jiang
+  - Parsa Akbari
+  - Dragana Vuckovic
+  - Erik L. Bao
+  - Xue Zhong
+  - Regina Manansala
+  - "V\xE9ronique Laplante"
+  - Minhui Chen
+  - Ken Sin Lo
+  - Huijun Qian
+  - Caleb A. Lareau
+  - "M\xE9lissa Beaudoin"
+  - Karen A. Hunt
+  - Masato Akiyama
+  - Traci M. Bartz
+  - Yoav Ben-Shlomo
+  - Andrew Beswick
+  - Jette Bork-Jensen
+  - Erwin P. Bottinger
+  - Jennifer A. Brody
+  - Frank J.A. van Rooij
+  - Kumaraswamynaidu Chitrala
+  - Kelly Cho
+  - "H\xE9l\xE8ne Choquet"
+  - Adolfo Correa
+  - John Danesh
+  - Emanuele Di Angelantonio
+  - Niki Dimou
+  - Jingzhong Ding
+  - Paul Elliott
+  - "T\xF5nu Esko"
+  - Michele K. Evans
+  - James S. Floyd
+  - Linda Broer
+  - Niels Grarup
+  - Michael H. Guo
+  - Andreas Greinacher
+  - Jeff Haessler
+  - Torben Hansen
+  - Joanna M.M. Howson
+  - Qin Qin Huang
+  - Wei Huang
+  - Eric Jorgenson
+  - Tim Kacprowski
+  - "Mika K\xE4h\xF6nen"
+  - Yoichiro Kamatani
+  - Masahiro Kanai
+  - Savita Karthikeyan
+  - Fotis Koskeridis
+  - Leslie A. Lange
+  - "Terho Lehtim\xE4ki"
+  - Markus M. Lerch
+  - Allan Linneberg
+  - Yongmei Liu
+  - "Leo-Pekka Lyytik\xE4inen"
+  - Ani Manichaikul
+  - Hilary C. Martin
+  - Koichi Matsuda
+  - Karen L. Mohlke
+  - Nina Mononen
+  - Yoshinori Murakami
+  - Girish N. Nadkarni
+  - Matthias Nauck
+  - Kjell Nikus
+  - Willem H. Ouwehand
+  - Nathan Pankratz
+  - Oluf Pedersen
+  - Michael Preuss
+  - Bruce M. Psaty
+  - Olli T. Raitakari
+  - David J. Roberts
+  - Stephen S. Rich
+  - Benjamin A.T. Rodriguez
+  - Jonathan D. Rosen
+  - Jerome I. Rotter
+  - Petra Schubert
+  - Cassandra N. Spracklen
+  - Praveen Surendran
+  - Hua Tang
+  - Jean-Claude Tardif
+  - Richard C. Trembath
+  - Mohsen Ghanbari
+  - "Uwe V\xF6lker"
+  - "Henry V\xF6lzke"
+  - Nicholas A. Watkins
+  - Alan B. Zonderman
+  - Peter W.F. Wilson
+  - Yun Li
+  - Adam S. Butterworth
+  - "Jean-Fran\xE7ois Gauchat"
+  - Charleston W.K. Chiang
+  - Bingshan Li
+  - Ruth J.F. Loos
+  - William J. Astle
+  - Evangelos Evangelou
+  - David A. van Heel
+  - Vijay G. Sankaran
+  - Yukinori Okada
+  - Nicole Soranzo
+  - Andrew D. Johnson
+  - Alexander P. Reiner
+  - Paul L. Auer
+  - Guillaume Lettre
+  publisher: Cell
+  date: '2020-09-01'
+  link: https://doi.org/gjnz6f
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2020.07.030
+  title: Large-Scale Topological Changes Restrain Malignant Progression in Colorectal
+    Cancer
+  authors:
+  - Sarah E. Johnstone
+  - Alejandro Reyes
+  - Yifeng Qi
+  - Carmen Adriaens
+  - Esmat Hegazi
+  - Karin Pelka
+  - Jonathan H. Chen
+  - Luli S. Zou
+  - Yotam Drier
+  - Vivian Hecht
+  - Noam Shoresh
+  - Martin K. Selig
+  - Caleb A. Lareau
+  - Sowmya Iyer
+  - Son C. Nguyen
+  - Eric F. Joyce
+  - Nir Hacohen
+  - Rafael A. Irizarry
+  - Bin Zhang
+  - Martin J. Aryee
+  - Bradley E. Bernstein
+  publisher: Cell
+  date: '2020-09-01'
+  link: https://doi.org/gg89cx
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fimmu.2020.567342
+  title: Single Cell Transcriptomics Implicate Novel Monocyte and T Cell Immune Dysregulation
+    in Sarcoidosis
+  authors:
+  - Lori Garman
+  - Richard C. Pelikan
+  - Astrid Rasmussen
+  - Caleb A. Lareau
+  - Kathryn A. Savoy
+  - Umesh S. Deshmukh
+  - Harini Bagavant
+  - Albert M. Levin
+  - Salim Daouk
+  - Wonder P. Drake
+  - Courtney G. Montgomery
+  publisher: Frontiers in Immunology
+  date: '2020-12-08'
+  link: https://doi.org/gqxmcr
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-020-0535-y
+  title: A dual-deaminase CRISPR base editor enables concurrent adenine and cytosine
+    editing
+  authors:
+  - "Julian Gr\xFCnewald"
+  - Ronghao Zhou
+  - Caleb A. Lareau
+  - Sara P. Garcia
+  - Sowmya Iyer
+  - Bret R. Miller
+  - Lukas M. Langner
+  - Jonathan Y. Hsu
+  - Martin J. Aryee
+  - J. Keith Joung
+  publisher: Nature Biotechnology
+  date: '2020-06-01'
+  link: https://doi.org/ggzxzm
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ccell.2020.06.006
+  title: Epigenomic State Transitions Characterize Tumor Progression in Mouse Lung
+    Adenocarcinoma
+  authors:
+  - Lindsay M. LaFave
+  - Vinay K. Kartha
+  - Sai Ma
+  - Kevin Meli
+  - Isabella Del Priore
+  - Caleb Lareau
+  - Santiago Naranjo
+  - Peter M.K. Westcott
+  - Fabiana M. Duarte
+  - Venkat Sankar
+  - Zachary Chiang
+  - Alison Brack
+  - Travis Law
+  - Haley Hauck
+  - Annalisa Okimoto
+  - Aviv Regev
+  - Jason D. Buenrostro
+  - Tyler Jacks
+  publisher: Cancer Cell
+  date: '2020-08-01'
+  link: https://doi.org/gg69zn
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-019-0568-7
+  title: Control of human hemoglobin switching by LIN28B-mediated regulation of BCL11A
+    translation
+  authors:
+  - Anindita Basak
+  - Mathias Munschauer
+  - Caleb A. Lareau
+  - Kara E. Montbleau
+  - Jacob C. Ulirsch
+  - Christina R. Hartigan
+  - Monica Schenone
+  - John Lian
+  - Yaomei Wang
+  - Yumin Huang
+  - Xianfang Wu
+  - Lee Gehrke
+  - Charles M. Rice
+  - Xiuli An
+  - Helen A. Christou
+  - Narla Mohandas
+  - Steven A. Carr
+  - Jane-Jane Chen
+  - Stuart H. Orkin
+  - Eric S. Lander
+  - Vijay G. Sankaran
+  publisher: Nature Genetics
+  date: '2020-01-20'
+  link: https://doi.org/gr7b6h
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-020-15022-4
+  title: Prioritizing disease and trait causal variants at the TNFAIP3 locus using
+    functional and genomic features
+  authors:
+  - John P. Ray
+  - Carl G. de Boer
+  - Charles P. Fulco
+  - Caleb A. Lareau
+  - Masahiro Kanai
+  - Jacob C. Ulirsch
+  - Ryan Tewhey
+  - Leif S. Ludwig
+  - Steven K. Reilly
+  - Drew T. Bergman
+  - Jesse M. Engreitz
+  - Robbyn Issner
+  - Hilary K. Finucane
+  - Eric S. Lander
+  - Aviv Regev
+  - Nir Hacohen
+  publisher: Nature Communications
+  date: '2020-03-06'
+  link: https://doi.org/gg89c7
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41590-020-0687-4
+  title: ImmGen at 15
+  authors:
+  - Stephanie Vargas Aguilar
+  - Oscar Aguilar
+  - Rhys Allan
+  - El Ad David Amir
+  - Veronique Angeli
+  - Maxim N. Artyomov
+  - Natasha Asinovski
+  - Jilian Astarita
+  - K. Frank Austen
+  - Geetika Bajpai
+  - Nora Barrett
+  - Alev Baysoy
+  - Christophe Benoist
+  - Angelique Bellemare-Pelletier
+  - Brad Berg
+  - Adam Best
+  - Natalie Bezman
+  - David Blair
+  - Julie M. Blander
+  - Milena Bogunovic
+  - Patrick Brennan
+  - Michael Brenner
+  - Brian Brown
+  - Matthew Buechler
+  - Jason Buenrostro
+  - Maria Acebes Casanova
+  - Kyunghee Choi
+  - Andrew Chow
+  - Aleksey Chudnovskiy
+  - Daniela Cipoletta
+  - Nadia Cohen
+  - James J. Collins
+  - Marco Colonna
+  - Alison Cook
+  - James Costello
+  - Viviana Cremasco
+  - Ty Crowl
+  - Karine Crozat
+  - Richard Cruse
+  - "June D\u2019Angelo"
+  - Marc Dalod
+  - Scott Davis
+  - Cagatay Demiralp
+  - Tianda Deng
+  - Jigar V. Desai
+  - Fiona Desland
+  - Maxime Dhainaut
+  - Jiarui Ding
+  - Andrew Doedens
+  - Claudia Dominguez
+  - Graeme Doran
+  - Regine Dress
+  - Michael Dustin
+  - Daniel Dwyer
+  - Ivan Dzhagalov
+  - Kutlu Elpek
+  - Ayla Ergun
+  - Jeff Ericson
+  - Eunice Esomonu
+  - Keke Fairfax
+  - Anne Fletcher
+  - Michela Frascoli
+  - Anja Fuchs
+  - Anastasiia Gainullina
+  - Shani Gal-Oz
+  - Michael Gallagher
+  - Emmanuel Gautier
+  - Roi Gazit
+  - Sophie Gibbings
+  - Matthieu Giraud
+  - Florent Ginhoux
+  - Ananda Goldrath
+  - Dagmar Gotthardt
+  - Daniel Gray
+  - Melanie Greter
+  - Ricardo Grieshaber-Bouyer
+  - Martin Guilliams
+  - Sara Haidermota
+  - Randy Hardy
+  - Daigo Hashimoto
+  - Julie Helft
+  - Deborah Hendricks
+  - Tracy Heng
+  - Jonathan Hill
+  - Gordon Hyatt
+  - Juliana Idoyaga
+  - Claudia Jakubzick
+  - Jessica Jarjoura
+  - Daniel Jepson
+  - Baosen Jia
+  - Radu Jianu
+  - Tim Johanson
+  - Stefan Jordan
+  - Vladimir Jojic
+  - Stefan Jordan
+  - Yosuke Kamimura
+  - Veronica Kana
+  - Joonsoo Kang
+  - Varun Kapoor
+  - Ephriam Kenigsberg
+  - Andrew Kent
+  - Charles Kim
+  - Edy Kim
+  - Francis Kim
+  - Joel Kim
+  - Kiwook Kim
+  - Evgeny Kiner
+  - Jamie Knell
+  - Daphne Koller
+  - Larry Kozinn
+  - Karen Krchma
+  - Taras Kreslavsky
+  - Mitchell Kronenberg
+  - Wing-Hong Kwan
+  - David Laidlaw
+  - Viola Lam
+  - Lewis Lanier
+  - Catherine Laplace
+  - Caleb Lareau
+  - Yonit Lavin
+  - Kory J. Lavine
+  - Andrew Leader
+  - Marylene Leboeuf
+  - Jacob Lee
+  - Jisu Lee
+  - Bo Li
+  - Hu Li
+  - Yuesheng Li
+  - Michail S. Lionakis
+  - Herve Luche
+  - Lydia Lynch
+  - Assaf Magen
+  - Barbara Maier
+  - Deepali Malhotra
+  - Nidhi Malhotra
+  - Marie Malissen
+  - Alexandra Maslova
+  - Diane Mathis
+  - Adelle McFarland
+  - Miriam Merad
+  - Etienne Meunier
+  - Jennifer Miller
+  - Justin Milner
+  - Michael Mingueneau
+  - Gundula Min-Oo
+  - Paul Monach
+  - Devapregasan Moodley
+  - Arthur Mortha
+  - Maelig Morvan
+  - Sara Mostafavi
+  - Soren Muller
+  - Christoph Muus
+  - Tsukasa Nabekura
+  - Tata Nageswara Rao
+  - Vipin Narang
+  - Kavitha Narayan
+  - Hadas Ner-Gaon
+  - Quyhn Nguyen
+  - Peter A. Nigrovic
+  - German Novakovsky
+  - Stephan Nutt
+  - Kayla Omilusik
+  - Adriana Ortiz-Lopez
+  - Helena Paidassi
+  - Henry Paik
+  - Michio Painter
+  - Mallory Paynich
+  - Vincent Peng
+  - Marc Potempa
+  - Rachana Pradhan
+  - Jeremy Price
+  - Yilin Qi
+  - Yiqing Qi
+  - Sara Quon
+  - Ricardo Ramirez
+  - Deepshika Ramanan
+  - Gwendalyn Randolph
+  - Aviv Regev
+  - Andrew Rhoads
+  - Michelle Robinette
+  - Samuel Rose
+  - Derrick Rossi
+  - Katie Rothamel
+  - Ravi Sachidanandam
+  - Priyanka Sathe
+  - Charlotte Scott
+  - Kumba Seddu
+  - Peter See
+  - Alexey Sergushichev
+  - Laura Shaw
+  - Tal Shay
+  - Avishai Shemesh
+  - Susan Shinton
+  - Justin Shyer
+  - Michael Sieweke
+  - Chris Smillie
+  - Lotte Spel
+  - Nick Spidale
+  - Giuseppina Stifano
+  - Ayshwarya Subramanian
+  - Joseph Sun
+  - Katelyn Sylvia
+  - Julie Tellier
+  - "S\xE9bastien This"
+  - Elena Tomasello
+  - Helena Todorov
+  - Shannon Turley
+  - Brinda Vijaykumar
+  - Amy Wagers
+  - Ei Wakamatsu
+  - Chendi Wang
+  - Peter L. Wang
+  - Aleksandra Wroblewska
+  - Jun Wu
+  - Edward Yang
+  - Liang Yang
+  - Aldrin Yim
+  - Lim Sheau Yng
+  - Hideyuki Yoshida
+  - Bingfei Yu
+  - Yan Zhou
+  - Yanan Zhu
+  - Caroline Ziemkiewicz
+  publisher: Nature Immunology
+  date: '2020-06-23'
+  link: https://doi.org/gr7b6j
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2018.12.036
+  title: The cis-Regulatory Atlas of the Mouse Immune System
+  authors:
+  - Hideyuki Yoshida
+  - Caleb A. Lareau
+  - Ricardo N. Ramirez
+  - Samuel A. Rose
+  - Barbara Maier
+  - Aleksandra Wroblewska
+  - Fiona Desland
+  - Aleksey Chudnovskiy
+  - Arthur Mortha
+  - Claudia Dominguez
+  - Julie Tellier
+  - Edy Kim
+  - Dan Dwyer
+  - Susan Shinton
+  - Tsukasa Nabekura
+  - YiLin Qi
+  - Bingfei Yu
+  - Michelle Robinette
+  - Ki-Wook Kim
+  - Amy Wagers
+  - Andrew Rhoads
+  - Stephen L. Nutt
+  - Brian D. Brown
+  - Sara Mostafavi
+  - Jason D. Buenrostro
+  - Christophe Benoist
+  publisher: Cell
+  date: '2019-02-01'
+  link: https://doi.org/gfttvp
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-019-1161-z
+  title: Transcriptome-wide off-target RNA editing induced by CRISPR-guided DNA base
+    editors
+  authors:
+  - "Julian Gr\xFCnewald"
+  - Ronghao Zhou
+  - Sara P. Garcia
+  - Sowmya Iyer
+  - Caleb A. Lareau
+  - Martin J. Aryee
+  - J. Keith Joung
+  publisher: Nature
+  date: '2019-04-17'
+  link: https://doi.org/gfzk4z
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-019-1854-5
+  title: Assessment of computational methods for the analysis of single-cell ATAC-seq
+    data
+  authors:
+  - Huidong Chen
+  - Caleb Lareau
+  - Tommaso Andreani
+  - Michael E. Vinyard
+  - Sara P. Garcia
+  - Kendell Clement
+  - Miguel A. Andrade-Navarro
+  - Jason D. Buenrostro
+  - Luca Pinello
+  publisher: Genome Biology
+  date: '2019-11-18'
+  link: https://doi.org/ggdk3f
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-019-09670-4
+  title: Single-cell trajectories reconstruction, exploration and mapping of omics
+    data with STREAM
+  authors:
+  - Huidong Chen
+  - Luca Albergante
+  - Jonathan Y. Hsu
+  - Caleb A. Lareau
+  - "Giosu\xE8 Lo Bosco"
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Alexander N. Gorban
+  - Daniel E. Bauer
+  - Martin J. Aryee
+  - David M. Langenau
+  - Andrei Zinovyev
+  - Jason D. Buenrostro
+  - Guo-Cheng Yuan
+  - Luca Pinello
+  publisher: Nature Communications
+  date: '2019-04-23'
+  link: https://doi.org/ggbt8j
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-019-0236-6
+  title: CRISPR DNA base editors with reduced RNA off-target and self-editing activities
+  authors:
+  - "Julian Gr\xFCnewald"
+  - Ronghao Zhou
+  - Sowmya Iyer
+  - Caleb A. Lareau
+  - Sara P. Garcia
+  - Martin J. Aryee
+  - J. Keith Joung
+  publisher: Nature Biotechnology
+  date: '2019-09-01'
+  link: https://doi.org/gmpdbz
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-019-0538-0
+  title: "Activity-by-contact model of enhancer\u2013promoter regulation from thousands\
+    \ of CRISPR perturbations"
+  authors:
+  - Charles P. Fulco
+  - Joseph Nasser
+  - Thouis R. Jones
+  - Glen Munson
+  - Drew T. Bergman
+  - Vidya Subramanian
+  - Sharon R. Grossman
+  - Rockwell Anyoha
+  - Benjamin R. Doughty
+  - Tejal A. Patwardhan
+  - Tung H. Nguyen
+  - Michael Kane
+  - Elizabeth M. Perez
+  - Neva C. Durand
+  - Caleb A. Lareau
+  - Elena K. Stamenova
+  - Erez Lieberman Aiden
+  - Eric S. Lander
+  - Jesse M. Engreitz
+  publisher: Nature Genetics
+  date: '2019-11-29'
+  link: https://doi.org/ggffzx
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.44080
+  title: Gene-centric functional dissection of human genetic variation uncovers regulators
+    of hematopoiesis
+  authors:
+  - Satish K Nandakumar
+  - Sean K McFarland
+  - Laura M Mateyka
+  - Caleb A Lareau
+  - Jacob C Ulirsch
+  - Leif S Ludwig
+  - Gaurav Agarwal
+  - Jesse M Engreitz
+  - Bartlomiej Przychodzen
+  - Marie McConkey
+  - Glenn S Cowley
+  - John G Doench
+  - Jaroslaw P Maciejewski
+  - Benjamin L Ebert
+  - David E Root
+  - Vijay G Sankaran
+  publisher: eLife
+  date: '2019-05-09'
+  link: https://doi.org/ggbvp7
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-019-0363-5
+  title: "The ATPase module of mammalian SWI/SNF family complexes mediates subcomplex\
+    \ identity and catalytic activity\u2013independent genomic targeting"
+  authors:
+  - Joshua Pan
+  - Zachary M. McKenzie
+  - "Andrew R. D\u2019Avino"
+  - Nazar Mashtalir
+  - Caleb A. Lareau
+  - Roodolph St. Pierre
+  - Lu Wang
+  - Ali Shilatifard
+  - Cigall Kadoch
+  publisher: Nature Genetics
+  date: '2019-03-11'
+  link: https://doi.org/gfwt9x
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1084/jem.20181625
+  title: Impaired human hematopoiesis due to a cryptic intronic GATA1 splicing mutation
+  authors:
+  - Nour J. Abdulhay
+  - Claudia Fiorini
+  - Jeffrey M. Verboon
+  - Leif S. Ludwig
+  - Jacob C. Ulirsch
+  - Barbara Zieger
+  - Caleb A. Lareau
+  - Xiaoli Mi
+  - Anindita Roy
+  - Esther A. Obeng
+  - Miriam Erlacher
+  - Namrata Gupta
+  - Stacey B. Gabriel
+  - Benjamin L. Ebert
+  - Charlotte M. Niemeyer
+  - Rami N. Khoriaty
+  - Philip Ancliff
+  - Hanna T. Gazda
+  - Marcin W. Wlodarski
+  - Vijay G. Sankaran
+  publisher: Journal of Experimental Medicine
+  date: '2019-03-26'
+  link: https://doi.org/gr7b6k
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2018.03.074
+  title: Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape
+    of Human Hematopoietic Differentiation
+  authors:
+  - Jason D. Buenrostro
+  - M. Ryan Corces
+  - Caleb A. Lareau
+  - Beijing Wu
+  - Alicia N. Schep
+  - Martin J. Aryee
+  - Ravindra Majeti
+  - Howard Y. Chang
+  - William J. Greenleaf
+  publisher: Cell
+  date: '2018-05-01'
+  link: https://doi.org/gddfkm
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-05328-9
+  title: Enhancer histone-QTLs are enriched on autoimmune risk haplotypes and influence
+    gene expression within chromatin networks
+  authors:
+  - Richard C. Pelikan
+  - Jennifer A. Kelly
+  - Yao Fu
+  - Caleb A. Lareau
+  - Kandice L. Tessneer
+  - Graham B. Wiley
+  - Mandi M. Wiley
+  - Stuart B. Glenn
+  - John B. Harley
+  - Joel M. Guthridge
+  - Judith A. James
+  - Martin J. Aryee
+  - Courtney Montgomery
+  - Patrick M. Gaffney
+  publisher: Nature Communications
+  date: '2018-07-25'
+  link: https://doi.org/gdzkpf
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-018-0081-4
+  title: Heritability enrichment of specifically expressed genes identifies disease-relevant
+    tissues and cell types
+  authors:
+  - Hilary K. Finucane
+  - Yakir A. Reshef
+  - Verneri Anttila
+  - Kamil Slowikowski
+  - Alexander Gusev
+  - Andrea Byrnes
+  - Steven Gazal
+  - Po-Ru Loh
+  - Caleb Lareau
+  - Noam Shoresh
+  - Giulio Genovese
+  - Arpiar Saunders
+  - Evan Macosko
+  - Samuela Pollack
+  - John R. B. Perry
+  - Jason D. Buenrostro
+  - Bradley E. Bernstein
+  - Soumya Raychaudhuri
+  - Steven McCarroll
+  - Benjamin M. Neale
+  - Alkes L. Price
+  publisher: Nature Genetics
+  date: '2018-04-01'
+  link: https://doi.org/gdfjqt
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41556-018-0221-1
+  title: A non-canonical SWI/SNF complex is a synthetic lethal target in cancers driven
+    by BAF complex perturbation
+  authors:
+  - Brittany C. Michel
+  - "Andrew R. D\u2019Avino"
+  - Seth H. Cassel
+  - Nazar Mashtalir
+  - Zachary M. McKenzie
+  - Matthew J. McBride
+  - Alfredo M. Valencia
+  - Qianhe Zhou
+  - Michael Bocker
+  - Luis M. M. Soares
+  - Joshua Pan
+  - David I. Remillard
+  - Caleb A. Lareau
+  - Hayley J. Zullow
+  - Nora Fortoul
+  - Nathanael S. Gray
+  - James E. Bradner
+  - Ho Man Chan
+  - Cigall Kadoch
+  publisher: Nature Cell Biology
+  date: '2018-11-05'
+  link: https://doi.org/gfgzvd
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/S41591-018-0008-8
+  title: Transcript-indexed ATAC-seq for precision immune profiling
+  authors:
+  - Ansuman T. Satpathy
+  - Naresha Saligrama
+  - Jason D. Buenrostro
+  - Yuning Wei
+  - Beijing Wu
+  - Adam J. Rubin
+  - Jeffrey M. Granja
+  - Caleb A. Lareau
+  - Rui Li
+  - Yanyan Qi
+  - Kevin R. Parker
+  - Maxwell R. Mumbach
+  - William S. Serratelli
+  - David G. Gennert
+  - Alicia N. Schep
+  - M. Ryan Corces
+  - Michael S. Khodadoust
+  - Youn H. Kim
+  - Paul A. Khavari
+  - William J. Greenleaf
+  - Mark M. Davis
+  - Howard Y. Chang
+  publisher: Nature Medicine
+  date: '2018-04-23'
+  link: https://doi.org/gdkgm5
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2017-05-783191
+  title: Confounding in ex vivo models of Diamond-Blackfan anemia
+  authors:
+  - Jacob C. Ulirsch
+  - Caleb Lareau
+  - Leif S. Ludwig
+  - Narla Mohandas
+  - David G. Nathan
+  - Vijay G. Sankaran
+  publisher: Blood
+  date: '2017-08-31'
+  link: https://doi.org/gr7b6n
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pbio.2002690
+  title: Common genes associated with antidepressant response in mouse and man identify
+    key role of glucocorticoid receptor sensitivity
+  authors:
+  - Tania Carrillo-Roa
+  - Christiana Labermaier
+  - Peter Weber
+  - David P. Herzog
+  - Caleb Lareau
+  - Sara Santarelli
+  - Klaus V. Wagner
+  - Monika Rex-Haffner
+  - Daniela Harbich
+  - Sebastian H. Scharf
+  - Charles B. Nemeroff
+  - Boadie W. Dunlop
+  - W. Edward Craighead
+  - Helen S. Mayberg
+  - Mathias V. Schmidt
+  - Manfred Uhr
+  - Florian Holsboer
+  - Inge Sillaber
+  - Elisabeth B. Binder
+  - "Marianne B. M\xFCller"
+  publisher: PLOS Biology
+  date: '2017-12-28'
+  link: https://doi.org/gcrvm7
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.celrep.2017.09.066
+  title: A B Cell Regulome Links Notch to Downstream Oncogenic Pathways in Small B
+    Cell Lymphomas
+  authors:
+  - Russell J.H. Ryan
+  - Jelena Petrovic
+  - Dylan M. Rausch
+  - Yeqiao Zhou
+  - Caleb A. Lareau
+  - Michael J. Kluk
+  - Amanda L. Christie
+  - Winston Y. Lee
+  - Daniel R. Tarjan
+  - Bingqian Guo
+  - Laura K.H. Donohue
+  - Shawn M. Gillespie
+  - Valentina Nardi
+  - Ephraim P. Hochberg
+  - Stephen C. Blacklow
+  - David M. Weinstock
+  - Robert B. Faryabi
+  - Bradley E. Bernstein
+  - Jon C. Aster
+  - Warren S. Pear
+  publisher: Cell Reports
+  date: '2017-10-01'
+  link: https://doi.org/gjjc6p
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1084/jem.20170976
+  title: Dissecting hematopoietic and renal cell heterogeneity in adult zebrafish
+    at single-cell resolution using RNA sequencing
+  authors:
+  - Qin Tang
+  - Sowmya Iyer
+  - Riadh Lobbardi
+  - John C. Moore
+  - Huidong Chen
+  - Caleb Lareau
+  - Christine Hebert
+  - McKenzie L. Shaw
+  - Cyril Neftel
+  - Mario L. Suva
+  - Craig J. Ceol
+  - Andre Bernards
+  - Martin Aryee
+  - Luca Pinello
+  - Iain A. Drummond
+  - David M. Langenau
+  publisher: Journal of Experimental Medicine
+  date: '2017-09-06'
+  link: https://doi.org/gb23v5
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0158016
+  title: The Integration of Epistasis Network and Functional Interactions in a GWAS
+    Implicates RXR Pathway Genes in the Immune Response to Smallpox Vaccine
+  authors:
+  - Brett A. McKinney
+  - Caleb Lareau
+  - Ann L. Oberg
+  - Richard B. Kennedy
+  - Inna G. Ovsyannikova
+  - Gregory A. Poland
+  publisher: PLOS ONE
+  date: '2016-08-11'
+  link: https://doi.org/gbp4wk
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.08.12.503683
+  title: Latent human herpesvirus 6 is reactivated in chimeric antigen receptor T
+    cells
+  authors:
+  - Caleb A. Lareau
+  - Yajie Yin
+  - Katie Maurer
+  - Katalin D. Sandor
+  - Garima Yagnik
+  - "Jos\xE9 Pe\xF1a"
+  - Jeremy Chase Crawford
+  - Anne M. Spanjaart
+  - Jacob C. Gutierrez
+  - Nicholas J. Haradhvala
+  - Tsion Abay
+  - Robert R. Stickels
+  - Jeffrey M. Verboon
+  - Vincent Liu
+  - Jackson Southard
+  - Ren Song
+  - Wenjing Li
+  - Aastha Shrestha
+  - Laxmi Parida
+  - Gad Getz
+  - Marcela V. Maus
+  - Shuqiang Li
+  - Alison Moore
+  - Rafael G. Amado
+  - Aimee C. Talleur
+  - Paul G. Thomas
+  - Houman Dehghani
+  - Thomas Pertel
+  - Anshul Kundaje
+  - Stephen Gottschalk
+  - Theodore L. Roth
+  - Marie J. Kersten
+  - Catherine J. Wu
+  - Robbie G. Majzner
+  - Ansuman T. Satpathy
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-12'
+  link: https://doi.org/gr7b6p
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2021.09.26.461821
+  title: Transient dendritic cell activation diversifies the T cell response to acute
+    infection
+  authors:
+  - Kamir J. Hiam-Galvez
+  - Rachel DeBarge
+  - Caleb A. Lareau
+  - Nam Woo Cho
+  - Jacqueline L. Yee
+  - Trine Line H. Okholm
+  - Matthew H. Spitzer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-09-27'
+  link: https://doi.org/gr7b6q
   image: null
   plugin: sources.py
   file: sources.yaml
