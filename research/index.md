@@ -12,14 +12,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
+# Selected publications
 
 {% include citation.html lookup="Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling" style="rich" %}
-{% include citation.html lookup="GATA1" style="rich" %}
 
 {% include section.html %}
 
-## All
+# All works (2013- present)
 
 {% include search-box.html %}
 

@@ -1,3 +1,5 @@
+
+# highlighted articles
 - id: doi:10.1038/s41587-020-0645-6
   image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/mtscatac.png
   buttons:
@@ -5,13 +7,20 @@
       text: Manuscript source code
       link: https://github.com/caleblareau/mtscATACpaper_reproducibility
     - type: website
+      text: Coverage from 10x Genomics
       link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
 
+
+# everything else
+
+- id: doi:10.1101/2023.04.23.537997v1
+  image: 
+
 - id: doi:10.1038/s41467-020-14667-5
-  image:
+  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/barcodemultiplets.png
 
 - id: doi:10.1182/blood.2021013753
-  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/gata1.png
+  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/gata1307.png
   
 - id: doi:10.1158/0008-5472.CAN-22-0275
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/mousemtscatac.png
