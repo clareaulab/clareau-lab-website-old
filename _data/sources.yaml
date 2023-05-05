@@ -3,7 +3,7 @@
 - id: doi:10.1038/s41587-020-0645-6
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mtscatac.png
   buttons:
-    - type: document
+    - type: manuscript
       text: PDF
       link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/s41587-020-0645-6.pdf
     - type: source
