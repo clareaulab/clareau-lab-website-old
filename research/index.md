@@ -20,7 +20,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 # Recent pre-prints
 
-Check out our recent work _before_ it his the press
+Check out our recent work _before_ it his the press!
 
 {% include citation.html lookup="Codon affinity" style="rich" %}
 
