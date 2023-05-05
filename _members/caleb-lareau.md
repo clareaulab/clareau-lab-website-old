@@ -7,6 +7,7 @@ aliases:
   - C Lareau
   - Caleb A. Lareau
   - Caleb Lareau
+  - Caleb A Lareau
 links:
   home-page: https://profiles.stanford.edu/caleb-lareau
   orcid: 0000-0003-4179-4807

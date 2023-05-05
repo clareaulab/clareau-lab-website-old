@@ -7,6 +7,8 @@ aliases:
   - J Gutierrez
   - JC Gutierrez
   - J.C. Gutierrez
+  - Jacob C. Gutierrez
+  - Jacob C Gutierrez
 links:
   github: Jacobog02
   twitter: JacobJacobog02
