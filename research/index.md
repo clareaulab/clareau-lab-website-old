@@ -1,33 +1,27 @@
 ---
-title: Publications
+title: Research Focus
 nav:
-  order: 3
-  tooltip: All lab papers
+  order: 2
+  tooltip: Broad research areas
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-{% include section.html %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-# Selected publications
-
-{% include citation.html lookup="Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling" style="rich" %}
-
-{% include section.html %}
-
-# Recent pre-prints
-
-
-{% include citation.html lookup="Codon affinity" style="rich" %}
-{% include citation.html lookup="Latent human herpesvirus" style="rich" %}
-
-
-{% include section.html %}
-
-# All works (2013- present)
-
-{% include search-box.html %}
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include section.html %}
+
+## Featured
+
+{% include list.html component="card" data="projects" filters="group: featured" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
