@@ -12,6 +12,8 @@ Spend less time worrying about managing a website and citations, and more time r
 
 ## Key Features
 
+
+- CL updates
 - 🤖 Based on Git, GitHub, and Jekyll.
 - 📜 Automatically generated citations from simple identifiers (DOI, PubMed, ORCID, and many more) using Manubot. E.g. `doi:1234/5678` -> `title`, `authors`, `publisher`, `date`, etc.
 - 🧱 A comprehensive and flexible suite of pre-made components (building blocks) for structuring and styling your website:
