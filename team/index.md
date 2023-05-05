@@ -28,7 +28,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/pets/nala.png" %}
+{% include figure.html image="images/pets/boo.png" caption="Boo" %}
+{% include figure.html image="images/pets/nala.png" caption="Nala" %}
 
 {% endcapture %}
 
