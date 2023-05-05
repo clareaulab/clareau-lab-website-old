@@ -1203,8 +1203,8 @@
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/s41592-022-01393-7
-  title: 'Author Correction: Single-cell chromatin state analysis with Signac'
+- id: doi:10.1038/s41592-021-01282-5
+  title: Single-cell chromatin state analysis with Signac
   authors:
   - Tim Stuart
   - Avi Srivastava
@@ -1212,8 +1212,8 @@
   - Caleb A. Lareau
   - Rahul Satija
   publisher: Nature Methods
-  date: '2022-01-07'
-  link: https://doi.org/gptgpd
+  date: '2021-11-01'
+  link: https://doi.org/gnb2nx
   image: null
   plugin: sources.py
   file: sources.yaml
