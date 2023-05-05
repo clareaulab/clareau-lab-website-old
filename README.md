@@ -13,7 +13,6 @@ Spend less time worrying about managing a website and citations, and more time r
 - 🧱 A comprehensive and flexible suite of pre-made components (building blocks) for structuring and styling your website:
   - Formatted tables, code blocks, figures, and other basic elements.
   - Citations with thumbnails and other rich details.
-  - List large sets of data with flexible filters and components.
   - ...many more
 - 👁️ Automatic pull request previews.
 - ⚙️ Easy and automated configuration.
