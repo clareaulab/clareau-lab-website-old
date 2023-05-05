@@ -1,14 +1,11 @@
 ---
-title: Research
+title: Publications
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
+  tooltip: Preprints
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
@@ -20,7 +17,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 # Recent pre-prints
 
-Check out our recent work _before_ it his the press!
 
 {% include citation.html lookup="Codon affinity" style="rich" %}
 
