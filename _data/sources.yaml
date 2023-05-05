@@ -1,8 +1,5 @@
 - id: doi:10.1038/s41587-020-0645-6
-  type: paper
-  description: Original report of mtscATAC-seq
-  date: 2020-8-12
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/mtscatac.png
   buttons:
     - type: source
       text: Manuscript source code
@@ -14,7 +11,7 @@
   image:
 
 - id: doi:10.1182/blood.2021013753
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/gata1.png
   
 - id: doi:10.1158/0008-5472.CAN-22-0275
   image: 
