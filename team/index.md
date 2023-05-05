@@ -26,7 +26,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+# {% include icon.html icon="fa-solid fa-paw" %}Technical support
+
+
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
