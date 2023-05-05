@@ -5,6 +5,7 @@ role: pi
 aliases:
   - C. Lareau
   - C Lareau
+  - C A Lareau
   - Caleb A. Lareau
   - Caleb Lareau
   - Caleb A Lareau
