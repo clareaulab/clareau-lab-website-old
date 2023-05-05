@@ -288,27 +288,33 @@
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2020.07.15.204404
-  title: A direct RNA-protein interaction atlas of the SARS-CoV-2 RNA in infected
-    human cells
+- id: doi:10.1038/s41564-020-00846-z
+  title: "The SARS-CoV-2 RNA\u2013protein interactome in infected human cells"
   authors:
   - Nora Schmidt
   - Caleb A. Lareau
   - Hasmik Keshishian
+  - Sabina Ganskih
+  - Cornelius Schneider
+  - Thomas Hennig
   - Randy Melanson
-  - Matthias Zimmer
-  - Luisa Kirschner
-  - Jens Ade
   - Simone Werner
-  - Neva Caliskan
+  - Yuanjie Wei
+  - Matthias Zimmer
+  - Jens Ade
+  - Luisa Kirschner
+  - Sebastian Zielinski
+  - "Lars D\xF6lken"
   - Eric S. Lander
+  - Neva Caliskan
+  - Utz Fischer
   - "J\xF6rg Vogel"
   - Steven A. Carr
   - Jochen Bodem
   - Mathias Munschauer
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-07-15'
-  link: https://doi.org/gk7dgk
+  publisher: Nature Microbiology
+  date: '2020-12-21'
+  link: https://doi.org/gjt6c2
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -328,7 +334,7 @@
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2020.02.02.20020065
+- id: doi:10.1016/j.cell.2020.08.008
   title: The Polygenic and Monogenic Basis of Blood Traits and Diseases
   authors:
   - Dragana Vuckovic
@@ -361,9 +367,8 @@
   - Jennifer A. Brody
   - Frank J.A. van Rooij
   - Kumaraswamy N. Chitrala
-  - Kelly Cho
+  - Peter W.F. Wilson
   - "H\xE9l\xE8ne Choquet"
-  - Adolfo Correa
   - John Danesh
   - Emanuele Di Angelantonio
   - Niki Dimou
@@ -376,10 +381,11 @@
   - Linda Broer
   - Niels Grarup
   - Michael H. Guo
+  - Qi Guo
   - Andreas Greinacher
   - Jeff Haessler
   - Torben Hansen
-  - Joanna M. M. Howson
+  - Joanna M.M. Howson
   - Wei Huang
   - Eric Jorgenson
   - Tim Kacprowski
@@ -387,7 +393,7 @@
   - Yoichiro Kamatani
   - Masahiro Kanai
   - Savita Karthikeyan
-  - Fotis Koskeridis
+  - Fotios Koskeridis
   - Leslie A. Lange
   - "Terho Lehtim\xE4ki"
   - Allan Linneberg
@@ -424,10 +430,10 @@
   - Stephen B. Watt
   - Klaudia Walter
   - Alan B. Zonderman
-  - Peter W.F. Wilson
+  - Kelly Cho
   - Yun Li
   - Ruth J.F. Loos
-  - Julian Knight
+  - Julian C. Knight
   - Michel Georges
   - Oliver Stegle
   - Evangelos Evangelou
@@ -443,9 +449,9 @@
   - Guillaume Lettre
   - Vijay G. Sankaran
   - Nicole Soranzo
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-02-03'
-  link: https://doi.org/gr7b5v
+  publisher: Cell
+  date: '2020-09-01'
+  link: https://doi.org/gg92dg
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -724,21 +730,26 @@
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/978-1-4939-9057-3
-  title: Computational Methods for Single-Cell Data Analysis
-  authors: []
+- id: doi:10.1007/978-1-4939-9057-3_13
+  title: Preprocessing and Computational Analysis of Single-Cell Epigenomic Datasets
+  authors:
+  - Caleb Lareau
+  - Divy Kangeyan
+  - Martin J. Aryee
   publisher: Methods in Molecular Biology
   date: '2019-01-01'
-  link: https://doi.org/gr7b56
+  link: https://doi.org/gr7b7r
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/978-1-4939-2155-3
-  title: Epistasis
-  authors: []
+- id: doi:10.1007/978-1-4939-2155-3_15
+  title: Network Theory for Data-Driven Epistasis Networks
+  authors:
+  - Caleb A. Lareau
+  - Brett A. McKinney
   publisher: Methods in Molecular Biology
-  date: '2015-01-01'
-  link: https://doi.org/gr7b57
+  date: '2014-11-03'
+  link: https://doi.org/f6tgrs
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -838,7 +849,7 @@
   publisher: Nature Biotechnology
   date: '2022-02-24'
   link: https://doi.org/gpkt3x
-  image: null
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/maester.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.medj.2021.12.003
@@ -1075,16 +1086,17 @@
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2020.11.09.373613
-  title: Multimodal single-cell chromatin analysis with Signac
+- id: doi:10.1038/s41592-022-01393-7
+  title: 'Author Correction: Single-cell chromatin state analysis with Signac'
   authors:
   - Tim Stuart
   - Avi Srivastava
-  - Caleb Lareau
+  - Shaista Madad
+  - Caleb A. Lareau
   - Rahul Satija
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-11-10'
-  link: https://doi.org/ghk7v4
+  publisher: Nature Methods
+  date: '2022-01-07'
+  link: https://doi.org/gptgpd
   image: null
   plugin: sources.py
   file: sources.yaml
