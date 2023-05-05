@@ -13,13 +13,31 @@
       text: Coverage from 10x Genomics
       link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
 
-# everything else
 
-- id: doi:10.1002/gepi.21739
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/encore.png
+# Current biorxiv
 
+#M7076
 - id: doi:10.1101/2023.04.23.537997
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/m7076.png
+
+# HHV6
+- id: doi:10.1101/2022.08.12.503683
+  image: 
+
+# Pearson
+- id: doi:10.1101/2022.11.20.517242
+  image: 
+
+# Kamir
+- id: doi:10.1101/2021.09.26.461821
+  image: 
+
+# NIH
+- id: doi:10.2139/ssrn.4271102
+  image: 
+
+# everything else
+
 
 - id: doi:10.1038/s41467-020-14667-5
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
@@ -255,8 +273,5 @@
 - id: doi:10.1371/journal.pone.0158016
   image: 
 
-- id: doi:10.1101/2022.08.12.503683
-  image: 
-
-- id: doi:10.1101/2021.09.26.461821
-  image: 
+- id: doi:10.1002/gepi.21739
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/encore.png
