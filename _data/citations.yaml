@@ -30,11 +30,14 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mtscatac.png
   buttons:
   - type: source
-    text: Manuscript source code
+    text: Source code
     link: https://github.com/caleblareau/mtscATACpaper_reproducibility
   - type: website
     text: Coverage from 10x Genomics
     link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
+  - type: source
+    text: Manuscript
+    link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/s41587-020-0645-6.pdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/gepi.21739
