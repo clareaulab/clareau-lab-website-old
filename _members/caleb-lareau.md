@@ -1,6 +1,6 @@
 ---
 name: Caleb Lareau
-image: images/on2.png
+image: images/people/caleb-lareau.png
 role: pi
 aliases:
   - C. Lareau
