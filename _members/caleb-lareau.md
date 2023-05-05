@@ -5,6 +5,8 @@ role: pi
 aliases:
   - C. Lareau
   - C Lareau
+  - Caleb A. Lareau
+  - Caleb Lareau
 links:
   home-page: https://profiles.stanford.edu/caleb-lareau
   orcid: 0000-0003-4179-4807
