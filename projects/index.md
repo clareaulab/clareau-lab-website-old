@@ -1,7 +1,7 @@
 ---
 title: Research Focus
 nav:
-  order: 3
+  order: 2
   tooltip: Broad research areas
 ---
 

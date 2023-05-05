@@ -1,7 +1,7 @@
 ---
 title: Publications
 nav:
-  order: 2
+  order: 3
   tooltip: All lab papers
 ---
 
@@ -19,6 +19,8 @@ nav:
 
 
 {% include citation.html lookup="Codon affinity" style="rich" %}
+{% include citation.html lookup="Latent human herpesvirus" style="rich" %}
+
 
 {% include section.html %}
 
