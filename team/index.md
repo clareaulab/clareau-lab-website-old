@@ -24,4 +24,4 @@ nav:
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content style="small"  %}
+{% include grid.html style="square" content=content   %}
