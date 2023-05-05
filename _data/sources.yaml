@@ -51,13 +51,13 @@
 - id: doi:10.1038/s41587-021-00927-2
   image: 
 
-- id: doi:10.1101/2020.07.15.204404
+- id: doi:10.1038/s41564-020-00846-z
   image: 
 
 - id: doi:10.1056/NEJMoa2001265
   image: 
 
-- id: doi:10.1101/2020.02.02.20020065
+- id: doi:10.1016/j.cell.2020.08.008
   image: 
 
 - id: doi:10.1038/s41587-019-0147-6
@@ -108,10 +108,10 @@
 - id: doi:10.1038/s41590-020-0796-0
   image: 
 
-- id: doi:10.1007/978-1-4939-9057-3
+- id: doi:10.1007/978-1-4939-9057-3_13
   image: 
 
-- id: doi:10.1007/978-1-4939-2155-3
+- id: doi:10.1007/10.1007/978-1-4939-2155-3_15
   image: 
 
 - id: doi:10.1038/s41586-023-05778-2
@@ -124,7 +124,7 @@
   image: 
 
 - id: doi:10.1038/s41587-022-01210-8
-  image: 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/maester.png
 
 - id: doi:10.1016/j.medj.2021.12.003
   image: 
@@ -150,7 +150,7 @@
 - id: doi:10.1038/s41467-021-27666-x
   image: 
 
-- id: doi:10.1101/2020.11.09.373613
+- id: doi:10.1038/s41592-022-01393-7
   image: 
 
 - id: doi:10.1038/s41587-021-01065-5
