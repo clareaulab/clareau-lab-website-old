@@ -9,7 +9,6 @@
       link: https://github.com/caleblareau/mtscATACpaper_reproducibility
     - type: website
       link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
-  repo: caleblareau/mtscATACpaper_reproducibility
 
 - id: doi:10.1038/s41467-020-14667-5
   image:
