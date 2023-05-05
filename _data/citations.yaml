@@ -68,27 +68,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -104,30 +88,98 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41587-020-0645-6
+  title: Massively parallel single-cell mitochondrial DNA genotyping and chromatin
+    profiling
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
+  - Caleb A. Lareau
+  - Leif S. Ludwig
+  - Christoph Muus
+  - Satyen H. Gohil
+  - Tongtong Zhao
+  - Zachary Chiang
+  - Karin Pelka
+  - Jeffrey M. Verboon
+  - Wendy Luo
+  - Elena Christian
+  - Daniel Rosebrock
+  - Gad Getz
+  - Genevieve M. Boland
+  - Fei Chen
+  - Jason D. Buenrostro
+  - Nir Hacohen
+  - Catherine J. Wu
+  - Martin J. Aryee
+  - Aviv Regev
+  - Vijay G. Sankaran
+  publisher: Nature Biotechnology
+  date: '2020-08-12'
+  link: https://doi.org/gg9r8b
+  type: paper
+  description: Original report of mtscATAC-seq
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: source
+    text: Manuscript source code
+    link: https://github.com/caleblareau/mtscATACpaper_reproducibility
+  - type: website
+    link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
+  repo: caleblareau/mtscATACpaper_reproducibility
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-020-14667-5
+  title: Inference and effects of barcode multiplets in droplet-based single-cell
+    assays
+  authors:
+  - Caleb A. Lareau
+  - Sai Ma
+  - Fabiana M. Duarte
+  - Jason D. Buenrostro
+  publisher: Nature Communications
+  date: '2020-02-13'
+  link: https://doi.org/gms3vv
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1182/blood.2021013753
+  title: Congenital anemia reveals distinct targeting mechanisms for master transcription
+    factor GATA1
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
+  - Leif S. Ludwig
+  - Caleb A. Lareau
+  - Erik L. Bao
+  - Nan Liu
+  - Taiju Utsugisawa
+  - Alex M. Tseng
+  - Samuel A. Myers
+  - Jeffrey M. Verboon
+  - Jacob C. Ulirsch
+  - Wendy Luo
+  - Christoph Muus
+  - Claudia Fiorini
+  - Meagan E. Olive
+  - Christopher M. Vockley
+  - Mathias Munschauer
+  - Abigail Hunter
+  - Hiromi Ogura
+  - Toshiyuki Yamamoto
+  - Hiroko Inada
+  - Shinichiro Nakagawa
+  - Shuichi Ohzono
+  - Vidya Subramanian
+  - Roberto Chiarle
+  - Bertil Glader
+  - Steven A. Carr
+  - Martin J. Aryee
+  - Anshul Kundaje
+  - Stuart H. Orkin
+  - Aviv Regev
+  - Timothy L. McCavit
+  - Hitoshi Kanno
+  - Vijay G. Sankaran
+  publisher: Blood
+  date: '2022-04-21'
+  link: https://doi.org/gr7bqf
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
