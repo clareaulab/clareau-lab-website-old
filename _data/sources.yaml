@@ -1,7 +1,7 @@
 
 # highlighted articles
 - id: doi:10.1038/s41587-020-0645-6
-  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/mtscatac.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mtscatac.png
   buttons:
     - type: source
       text: Manuscript source code
@@ -17,10 +17,10 @@
   image: 
 
 - id: doi:10.1038/s41467-020-14667-5
-  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/barcodemultiplets.png
+  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
 
 - id: doi:10.1182/blood.2021013753
-  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/gata1307.png
+  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/gata1307.png
   
 - id: doi:10.1158/0008-5472.CAN-22-0275
-  image: https://raw.githubusercontent.com/clareaulab/pngs-for-website/main/pngs/mousemtscatac.png
+  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/mousemtscatac.png
