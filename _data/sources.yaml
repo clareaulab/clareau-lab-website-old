@@ -14,16 +14,16 @@
 # everything else
 
 - id: doi:10.1002/gepi.21739
-  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/encore.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/encore.png
 
 - id: doi:10.1101/2023.04.23.537997
-  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/m7076.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/m7076.png
 
 - id: doi:10.1038/s41467-020-14667-5
-  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
 
 - id: doi:10.1182/blood.2021013753
-  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/gata1307.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/gata1307.png
   
 - id: doi:10.1158/0008-5472.CAN-22-0275
-  image: https://raw.githubusercontent.com/clareau-lab-website/main/images/researchpngs/mousemtscatac.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mousemtscatac.png

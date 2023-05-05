@@ -18,6 +18,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
+# Recent pre-prints
+
+Check out our recent work _before_ it his the press
+
+{% include citation.html lookup="Codon affinity" style="rich" %}
+
+{% include section.html %}
+
 # All works (2013- present)
 
 {% include search-box.html %}
