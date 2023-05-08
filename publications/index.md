@@ -11,7 +11,10 @@ nav:
 
 # Selected publications
 
+{% include citation.html lookup="drawn by single-cell genomics" style="rich" %}
+{% include citation.html lookup="Scalable, multimodal profiling" style="rich" %}
 {% include citation.html lookup="Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling" style="rich" %}
+{% include citation.html lookup="Lineage tracing in humans" style="rich" %}
 
 {% include section.html %}
 

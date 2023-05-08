@@ -14,8 +14,8 @@
     - type: paper
       text: PDF
       link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
-    - type: source
-      text: Manuscript code
+    - type: github
+      text: Code
       link: https://github.com/caleblareau/asap_reproducibility
 
 - id: doi:10.1038/s41587-020-0645-6
@@ -24,21 +24,22 @@
     - type: paper
       text: PDF
       link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
-    - type: source
-      text: Manuscript code
+    - type: github
+      text: Code
       link: https://github.com/caleblareau/mtscATACpaper_reproducibility
     - type: website
       text: Coverage from 10x Genomics
       link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
 
+# OG mito tracing paper
 - id: doi:10.1016/j.cell.2019.01.022
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mitotracing1.png
   buttons:
     - type: paper
       text: PDF
       link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LudwigLareauUlirsch-Cell-2019.pdf
-    - type: source
-      text: mtDNA genotyping software
+    - type: github
+      text: Code
       link: https://github.com/caleblareau/mgatk
 
 
@@ -47,7 +48,10 @@
 #M7076
 - id: doi:10.1101/2023.04.23.537997
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/m7076.png
-
+  buttons:
+    - type: github
+      text: Code
+      link: https://github.com/caleblareau/m7076
 # HHV6
 - id: doi:10.1101/2022.08.12.503683
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
@@ -60,13 +64,11 @@
 - id: doi:10.1101/2021.09.26.461821
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/kamirdc.png
 
-# NIH
+# NIH cell press sneak peek
 - id: doi:10.2139/ssrn.4271102
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 # everything else
-
-
 - id: doi:10.1038/s41467-020-14667-5
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
 
