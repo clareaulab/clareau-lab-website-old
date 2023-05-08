@@ -47,11 +47,11 @@
   publisher: Nature Biotechnology
   date: '2021-06-03'
   link: https://doi.org/gkcwn9
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapschematic.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapclean.png
   buttons:
   - type: paper
     text: PDF
-    link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
+    link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/MimitouLareauChen-NBT-2021.pdf
   - type: github
     text: Code
     link: https://github.com/caleblareau/asap_reproducibility
@@ -404,7 +404,7 @@
   publisher: Chromatin Accessibility
   date: '2023-01-01'
   link: https://doi.org/gr7b45
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbasap.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapschematic.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-1-0716-2899-7_14
@@ -2328,7 +2328,7 @@
   publisher: Nature Immunology
   date: '2020-06-23'
   link: https://doi.org/gr7b6j
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/immgen15.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2018.12.036
