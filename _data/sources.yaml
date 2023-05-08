@@ -55,6 +55,10 @@
     - type: github
       text: Code
       link: https://github.com/caleblareau/mgatk
+  tags:
+    - immunology
+    - technology development
+    - single-cell genomics  
 
 
 # Current biorxiv
@@ -89,6 +93,9 @@
 # everything else
 - id: doi:10.1038/s41467-020-14667-5
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
+    tags:
+    - compuational method
+    - single-cell genomics
 
 - id: doi:10.1182/blood.2021013753
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/gata1307.png
@@ -118,7 +125,7 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/bcxgcv.png
 
 - id: doi:10.1038/s41587-019-0147-6
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodetn5.png
 
 - id: doi:10.1182/bloodadvances.2019001196
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mitolong.png
@@ -127,40 +134,52 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/singlecellbloodtraits.png
 
 - id: doi:10.1002/ajh.25421
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hbf-gencor.png
 
 - id: doi:10.1016/j.celrep.2019.05.046
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/erydiff.png
 
 - id: doi:10.1038/nmeth.4541
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mousecrisprnatmeth.png
 
 - id: doi:10.1038/nmeth.4583
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hichippercuts.png
 
 - id: doi:10.1038/gene.2017.3
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/sarcoidprs.png
+  tags:
+    - human genetics
+    - autoimmunity
 
 - id: doi:10.1093/bioinformatics/btx623
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/diffloop.png
+  tags:
+    - computational method
 
 - id: doi:10.1038/gene.2016.15
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/iqtl.png
+  tags:
+    - computational method
+    - autoimmunity
 
 - id: doi:10.3389/fgene.2015.00312
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/dcvar.png
 
 - id: doi:10.1002/acn3.229
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/neurosarcoidznf.png
 
 - id: doi:10.1186/s13040-015-0040-x
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/ernetwork.png
+
 
 - id: doi:10.3389/fimmu.2022.1062415
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/fimmunoeditorial.png
+  tags:
+    - review
+    - immunology
 
 - id: doi:10.1038/s41590-020-0796-0
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/batf3.png
 
 - id: doi:10.1007/978-1-4939-9057-3_13
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
