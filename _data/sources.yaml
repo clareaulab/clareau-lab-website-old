@@ -14,11 +14,11 @@
 
 # ASAP/DOGMA-seq paper
 - id: doi:10.1038/s41587-021-00927-2
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapschematic.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapclean.png
   buttons:
     - type: paper
       text: PDF
-      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
+      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/MimitouLareauChen-NBT-2021.pdf
     - type: github
       text: Code
       link: https://github.com/caleblareau/asap_reproducibility
@@ -97,7 +97,7 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mousemtscatac.png
 
 - id: doi:10.1007/978-1-0716-2899-7_13
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbasap.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapschematic.png
   
 - id: doi:10.1007/978-1-0716-2899-7_14
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbmtscatac.png
@@ -250,7 +250,7 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
 - id: doi:10.1038/s41590-020-0687-4
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/immgen15.png
 
 - id: doi:10.1016/j.cell.2018.12.036
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/

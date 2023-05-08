@@ -149,7 +149,7 @@ error:
 # publications
 
 paper:
-  icon: fa-solid fa-scroll
+  icon: fa-solid fa-file
   text: Paper
   tooltip: Paper
 
