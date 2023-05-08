@@ -1,13 +1,18 @@
 
 # highlighted articles
 
+#Cancer cell review
 - id: doi:10.1016/j.ccell.2021.11.005
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/ccellreview.png
   buttons:
     - type: paper
       text: PDF
       link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/Lareau-CancerCell-2021.pdf
+  tags:
+    - immunotherapy
+    - single-cell genomics
 
+# ASAP/DOGMA-seq paper
 - id: doi:10.1038/s41587-021-00927-2
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapschematic.png
   buttons:
@@ -17,7 +22,12 @@
     - type: github
       text: Code
       link: https://github.com/caleblareau/asap_reproducibility
+  tags:
+    - immunology
+    - technology development
+    - single-cell genomics
 
+#mtscatac
 - id: doi:10.1038/s41587-020-0645-6
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mtscatac.png
   buttons:
@@ -30,6 +40,10 @@
     - type: website
       text: Coverage from 10x Genomics
       link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
+  tags:
+    - immunology
+    - technology development
+    - single-cell genomics  
 
 # OG mito tracing paper
 - id: doi:10.1016/j.cell.2019.01.022
@@ -68,6 +82,10 @@
 - id: doi:10.2139/ssrn.4271102
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
 
+
+
+############
+
 # everything else
 - id: doi:10.1038/s41467-020-14667-5
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
@@ -79,28 +97,25 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mousemtscatac.png
 
 - id: doi:10.1007/978-1-0716-2899-7_13
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbasap.png
   
 - id: doi:10.1007/978-1-0716-2899-7_14
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbmtscatac.png
 
 - id: doi:10.1038/s41596-022-00795-3
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
   
-- id: doi:10.1038/s41467-020-14667-5
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
-
 - id: doi:10.1126/sciimmunol.abl5053
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/etac-jc.png
 
 - id: doi:10.1038/s41564-020-00846-z
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/sarscov2net.png
 
 - id: doi:10.1056/NEJMoa2001265
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nejmmelas.png
 
 - id: doi:10.1016/j.cell.2020.08.008
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/bcxgcv.png
 
 - id: doi:10.1038/s41587-019-0147-6
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
