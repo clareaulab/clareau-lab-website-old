@@ -49,8 +49,8 @@
   - type: paper
     text: PDF
     link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
-  - type: source
-    text: Manuscript code
+  - type: github
+    text: Code
     link: https://github.com/caleblareau/asap_reproducibility
   plugin: sources.py
   file: sources.yaml
@@ -86,8 +86,8 @@
   - type: paper
     text: PDF
     link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
-  - type: source
-    text: Manuscript code
+  - type: github
+    text: Code
     link: https://github.com/caleblareau/mtscATACpaper_reproducibility
   - type: website
     text: Coverage from 10x Genomics
@@ -126,8 +126,8 @@
   - type: paper
     text: PDF
     link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LudwigLareauUlirsch-Cell-2019.pdf
-  - type: source
-    text: mtDNA genotyping software
+  - type: github
+    text: Code
     link: https://github.com/caleblareau/mgatk
   plugin: sources.py
   file: sources.yaml
@@ -168,6 +168,10 @@
   date: '2023-04-23'
   link: https://doi.org/gr7bzp
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/m7076.png
+  buttons:
+  - type: github
+    text: Code
+    link: https://github.com/caleblareau/m7076
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.08.12.503683
