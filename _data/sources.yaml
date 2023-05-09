@@ -58,7 +58,7 @@
   tags:
     - immunology
     - technology development
-    - single-cell genomics  
+    - single-cell genomics 
 
 
 # Current biorxiv
@@ -93,7 +93,7 @@
 # everything else
 - id: doi:10.1038/s41467-020-14667-5
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
-    tags:
+  tags:
     - compuational method
     - single-cell genomics
 
