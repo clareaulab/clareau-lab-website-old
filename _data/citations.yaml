@@ -140,6 +140,10 @@
   - type: github
     text: Code
     link: https://github.com/caleblareau/mgatk
+  tags:
+  - immunology
+  - technology development
+  - single-cell genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.04.23.537997
@@ -332,6 +336,9 @@
   date: '2020-02-13'
   link: https://doi.org/gms3vv
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
+  tags:
+  - compuational method
+  - single-cell genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/blood.2021013753
@@ -653,7 +660,7 @@
   publisher: Nature Biotechnology
   date: '2019-06-24'
   link: https://doi.org/ggsf7q
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodetn5.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/bloodadvances.2019001196
@@ -713,7 +720,7 @@
   publisher: American Journal of Hematology
   date: '2019-02-06'
   link: https://doi.org/gr7b5w
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hbf-gencor.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.celrep.2019.05.046
@@ -752,7 +759,7 @@
   publisher: Nature Methods
   date: '2018-03-30'
   link: https://doi.org/gr7b5x
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mousecrisprnatmeth.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nmeth.4583
@@ -763,7 +770,7 @@
   publisher: Nature Methods
   date: '2018-02-28'
   link: https://doi.org/ggzzfq
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hichippercuts.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/gene.2017.3
@@ -782,7 +789,10 @@
   publisher: Genes &amp; Immunity
   date: '2017-03-01'
   link: https://doi.org/gr7b52
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/sarcoidprs.png
+  tags:
+  - human genetics
+  - autoimmunity
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btx623
@@ -794,7 +804,9 @@
   publisher: Bioinformatics
   date: '2017-09-29'
   link: https://doi.org/gczfqp
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/diffloop.png
+  tags:
+  - computational method
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/gene.2016.15
@@ -810,7 +822,10 @@
   publisher: Genes &amp; Immunity
   date: '2016-04-07'
   link: https://doi.org/f9mvjk
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/iqtl.png
+  tags:
+  - computational method
+  - autoimmunity
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fgene.2015.00312
@@ -824,7 +839,7 @@
   publisher: Frontiers in Genetics
   date: '2015-10-19'
   link: https://doi.org/gr7b53
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/dcvar.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/acn3.229
@@ -840,7 +855,7 @@
   publisher: Annals of Clinical and Translational Neurology
   date: '2015-07-31'
   link: https://doi.org/gcbzms
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/neurosarcoidznf.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13040-015-0040-x
@@ -854,7 +869,7 @@
   publisher: BioData Mining
   date: '2015-02-03'
   link: https://doi.org/gb5fpr
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/ernetwork.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fimmu.2022.1062415
@@ -866,7 +881,10 @@
   publisher: Frontiers in Immunology
   date: '2022-10-18'
   link: https://doi.org/gr7b54
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/fimmunoeditorial.png
+  tags:
+  - review
+  - immunology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41590-020-0796-0
@@ -877,7 +895,7 @@
   publisher: Nature Immunology
   date: '2020-09-28'
   link: https://doi.org/gr7b55
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/batf3.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-1-4939-9057-3_13
