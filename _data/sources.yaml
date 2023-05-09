@@ -182,34 +182,42 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/batf3.png
 
 - id: doi:10.1007/978-1-4939-9057-3_13
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbsc.png
 
 - id: doi:10.1007/978-1-4939-2155-3_15
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbnetworks.png
 
 - id: doi:10.1038/s41586-023-05778-2
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/linkcar.png
 
 - id: doi:10.1038/s41590-022-01273-4
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/runx3.png
 
 - id: doi:10.1038/s41590-022-01327-7
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/adaptnk.png
 
 - id: doi:10.1038/s41587-022-01210-8
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/maester.png
 
 - id: doi:10.1016/j.medj.2021.12.003
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/aastat.png
+  tags:
+    - human genetics
+    - immunology
+    - single-cell multi-omics
 
 - id: doi:10.1038/s41591-022-01986-x
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nmedtcell.png
+  tags:
+    - review
+    - immunology
 
 - id: doi:10.1016/j.xgen.2022.100166
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
-
-- id: doi:10.1038/s41590-022-01273-4
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/figr.png
+  tags:
+    - computational method
+    - immunology
+    - single-cell multi-omics
 
 - id: doi:10.1038/s41586-022-05089-y
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
