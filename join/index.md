@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Join
 nav:
   order: 5
   tooltip: Email, address, and location
@@ -28,6 +28,13 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
+%}
+
+
+{%
+  include figure.html
+  image="background-white.jpg"
+  caption=""
 %}
 
 {% include section.html %}

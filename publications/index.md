@@ -5,12 +5,13 @@ nav:
   tooltip: All lab papers
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-dna" %}Research
 
 {% include section.html %}
 
 # Selected publications
 
+{% include citation.html lookup="long-lasting NK cell memory" style="rich" %}
 {% include citation.html lookup="drawn by single-cell genomics" style="rich" %}
 {% include citation.html lookup="Scalable, multimodal profiling" style="rich" %}
 {% include citation.html lookup="Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling" style="rich" %}
