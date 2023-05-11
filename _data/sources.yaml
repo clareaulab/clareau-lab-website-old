@@ -7,7 +7,7 @@
   buttons:
     - type: paper
       text: PDF
-      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/Lareau-CancerCell-2021.pdf
+      link: https://clareaulab.github.io/pdfs/Lareau-CancerCell-2021.pdf
     - type: twitter
       text: Tweetorial
       link: RomagnaniLab/status/1585295121368875008
@@ -25,7 +25,7 @@
   buttons:
     - type: paper
       text: PDF
-      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/Lareau-CancerCell-2021.pdf
+      link: https://clareaulab.github.io/pdfs/Lareau-CancerCell-2021.pdf
     - type: twitter
       text: Tweetorial
       link: CalebLareau/status/1470530211737341959
@@ -39,7 +39,7 @@
   buttons:
     - type: paper
       text: PDF
-      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/MimitouLareauChen-NBT-2021.pdf
+      link: https://clareaulab.github.io/pdfs/MimitouLareauChen-NBT-2021.pdf
     - type: github
       text: Code
       link: caleblareau/asap_reproducibility
@@ -81,7 +81,7 @@
   buttons:
     - type: paper
       text: PDF
-      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LudwigLareauUlirsch-Cell-2019.pdf
+      link: https://clareaulab.github.io/pdfs/LudwigLareauUlirsch-Cell-2019.pdf
     - type: github
       text: Code
       link: caleblareau/mgatk
