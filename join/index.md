@@ -33,7 +33,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="background-white.jpg"
+  image="images/background-white.jpg"
   caption=""
 %}
 
@@ -43,7 +43,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/background-white.jpg"
   caption="Lorem ipsum"
 %}
 
@@ -53,7 +53,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/background-white.jpg"
   caption="Lorem ipsum"
 %}
 
