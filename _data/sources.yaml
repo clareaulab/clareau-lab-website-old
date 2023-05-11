@@ -1,6 +1,24 @@
 
 # highlighted articles
 
+# NK cell
+- id: doi:10.1038/s41590-022-01327-7
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/adaptnk.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/Lareau-CancerCell-2021.pdf
+    - type: twitter
+      text: Tweetorial
+      link: https://twitter.com/RomagnaniLab/status/1585295121368875008
+    - type: website
+      text: News and Views
+      link: https://www.nature.com/articles/s41590-022-01336-6
+  tags:
+    - immunology
+    - lineage tracing
+    - single-cell genomics
+
 #Cancer cell review
 - id: doi:10.1016/j.ccell.2021.11.005
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/ccellreview.png
@@ -8,13 +26,16 @@
     - type: paper
       text: PDF
       link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/Lareau-CancerCell-2021.pdf
+    - type: twitter
+      text: Tweetorial
+      link: https://twitter.com/CalebLareau/status/1470530211737341959
   tags:
     - immunotherapy
     - single-cell genomics
 
 # ASAP/DOGMA-seq paper
 - id: doi:10.1038/s41587-021-00927-2
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapclean.png
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapmeme.png
   buttons:
     - type: paper
       text: PDF
@@ -22,6 +43,12 @@
     - type: github
       text: Code
       link: https://github.com/caleblareau/asap_reproducibility
+    - type: twitter
+      text: Tweetorial
+      link: https://twitter.com/CalebLareau/status/1400469260468584450
+    - type: website
+      text: Coverage from Nature
+      link: https://www.nature.com/articles/d41586-021-01994-w
   tags:
     - immunology
     - technology development
@@ -37,6 +64,9 @@
     - type: github
       text: Code
       link: https://github.com/caleblareau/mtscATACpaper_reproducibility
+    - type: twitter
+      text: Tweetorial
+      link: https://twitter.com/CalebLareau/status/1293669702137389057
     - type: website
       text: Coverage from 10x Genomics
       link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
@@ -55,6 +85,9 @@
     - type: github
       text: Code
       link: https://github.com/caleblareau/mgatk
+    - type: twitter
+      text: Tweetorial
+      link: https://twitter.com/caleblareau/status/1101158837447548928
   tags:
     - immunology
     - technology development
@@ -70,6 +103,10 @@
     - type: github
       text: Code
       link: https://github.com/caleblareau/m7076
+    - type: twitter
+      text: Tweetorial
+      link: https://twitter.com/CalebLareau/status/1650390670904016897
+     
 # HHV6
 - id: doi:10.1101/2022.08.12.503683
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
@@ -192,9 +229,6 @@
 
 - id: doi:10.1038/s41590-022-01273-4
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/runx3.png
-
-- id: doi:10.1038/s41590-022-01327-7
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/adaptnk.png
 
 - id: doi:10.1038/s41587-022-01210-8
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/maester.png
