@@ -23,6 +23,7 @@ nav:
 {% include citation.html lookup="drawn by single-cell genomics" style="rich" %}
 {% include citation.html lookup="Scalable, multimodal profiling" style="rich" %}
 {% include citation.html lookup="Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling" style="rich" %}
+{% include citation.html lookup="Interrogation of human hematopoiesis " style="rich" %}
 {% include citation.html lookup="Lineage Tracing in Humans" style="rich" %}
 
 

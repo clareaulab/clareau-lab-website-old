@@ -7,7 +7,7 @@
   buttons:
     - type: paper
       text: PDF
-      link: https://clareaulab.github.io/pdfs/Lareau-CancerCell-2021.pdf
+      link: https://clareaulab.github.io/pdfs/Ruckert-NI-2022.pdf
     - type: twitter
       text: Tweetorial
       link: RomagnaniLab/status/1585295121368875008
@@ -72,8 +72,24 @@
       link: caleblareau/mgatk
     - type: twitter
       text: Tweetorial
-      link: https://twitter.com/caleblareau/status/1101158837447548928
+      link: caleblareau/status/1101158837447548928
 
+
+# gchromvar paper
+- id: doi:10.1038/s41588-019-0362-6
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/singlecellbloodtraits.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://clareaulab.github.io/pdfs/UlirschLareauBao-NG-2019.pdf
+    - type: github
+      text: Code
+      link: caleblareau/singlecell_bloodtraits
+    - type: twitter
+      text: Tweetorial
+      link: julirsch/status/1105154360634425344
+
+############################
 # Current biorxiv
 
 #M7076
@@ -90,11 +106,21 @@
 # HHV6
 - id: doi:10.1101/2022.08.12.503683
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
-
+  buttons:
+    - type: github
+      text: Code
+      link: caleblareau/hhv6-reactivation
+    - type: twitter
+      text: Tweetorial
+      link: CalebLareau/status/1558314332059865088
+      
 # Pearson
 - id: doi:10.1101/2022.11.20.517242
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson-selection.png
-
+  buttons:
+    - type: github
+      text: Code
+      link: caleblareau/pearson_syndrome
 # Kamir
 - id: doi:10.1101/2021.09.26.461821
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/kamirdc.png
@@ -110,7 +136,14 @@
 # everything else
 - id: doi:10.1038/s41467-020-14667-5
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
-
+  buttons:
+    - type: github
+      text: Code
+      link: caleblareau/barcode-multiplets
+    - type: twitter
+      text: Tweetorial
+      link: CalebLareau/status/118964033652990361
+      
 - id: doi:10.1182/blood.2021013753
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/gata1307.png
   
@@ -143,9 +176,7 @@
 
 - id: doi:10.1182/bloodadvances.2019001196
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mitolong.png
-
-- id: doi:10.1038/s41588-019-0362-6
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/singlecellbloodtraits.png
+      
 
 - id: doi:10.1002/ajh.25421
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hbf-gencor.png
@@ -204,7 +235,6 @@
 - id: doi:10.1038/s41591-022-01986-x
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nmedtcell.png
 
-
 - id: doi:10.1016/j.xgen.2022.100166
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/figr.png
 
@@ -261,6 +291,10 @@
 
 - id: doi:10.1038/s41588-019-0568-7
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/anibcl11a.png
+  buttons:
+    - type: github
+      text: Code
+      link: sankaranlab/translation-regulation-bcl11a
 
 - id: doi:10.1038/s41467-020-15022-4
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/jraypaper.png
