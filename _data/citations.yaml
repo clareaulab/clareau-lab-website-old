@@ -22,10 +22,6 @@
   - type: website
     text: News and Views
     link: https://www.nature.com/articles/s41590-022-01336-6
-  tags:
-  - immunology
-  - lineage tracing
-  - single-cell genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ccell.2021.11.005
@@ -45,9 +41,6 @@
   - type: twitter
     text: Tweetorial
     link: CalebLareau/status/1470530211737341959
-  tags:
-  - immunotherapy
-  - single-cell genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41587-021-00927-2
@@ -92,10 +85,6 @@
   - type: website
     text: Coverage from Nature
     link: https://www.nature.com/articles/d41586-021-01994-w
-  tags:
-  - immunology
-  - technology development
-  - single-cell genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41587-020-0645-6
@@ -139,10 +128,6 @@
   - type: website
     text: Coverage from 10x Genomics
     link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
-  tags:
-  - immunology
-  - technology development
-  - single-cell genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2019.01.022
@@ -183,10 +168,6 @@
   - type: twitter
     text: Tweetorial
     link: https://twitter.com/caleblareau/status/1101158837447548928
-  tags:
-  - immunology
-  - technology development
-  - single-cell genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.04.23.537997
@@ -382,9 +363,6 @@
   date: '2020-02-13'
   link: https://doi.org/gms3vv
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
-  tags:
-  - compuational method
-  - single-cell genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/blood.2021013753
@@ -836,9 +814,6 @@
   date: '2017-03-01'
   link: https://doi.org/gr7b52
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/sarcoidprs.png
-  tags:
-  - human genetics
-  - autoimmunity
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btx623
@@ -851,8 +826,6 @@
   date: '2017-09-29'
   link: https://doi.org/gczfqp
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/diffloop.png
-  tags:
-  - computational method
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/gene.2016.15
@@ -869,9 +842,6 @@
   date: '2016-04-07'
   link: https://doi.org/f9mvjk
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/iqtl.png
-  tags:
-  - computational method
-  - autoimmunity
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fgene.2015.00312
@@ -928,9 +898,6 @@
   date: '2022-10-18'
   link: https://doi.org/gr7b54
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/fimmunoeditorial.png
-  tags:
-  - review
-  - immunology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41590-020-0796-0
@@ -1074,10 +1041,6 @@
   date: '2022-01-01'
   link: https://doi.org/gn46nq
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/aastat.png
-  tags:
-  - human genetics
-  - immunology
-  - single-cell multi-omics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41591-022-01986-x
@@ -1102,9 +1065,6 @@
   date: '2022-09-01'
   link: https://doi.org/gr7b6b
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nmedtcell.png
-  tags:
-  - review
-  - immunology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xgen.2022.100166
@@ -1125,10 +1085,6 @@
   date: '2022-09-01'
   link: https://doi.org/gr7b6c
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/figr.png
-  tags:
-  - computational method
-  - immunology
-  - single-cell multi-omics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-022-05089-y
