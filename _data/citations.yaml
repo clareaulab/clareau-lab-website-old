@@ -348,7 +348,7 @@
   publisher: SSRN Electronic Journal
   date: '2022-01-01'
   link: https://doi.org/gr7b8m
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/shih.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-020-14667-5
@@ -2380,7 +2380,7 @@
   publisher: Cell
   date: '2019-02-01'
   link: https://doi.org/gfttvp
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/immgenatac.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-019-1161-z
@@ -2397,7 +2397,7 @@
   publisher: Nature
   date: '2019-04-17'
   link: https://doi.org/gfzk4z
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/rnaot.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13059-019-1854-5
@@ -2416,7 +2416,7 @@
   publisher: Genome Biology
   date: '2019-11-18'
   link: https://doi.org/ggdk3f
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/gbbenchmark.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-09670-4
@@ -2441,7 +2441,7 @@
   publisher: Nature Communications
   date: '2019-04-23'
   link: https://doi.org/ggbt8j
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/stream.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41587-019-0236-6
@@ -2457,7 +2457,7 @@
   publisher: Nature Biotechnology
   date: '2019-09-01'
   link: https://doi.org/gmpdbz
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/secureabe.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-019-0538-0
@@ -2486,7 +2486,7 @@
   publisher: Nature Genetics
   date: '2019-11-29'
   link: https://doi.org/ggffzx
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/abcpaper.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.44080
@@ -2512,7 +2512,7 @@
   publisher: eLife
   date: '2019-05-09'
   link: https://doi.org/ggbvp7
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/satishelife.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-019-0363-5
@@ -2531,7 +2531,7 @@
   publisher: Nature Genetics
   date: '2019-03-11'
   link: https://doi.org/gfwt9x
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/joshbaf.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1084/jem.20181625
@@ -2560,7 +2560,7 @@
   publisher: Journal of Experimental Medicine
   date: '2019-03-26'
   link: https://doi.org/gr7b6k
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nourpaper.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2018.03.074
@@ -2579,7 +2579,7 @@
   publisher: Cell
   date: '2018-05-01'
   link: https://doi.org/gddfkm
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/schemeatac.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-018-05328-9
@@ -2603,7 +2603,7 @@
   publisher: Nature Communications
   date: '2018-07-25'
   link: https://doi.org/gdzkpf
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/eqtl.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-018-0081-4
@@ -2634,7 +2634,7 @@
   publisher: Nature Genetics
   date: '2018-04-01'
   link: https://doi.org/gdfjqt
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/ldscoreenrich.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41556-018-0221-1
@@ -2663,7 +2663,7 @@
   publisher: Nature Cell Biology
   date: '2018-11-05'
   link: https://doi.org/gfgzvd
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/ncbafpaper.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/S41591-018-0008-8
@@ -2694,7 +2694,7 @@
   publisher: Nature Medicine
   date: '2018-04-23'
   link: https://doi.org/gdkgm5
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/tatacc1.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/blood-2017-05-783191
@@ -2709,7 +2709,7 @@
   publisher: Blood
   date: '2017-08-31'
   link: https://doi.org/gr7b6n
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/dbaresponse.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pbio.2002690
