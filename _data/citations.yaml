@@ -18,7 +18,7 @@
     link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/Lareau-CancerCell-2021.pdf
   - type: twitter
     text: Tweetorial
-    link: https://twitter.com/RomagnaniLab/status/1585295121368875008
+    link: RomagnaniLab/status/1585295121368875008
   - type: website
     text: News and Views
     link: https://www.nature.com/articles/s41590-022-01336-6
@@ -44,7 +44,7 @@
     link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/Lareau-CancerCell-2021.pdf
   - type: twitter
     text: Tweetorial
-    link: https://twitter.com/CalebLareau/status/1470530211737341959
+    link: CalebLareau/status/1470530211737341959
   tags:
   - immunotherapy
   - single-cell genomics
@@ -85,10 +85,10 @@
     link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/MimitouLareauChen-NBT-2021.pdf
   - type: github
     text: Code
-    link: https://github.com/caleblareau/asap_reproducibility
+    link: caleblareau/asap_reproducibility
   - type: twitter
     text: Tweetorial
-    link: https://twitter.com/CalebLareau/status/1400469260468584450
+    link: CalebLareau/status/1400469260468584450
   - type: website
     text: Coverage from Nature
     link: https://www.nature.com/articles/d41586-021-01994-w
@@ -132,10 +132,10 @@
     link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauLudwig-NBT-2021.pdf
   - type: github
     text: Code
-    link: https://github.com/caleblareau/mtscATACpaper_reproducibility
+    link: caleblareau/mtscATACpaper_reproducibility
   - type: twitter
     text: Tweetorial
-    link: https://twitter.com/CalebLareau/status/1293669702137389057
+    link: CalebLareau/status/1293669702137389057
   - type: website
     text: Coverage from 10x Genomics
     link: https://www.10xgenomics.com/blog/introducing-the-innovator-series-hacking-atac-seq-to-perform-clonal-lineage-tracing-in-tumors
@@ -179,7 +179,7 @@
     link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LudwigLareauUlirsch-Cell-2019.pdf
   - type: github
     text: Code
-    link: https://github.com/caleblareau/mgatk
+    link: caleblareau/mgatk
   - type: twitter
     text: Tweetorial
     link: https://twitter.com/caleblareau/status/1101158837447548928
@@ -229,10 +229,10 @@
   buttons:
   - type: github
     text: Code
-    link: https://github.com/caleblareau/m7076
+    link: caleblareau/m7076
   - type: twitter
     text: Tweetorial
-    link: https://twitter.com/CalebLareau/status/1650390670904016897
+    link: CalebLareau/status/1650390670904016897
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.08.12.503683
