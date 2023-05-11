@@ -2823,7 +2823,7 @@
   publisher: PLOS ONE
   date: '2016-08-11'
   link: https://doi.org/gbp4wk
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/ponemckinney.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/gepi.21739
