@@ -1,7 +1,4 @@
 
-Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
-Spend less time worrying about managing a website and citations, and more time 
-
 - 📜 Automatically generated citations from simple identifiers (DOI, PubMed, ORCID, and many more) using Manubot. E.g. `doi:1234/5678` -> `title`, `authors`, `publisher`, `date`, etc.
 - 🧱 A comprehensive and flexible suite of pre-made components (building blocks) for structuring and styling your website:
   - Formatted tables, code blocks, figures, and other basic elements.
