@@ -9,9 +9,12 @@ nav:
 
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
+
+{% include list.html data="members" component="portrait" filters="role: alum" %}
 
 {% include section.html %}
 
@@ -19,8 +22,7 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/pets/boo.png" caption="Boo"  %}
-{% include figure.html image="images/pets/nala.png" caption="Nala"  %}
+{% include list.html data="members" component="portrait" filters="role: pet" %}
 
 {% endcapture %}
 
