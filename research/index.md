@@ -13,6 +13,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
 In line ![alt text](https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/gifs/DNK.gif) Droplet microfluidics
+<img src="https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/gifs/DNK.gif" width="250" height="250"/>
 
 
 {% include tags.html tags="publication, resource, website" %}
