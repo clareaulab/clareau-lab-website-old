@@ -12,7 +12,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
 
-![alt text](images/gifs/DNK.gif "Logo Title Text 1") Droplet microfluidics
+In line ![alt text](images/gifs/DNK.gif) Droplet microfluidics
 
 
 {% include tags.html tags="publication, resource, website" %}
