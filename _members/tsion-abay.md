@@ -1,7 +1,7 @@
 ---
 name: Tsion Abay
-image: images/photo.jpg
-description: Alum
+image: images/people/tsion-abay.png
+description: 2022-2023
 role: alum
 group: alum
 links:
@@ -9,4 +9,4 @@ links:
   twitter: x
 ---
 
-Tsion was...
+Tsion . She now is a PhD student in the Biological and Biomedical Sciences program at Harvard University. 
