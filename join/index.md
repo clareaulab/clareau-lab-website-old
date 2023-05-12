@@ -1,15 +1,18 @@
 ---
-title: Join
+title: Join!
 nav:
   order: 5
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Join
+# {% include icon.html icon="fa-regular fa-envelope" %}Join us!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The lab is recruiting at all levels. We are particularly interested in recruiting individuals with wet-bench 
+backgrounds that seek training in computational biology, data science, genomics, and/or biotechnology. 
+
+Prospective research technicians and postdoctoral associates should [contact Caleb directly](mailto:caleb.lareau@gmail.com).
+
+Graduate students should come from one of these programs.
 
 {%
   include button.html
