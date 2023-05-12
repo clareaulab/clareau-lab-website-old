@@ -2,14 +2,14 @@
   subtitle: a subtitle
   group: featured
   image: images/gifs/hydrop.gif
-  link: research/test1.md
+  link: research/test1.html
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 - title: Cool Package
   subtitle: a subtitle
   group: featured
   image: images/gifs/mitochondria.gif
-  link: test1.md
+  link: research/test1
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 - title: Cool Tutorial
