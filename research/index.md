@@ -11,6 +11,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
+
+{% capture content %}
+  {% include images/gifs/mitochondria.gif ... %}
+{% endcapture %}
+
+{%
+  include float.html
+  content=content
+  flip=true
+%}
+
+Several paragraphs of text here on mitos
+
+
+{% capture content %}
+  {% include mages/gifs/DNK.gif ... %}
+{% endcapture %}
+
+{%
+  include float.html
+  content=content
+  flip=true
+%}
+
+Several paragraphs of text here on mitos
+
+{% include float.html clear=true %}
+
+
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
