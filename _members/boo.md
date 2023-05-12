@@ -2,7 +2,7 @@
 name: Boo
 image: images/pets/boo.png
 description: assistant meower
-role: Meower
+role: pet
 group: pet
 
 ---

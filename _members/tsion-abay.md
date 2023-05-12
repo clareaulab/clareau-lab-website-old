@@ -2,7 +2,7 @@
 name: Tsion Abay
 image: images/photo.jpg
 description: Alum
-role: Alumni
+role: alum
 group: alum
 links:
   email: x
