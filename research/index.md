@@ -11,32 +11,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
-
 {% capture content %}
-  {% include images/gifs/mitochondria.gif ... %}
+{% include figure.html image="images/gifs/hydrop.gif" caption="Caption" width="200px" %}
 {% endcapture %}
-
-{%
-  include float.html
-  content=content
-  flip=true
-%}
-
-Several paragraphs of text here on mitos
-
-
-{% capture content %}
-  {% include mages/gifs/DNK.gif ... %}
-{% endcapture %}
-
-{%
-  include float.html
-  content=content
-  flip=true
-%}
-
-Several paragraphs of text here on mitos
-
+{% include float.html content=content %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {% include float.html clear=true %}
 
 
