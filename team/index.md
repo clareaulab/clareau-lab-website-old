@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 1
-  tooltip: About our team
+  tooltip: Who we are
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -13,6 +13,9 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
+
+{% include section.html %}
+# {% include icon.html icon="fa-solid fa-graduate" %}Alumni
 
 {% include list.html data="members" component="portrait" filters="role: alum" %}
 
