@@ -9,6 +9,7 @@ nav:
 
 
 {% capture content %}**Now recruiting | **The lab is recruiting at all levels.{% endcapture %}
+{% include alert.html type="info" content=content %}
 
 We are particularly interested in individuals with wet-bench 
 backgrounds that seek mentored training in computational biology, data science, genomics, and/or biotechnology. 
@@ -16,10 +17,12 @@ backgrounds that seek mentored training in computational biology, data science, 
 Prospective research technicians and postdoctoral associates should [contact Caleb directly](mailto:caleb.lareau@gmail.com).
 
 Graduate students should come from one of these programs:
-- PA
-- PB
-- PC
+- Program A
+- Program B
+- Program C
 
+
+# Contact
 {%
   include button.html
   type="email"
@@ -62,7 +65,7 @@ Graduate students should come from one of these programs:
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col2 col4=col2%}
+{% include cols.html col1=col1 col2=col2 col3=col2 %}
 
 {% include section.html dark=true %}
 
