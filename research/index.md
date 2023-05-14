@@ -10,7 +10,6 @@ nav:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% capture content %}**Now recruiting** We are hiring at all levels of the lab.{% endcapture %}
 {% include alert.html type="info" content=content %}
 
 {% capture content %}

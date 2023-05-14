@@ -1,5 +1,5 @@
 ---
-title: Join!
+title: Join
 nav:
   order: 5
   tooltip: Email, address, and location
@@ -7,12 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Join us!
 
-The lab is recruiting at all levels. We are particularly interested in recruiting individuals with wet-bench 
-backgrounds that seek training in computational biology, data science, genomics, and/or biotechnology. 
+
+{% capture content %}**Now recruiting | **The lab is recruiting at all levels.{% endcapture %}
+
+We are particularly interested in individuals with wet-bench 
+backgrounds that seek mentored training in computational biology, data science, genomics, and/or biotechnology. 
 
 Prospective research technicians and postdoctoral associates should [contact Caleb directly](mailto:caleb.lareau@gmail.com).
 
-Graduate students should come from one of these programs.
+Graduate students should come from one of these programs:
+- PA
+- PB
+- PC
 
 {%
   include button.html
@@ -33,12 +39,6 @@ Graduate students should come from one of these programs.
   link="https://www.google.com/maps"
 %}
 
-
-{%
-  include figure.html
-  image="images/background-white.jpg"
-  caption=""
-%}
 
 {% include section.html %}
 
@@ -62,7 +62,7 @@ Graduate students should come from one of these programs.
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 col2=col2 col3=col2 col4=col2%}
 
 {% include section.html dark=true %}
 
