@@ -6,14 +6,15 @@ carousels:
     - image: /images/nyc.jpg
 ---
 
+# Lareau Lab @ Memorial Sloan Kettering
+
+Established in 2023, our lab is part of the Computational and Systems Biology program at Sloan Kettering Institute. 
+The lab is located on the 11th Floor of Zuckerman Research Center
+
 # Computational and Translational Immunology
 
+{% include carousel.html height="30" unit="%" duration="10" number="1" %}
 
-[//]:  {% include carousel.html height="40" unit="%" duration="10" number="1" %}
-
-
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
 
 {%
   include button.html

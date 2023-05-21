@@ -1,15 +1,12 @@
 # site properties and page defaults
 title: Lareau Lab
-subtitle: at MSKCC
-description: New lab at Memorial Sloan Kettering Cancer Center
+subtitle: Computational and Translational Immunology
+description: Established 2023, Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: caleb.lareau@gmail.com
-  github: clareaulab
-  twitter: caleblareau
 
 ### jekyll settings
 
