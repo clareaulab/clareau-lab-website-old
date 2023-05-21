@@ -1,7 +1,16 @@
 ---
+title: Home
+carousels:
+  - images: 
+    - image: /images/circles.jpg
+    - image: /images/nyc.jpg
 ---
 
-# Lab Website Template
+
+{% include carousel.html height="40" unit="%" duration="10" number="1" %}
+
+
+# Computational and Translational Immunology
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
 Spend less time worrying about managing a website and citations, and more time running your lab.
