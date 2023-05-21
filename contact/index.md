@@ -11,7 +11,7 @@ carousels:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-{% include section.html %}
+{% include section.html size="full"%}
 {% include figure.html image="images/nyc-crappy.svg"  height="80" unit="%" %}
 
 {% include section.html size="full" %}
