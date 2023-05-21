@@ -38,7 +38,9 @@ Graduate students should come from one of these programs:
 [Email Caleb](mailto:caleb.lareau@gmail.com) to discuss projects and set up a rotation. 
 
 
-## 
+## Research associates
+
+
 
 
 {% include section.html %}
