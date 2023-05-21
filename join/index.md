@@ -30,7 +30,7 @@ Graduate students should come from one of these programs:
 
 {%
   include figure.html
-  image="images/background-white.jpg"
+  image="images/immune.jpg"
   caption="Lorem ipsum"
 %}
 
@@ -40,7 +40,7 @@ Graduate students should come from one of these programs:
 
 {%
   include figure.html
-  image="images/background-white.jpg"
+  image="images/nyc.jpg"
   caption="Lorem ipsum"
 %}
 

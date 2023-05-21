@@ -15,7 +15,7 @@ phd:
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-book
   description: Undergraduate Student
 
 alum:

@@ -5,20 +5,20 @@
   link: research/test1.html
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- title: Cool Tutorial
+- title: Mitochondrial biology
   subtitle: a subtitle
   image: images/gifs/mitochondria.gif
   link: research/test1
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: yyyy
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Human genetics
+  subtitle: 
   image: images/gifs/DNK.gif
-  link: https://clareaulab.com/research/test1/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: research/test1
+  description: xx
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Single-cell multiomics
+  subtitle:
   image: images/gifs/hydrop.gif
-  link: test1
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: research/test1
+  description: We do
