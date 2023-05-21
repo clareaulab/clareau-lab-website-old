@@ -26,6 +26,6 @@ nav:
 # {% include icon.html icon="fa-solid fa-paw" %}Technical support
 
 {% capture content %}
-{% include list.html data="members" component="portrait" filters="role: pet" style="small" %}
+{% include list.html data="pets" component="portrait" filters="role: pet" style="small" %}
 {% endcapture %}
 {% include grid.html style="square" content=content   %}

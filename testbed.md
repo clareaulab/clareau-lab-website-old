@@ -196,11 +196,7 @@ _Lorem_ **ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 
 ## List
 
-### List citations
 
-{% include list.html data="citations" component="citation" %}
-
----
 
 ### List projects
 
@@ -220,13 +216,7 @@ _Lorem_ **ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 
 {% include section.html %}
 
-## Citation
 
-{% include citation.html lookup="doi:10.1016/j.csbj.2020.05.017" %}
-{% include citation.html lookup="Open collaborative writing" style="rich" %}
-{% include citation.html title="Manual title" authors="Manual authors" %}
-
-{% include section.html %}
 
 ## Card
 
@@ -337,12 +327,6 @@ With figure components
 {% endcapture %}
 {% include grid.html style="square" content=content %}
 
-### Grid of citations
-
-{% capture content %}
-{% include list.html data="citations" component="citation" %}
-{% endcapture %}
-{% include grid.html content=content %}
 
 ### Grid of blog posts
 
