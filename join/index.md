@@ -2,7 +2,7 @@
 title: Join
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Join us!
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Join us!
