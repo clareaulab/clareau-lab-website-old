@@ -13,7 +13,6 @@
     <div>
       Extra details like contact info or address
     </div>
-  -->
 
   <div>
     {% for link in site.links %}
@@ -22,13 +21,14 @@
       {% include button.html type=key text="" link=value style="bare" %}
     {% endfor %}
   </div>
+  -->
 
   <div>
     &copy; {{ site.time | date: "%Y" }}
     {{ site.title }}
-    &nbsp; | &nbsp; Built with
-    <a href="https://github.com/greenelab/lab-website-template">
-      Lab Website Template
+    &nbsp; Lareau Lab @ &nbsp; 
+    <a href="https://www.mskcc.org/">
+      Memorial Sloan Kettering 
     </a>
   </div>
 
