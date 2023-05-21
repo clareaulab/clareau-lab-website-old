@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Join us!
 
 
-{% capture hiring %}**Now hiring**  The lab is recruiting at all levels. Email Caleb to discuss a possible position. {% endcapture %}
+{% capture hiring %}**Now hiring!**  The lab is recruiting at all levels. Email Caleb to discuss a possible position. {% endcapture %}
 {% include alert.html type="info" content=hiring %}
 
 ## Philosophy
@@ -30,7 +30,7 @@ from diverse socio-economic, educational, and cultural backgrounds.
 {%
   include figure.html
   image="images/immune.jpg"
-  caption=""
+  caption="We focus on questions involving the immune system"
 %}
 
 {% endcapture %}
@@ -40,7 +40,7 @@ from diverse socio-economic, educational, and cultural backgrounds.
 {%
   include figure.html
   image="images/nyc.jpg"
-  caption=""
+  caption="We are based in New York City"
 %}
 
 {% endcapture %}
@@ -50,13 +50,17 @@ from diverse socio-economic, educational, and cultural backgrounds.
 {%
   include figure.html
   image="images/cs.jpg"
-  caption=""
+  caption="We utilize computational biology to analyze massive-scale data"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=nycr col2=immuno col3=csb %}
 
+
+{% include section.html %}
+
+# Open positions
 
 ## Postdoctoral associates
 
