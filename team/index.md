@@ -21,11 +21,11 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: alum" style="small"  %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-{% include section.html %}
 
+{% include section.html %}
 # {% include icon.html icon="fa-solid fa-paw" %}Technical support
 
 {% capture content %}
-{% include list.html data="members" component="portrait" filters="role: pet" style="small"  style="small" %}
+{% include list.html data="members" component="portrait" filters="role: pet" style="small" %}
 {% endcapture %}
 {% include grid.html style="square" content=content   %}
