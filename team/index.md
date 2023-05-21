@@ -8,9 +8,9 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 
-{% include list.html data="members" component="portrait" filters="role: pi" style="small"  %}
-{% include list.html data="members" component="portrait" filters="role: postdoc"  style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd" style="small"  %}
+{% include list.html data="members" component="portrait" filters="role: pi" style="large"  %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd"  %}
 {% include section.html background="images/background.jpg" dark=true %}
 
 {% include section.html %}
@@ -18,7 +18,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumni
 
-{% include list.html data="members" component="portrait" filters="role: alum" style="small"  %}
+{% include list.html data="members" component="portrait" filters="role: alum" style="medium"  %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
