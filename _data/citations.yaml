@@ -395,6 +395,16 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/shih.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41587-023-01797-6
+  title: Subtle cell states resolved in single-cell data
+  authors:
+  - Caleb Lareau
+  publisher: Nature Biotechnology
+  date: '2023-05-17'
+  link: https://doi.org/gr8x6c
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/metacells.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-020-14667-5
   title: Inference and effects of barcode multiplets in droplet-based single-cell
     assays
