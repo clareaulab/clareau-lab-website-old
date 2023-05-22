@@ -24,36 +24,38 @@ The lab is located on the 11th Floor of Zuckerman Research Center
 {% include carousel.html height="30" unit="%" duration="10" number="1" %}
 
 
+{% include section.html %}
+
+{% capture immuno %}
+
 {%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
+  include figure.html
+  image="images/immune.jpg"
+  caption="Our group focuses on questions involving the immune system and immunotherapies."
 %}
 
-{% include section.html %}
+{% endcapture %}
+
+{% capture nycr %}
+
+{%
+  include figure.html
+  image="images/nyc.jpg"
+  caption="The lab is located on the Upper East Side of New York City."
+%}
+
+{% endcapture %}
+
+{% capture csb %}
+
+{%
+  include figure.html
+  image="images/cs.jpg"
+  caption="We specialize in computational approaches to analyze massive-scale genomics data."
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=nycr col2=immuno col3=csb %}
+
+

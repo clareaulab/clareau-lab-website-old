@@ -23,40 +23,6 @@ from diverse socio-economic, educational, and cultural backgrounds.
 **We will always prioritize people over projects**. 
 
 
-{% include section.html %}
-
-{% capture immuno %}
-
-{%
-  include figure.html
-  image="images/immune.jpg"
-  caption="We focus on questions involving the immune system"
-%}
-
-{% endcapture %}
-
-{% capture nycr %}
-
-{%
-  include figure.html
-  image="images/nyc.jpg"
-  caption="We are based in New York City"
-%}
-
-{% endcapture %}
-
-{% capture csb %}
-
-{%
-  include figure.html
-  image="images/cs.jpg"
-  caption="We utilize computational biology to analyze massive-scale data"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=nycr col2=immuno col3=csb %}
-
 
 {% include section.html %}
 
