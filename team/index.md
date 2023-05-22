@@ -25,6 +25,10 @@ nav:
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-paw" %}Technical support
 
+
+{% include portrait.html name="Boo" style="small" src="images/pets/boo.png"%}
+{% include portrait.html name="Nala" style="small" src="images/pets/nala.png"%}
+
 {% capture content %}
 {% include list.html data="pets" component="portrait" filters="role: pet" style="small" %}
 {% endcapture %}
