@@ -5,31 +5,34 @@ nav:
   tooltip: Lab papers
 ---
 
-# {% include icon.html icon="fa-solid fa-dna" %}Publications
+# {% include icon.html icon="fa-solid fa-book" %}Publications
 
 {% include section.html %}
+## Recent pre-prints
 
 
-# Recent pre-prints
-
+{% capture content %}
 {% include citation.html lookup="Codon affinity" style="rich" %}
 {% include citation.html lookup="Latent human herpesvirus" style="rich" %}
+{% endcapture %}
+{% include grid.html content=content %}
 
 {% include section.html %}
+## Selected publications
 
-# Selected publications
-
+{% capture content %}
 {% include citation.html lookup="long-lasting NK cell memory" style="rich" %}
 {% include citation.html lookup="drawn by single-cell genomics" style="rich" %}
 {% include citation.html lookup="Scalable, multimodal profiling" style="rich" %}
 {% include citation.html lookup="Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling" style="rich" %}
 {% include citation.html lookup="Interrogation of human hematopoiesis " style="rich" %}
 {% include citation.html lookup="Lineage Tracing in Humans" style="rich" %}
+{% endcapture %}
+{% include grid.html content=content %}
 
 
 
 {% include section.html %}
-
 # All works (2013- present)
 
 {% include search-box.html %}
