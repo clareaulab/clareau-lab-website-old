@@ -31,6 +31,26 @@ The lab is located on the 11th Floor of Zuckerman Research Center
 %}
 {%
   include button.html
+  type="docs"
+  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+%}
+{%
+  include button.html
+  type="docs"
+  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+%}
+{%
+  include button.html
+  type="docs"
+  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+%}
+{%
+  include button.html
+  type="docs"
+  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+%}
+{%
+  include button.html
   type="github"
   text="On GitHub"
   link="greenelab/lab-website-template"
