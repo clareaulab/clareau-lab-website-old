@@ -3,27 +3,27 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-rocket
+  icon: 
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: 
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-book
+  icon: 
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-book
+  icon: 
   description: Undergraduate Student
 
 alum:
-  icon: fa-solid fa-graduation-cap
+  icon: 
   description: Alumni
 
 pet:
-  icon: fa-solid fa-paw
+  icon: 
   description: 
 
 # general
