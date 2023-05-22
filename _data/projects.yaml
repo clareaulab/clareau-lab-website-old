@@ -6,7 +6,7 @@
   description: Just a holding pattern for now
 
 - title: Mitochondrial biology
-  subtitle: a subtitle
+  subtitle:
   image: images/gifs/mitochondria.gif
   link: research/mitochondria
   description: 
