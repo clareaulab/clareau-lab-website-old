@@ -14,9 +14,12 @@ links:
   orcid: 0000-0003-4179-4807
 ---
 
+## About
 Caleb is an Assistant Professor in the Computational and Systems Biology Program 
 at Memorial Sloan Kettering Cancer Center. He completed his undergraduate studies
 _summa cum laude_ from the University of Tulsa where he majored in Biochemistry and Mathematics. 
 He then went received a master's degree in Biostatistics and a PhD in Biological and Biomedical
 Sciences from Harvard University. As part of the inaugural cohort of Stanford Science Fellows, 
 Caleb completed his semi-independent postdoctoral work at Stanford University School of Medicine. 
+
+## Other
