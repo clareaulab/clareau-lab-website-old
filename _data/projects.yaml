@@ -1,24 +1,24 @@
-- title: Cool Dataset
+- title: Featured test
   subtitle: a subtitle
   group: featured
   image: images/gifs/hydrop.gif
-  link: research/test1.html
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: research/mitochondria
+  description: Just a holding pattern for now
 
 - title: Mitochondrial biology
   subtitle: a subtitle
   image: images/gifs/mitochondria.gif
-  link: research/test1
-  description: yyyy
+  link: research/mitochondria
+  description: 
 
 - title: Human genetics
   subtitle: 
   image: images/gifs/DNK.gif
-  link: research/test1
-  description: xx
+  link: research/mitochondria
+  description: 
 
 - title: Single-cell multiomics
   subtitle:
   image: images/gifs/hydrop.gif
-  link: research/test1
-  description: We do
+  link: research/single-cell
+  description: 
