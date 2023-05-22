@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Join us!
 
 
-{% capture hiring %}**Now hiring!**  The lab is recruiting at all levels. Email Caleb to discuss a possible position. {% endcapture %}
+{% capture hiring %} **The lab is recruiting at all levels.** Email Caleb to discuss a possible position. {% endcapture %}
 {% include alert.html type="info" content=hiring %}
 
 ## Philosophy
@@ -21,7 +21,6 @@ the skills and expertise needed to excel in the next phase of your career.
 In this pursuit, we are committed to ensuring that the environment in the lab is inclusive of individuals
 from diverse socio-economic, educational, and cultural backgrounds. 
 **We will always prioritize people over projects**. 
-
 
 
 {% include section.html %}
@@ -37,26 +36,33 @@ data science, genomics, and/or biotechnology.
 
 Postdocs will be employees of Memorial Sloan Kettering and be eligible for 
 [all postdoc benefits](https://www.mskcc.org/education-training/postdoctoral/resources-postdocs/compensation-benefits-resources), 
-including housing and medical benefits. Our lab offers starting salaries significantly above the MSKCC minimum. 
-
-
-If interested, reach out [Caleb directly](mailto:caleb.lareau@gmail.com) with a CV and a short summary of interests.
+including housing and medical benefits. Our lab offers starting salaries significantly
+above the MSKCC minimum. 
 
 
 ## Graduate students
 
 We are actively recruiting graduate students with interests in computational biology,
-single-cell genomics, immunotherapy, and/or molecular genetics. We can accept graduate students
-from most Tri-I programs. [Email Caleb](mailto:caleb.lareau@gmail.com) to discuss projects and set up a rotation. 
+single-cell genomics, immunotherapy, and/or molecular genetics. We have several rotation
+projects available concerning these topics individually and interdisciplinary. 
+We can accept graduate students from most Tri-I programs.  
 
 
 ## Staff scientists
 
 We are recruiting individuals interested in building the research program in the lab. 
-These positions vary depending on experience, educational background, and research interests. 
-If you think that you may be a good fit for a 
+Responsibilities and positions vary depending on experience, educational background, and
+research interests. If you think that you may be a good fit for the lab, please reach out! 
 
-If you think that you may be 
+## Interested in joining? 
+
+{%
+  include button.html
+  type="email"
+  text="Email Caleb"
+  link="caleb.lareau@gmail.com"
+%}
+
 
 {% include section.html dark=true %}
 
