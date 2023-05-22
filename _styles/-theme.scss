@@ -3,8 +3,8 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #4527a0;
-  --secondary: #5e35b1;
+  --primary: #3f51b5;
+  --secondary: #7986cb;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -13,8 +13,8 @@
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #4527a0;
-  --secondary: #311b92;
+  --primary: #3f51b5;
+  --secondary: #283593;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
@@ -25,9 +25,9 @@
 
 :root {
   // font families
-  --title: "Soleil", sans-serif;
-  --heading: "Soleil", sans-serif;
-  --body: "Soleil", sans-serif;
+  --title: "Tisa", sans-serif;
+  --heading: "Tisa", sans-serif;
+  --body: "Abel", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes
