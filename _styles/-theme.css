@@ -1,6 +1,6 @@
 [data-dark=false] {
-  --primary: #0ea5e9;
-  --secondary: #7dd3fc;
+  --primary: #4527a0;
+  --secondary: #5e35b1;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -10,8 +10,8 @@
 }
 
 [data-dark=true] {
-  --primary: #0ea5e9;
-  --secondary: #075985;
+  --primary: #4527a0;
+  --secondary: #311b92;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
@@ -21,9 +21,9 @@
 }
 
 :root {
-  --title: "Tisa", sans-serif;
-  --heading: "Tisa", sans-serif;
-  --body: "Tisa", sans-serif;
+  --title: "Abel", sans-serif;
+  --heading: "Abel", sans-serif;
+  --body: "Abel", sans-serif;
   --code: "Roboto Mono", monospace;
   --medium: 1rem;
   --large: 1.2rem;
