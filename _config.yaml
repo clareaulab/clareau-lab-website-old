@@ -4,6 +4,8 @@ subtitle: Established 2023
 description: Established 2023, Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center
 header: images/background.jpg
 footer: images/background.jpg
+header-dark: false
+footer-dark: false
 
 # site social media and other links
 links:
