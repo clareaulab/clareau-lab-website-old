@@ -41,7 +41,7 @@ The lab is located on the 11th Floor of Zuckerman Research Center
 {%
   include figure.html
   image="images/nyc.jpg"
-  caption="The lab is located on the Upper East Side of New York City."
+  caption="The lab is located in Zuckerman Research Center at Sloan Kettering in New York City."
 %}
 
 {% endcapture %}
