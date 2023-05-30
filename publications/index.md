@@ -7,16 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
-{% include section.html %}
 
 ## Recent pre-prints
 
 {% include citation.html lookup="Codon affinity" style="rich" %}
 {% include citation.html lookup="Latent human herpesvirus" style="rich" %}
 
+
+
 {% include section.html %}
-
-
 
 ## Selected publications
 
@@ -26,7 +25,6 @@ nav:
 {% include citation.html lookup="Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling" style="rich" %}
 {% include citation.html lookup="Interrogation of human hematopoiesis " style="rich" %}
 {% include citation.html lookup="Lineage Tracing in Humans" style="rich" %}
-
 
 
 {% include section.html %}
