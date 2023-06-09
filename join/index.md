@@ -11,16 +11,6 @@ nav:
 {% capture hiring %} **The lab is recruiting at all levels.** Email Caleb to discuss a possible position. {% endcapture %}
 {% include alert.html type="info" content=hiring %}
 
-## Philosophy
-
-Our mission as a lab is to train and develop the next generation of scientific leaders. 
-Whether you see yourself continuing in academia, building your own startup, teaching, 
-pursuing science policy, or are trying to figure it out, we will help you attain
-the skills and expertise needed to excel in the next phase of your career. 
-
-In this pursuit, we are committed to ensuring that the environment in the lab is inclusive of individuals
-from diverse socio-economic, educational, and cultural backgrounds. 
-**We will always prioritize people over projects**. 
 
 
 {% include section.html %}
@@ -54,6 +44,20 @@ We are recruiting individuals interested in building the research program in the
 Responsibilities and positions vary depending on experience, educational background, and
 research interests. If you think that you may be a good fit for the lab, please reach out! 
 
+{% include section.html %}
+
+## Philosophy
+
+Our mission as a lab is to train and develop the next generation of scientific leaders. 
+Whether you see yourself continuing in academia, building your own startup, teaching, 
+pursuing science policy, or are trying to figure it out, we will help you attain
+the skills and expertise needed to excel in the next phase of your career. 
+
+In this pursuit, we are committed to ensuring that the environment in the lab is inclusive of individuals
+from diverse socio-economic, educational, and cultural backgrounds. 
+**We will always prioritize people over projects**. 
+
+
 ## Interested in joining? 
 
 {%
@@ -64,7 +68,7 @@ research interests. If you think that you may be a good fit for the lab, please 
 %}
 
 
-{% include section.html dark=true %}
+{% include section.html dark=false %}
 
 {% capture col1 %}
 Lorem ipsum dolor sit amet  

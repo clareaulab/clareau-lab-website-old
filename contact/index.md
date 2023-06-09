@@ -7,14 +7,13 @@ carousels:
   - images: 
     - image: /images/zuckerman.jpg
 ---
-
-
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
 {% include section.html size="full"%}
+
 {% include figure.html image="images/nyc-crappy.svg"  height="80" unit="%" %}
 
 {% include section.html size="full" %}
+
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 {% include carousel.html height="40" unit="%" duration="10" number="1" %}
 
