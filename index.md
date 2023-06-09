@@ -14,17 +14,8 @@ The lab is located on the 11th Floor of Zuckerman Research Center
 
 {% include section.html size="full" %}
 
-[![circles][images/circles.jpg]][https://clareaulab.com/research/]
-
-# test new
-
-[![circles2][images/circles.jpg]][/research]
-
-
-
-[![](http://i.stack.imgur.com/vwxyz.png)](http://i.stack.imgur.com/vwxyz.png)
-
-[![](/images/circles.jpg)](http://i.stack.imgur.com/vwxyz.png)
+[![](/images/circles.jpg)](https://clareaulab.com/research/)
+[![](/images/circles.jpg)](research)
 
 
 
