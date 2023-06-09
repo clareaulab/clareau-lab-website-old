@@ -14,11 +14,7 @@ nav:
 - **May** Caleb is featured as an[Emerging Leader in Computational Oncology](https://componcmsk.org/event/computational-oncology-emerging-leaders-2023/) at MSKCC.
 - **April** Caleb presents in Utah at the annual [NHGRI Trainee meeting](https://www.genome.gov/event-calendar/NHGRI-Research-Training-and-Career-Development-Annual-Meeting).
 
+{% include list.html data="posts" component="post-excerpt" %}
 
-<details open><summary>Hello</summary><blockquote>
-Some text here
-- including one 
-- two
-</blockquote></details>
 
 <br>
