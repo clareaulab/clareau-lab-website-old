@@ -5,6 +5,7 @@ description: 2020-2023
 role: alum
 group: alum
 links:
+	linkedin: emma-（yajie）-yin-173776118
 ---
 
 ### About
