@@ -5,7 +5,6 @@ description: 2022-2023
 role: alum
 group: alum
 links:
-	papers: tsion+abay
 ---
 
 ### About
