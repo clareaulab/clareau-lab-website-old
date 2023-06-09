@@ -26,6 +26,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-paw" %}Technical support
 
 
+{% include portrait.html name="Boo" style="small" image="images/pets/alpha.png" %}
 {% include portrait.html name="Boo" style="small" image="images/pets/boo.png" %}
 {% include portrait.html name="Nala" style="small" image="images/pets/nala.png" %}
 
