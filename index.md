@@ -14,8 +14,8 @@ The lab is located on the 11th Floor of Zuckerman Research Center
 
 {% include section.html size="full" %}
 
-[![](/images/circles.jpg)](https://clareaulab.com/research/)
-[![](/images/circles.jpg)](research)
+[![See our research,80%](/images/circles.jpg)](https://clareaulab.com/research/)
+[![View our research,60%](/images/circles.jpg)](research)
 
 
 
@@ -54,7 +54,7 @@ The lab is located on the 11th Floor of Zuckerman Research Center
 {%
   include figure.html
   image="images/cs.jpg"
-  caption="We specialize in computational approaches for massive-scale genomics data."
+  caption="We specialize in computational methods for massive-scale genomics data."
 %}
 
 {% endcapture %}
