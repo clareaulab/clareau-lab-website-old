@@ -9,9 +9,3 @@ links:
 
 ### About
 Emma . She is current a XYZ in Ansu's lab.
-
-{%
-  include figure.html
-  image="/images/people/emma-yin-fun.jpg"
-  caption="Emma being wild"
-%}

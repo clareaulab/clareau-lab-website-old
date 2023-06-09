@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Lareau Lab
-subtitle: at MSKCC
 description: The Lareau Laboratory for Computational and Translation Immunology is housed in the csBio Program at Memorial Sloan Kettering Cancer Center, New York City, NY.
+logo-text: false
 header: images/scistories.jpg
 footer: images/scistories.jpg
 header-dark: false
