@@ -27,38 +27,4 @@ The lab is located on the 11th Floor of Zuckerman Research Center
 {% include carousel.html height="30" unit="%" duration="10" number="1" %}
 
 
-{% include section.html %}
-
-{% capture immuno %}
-
-{%
-  include figure.html
-  image="images/immune.jpg"
-  caption="Our group focuses on questions involving the immune system and immunotherapies."
-%}
-
-{% endcapture %}
-
-{% capture nycr %}
-
-{%
-  include figure.html
-  image="images/nyc.jpg"
-  caption="The lab is located in Zuckerman Research Center at Sloan Kettering in New York City."
-%}
-
-{% endcapture %}
-
-{% capture csb %}
-
-{%
-  include figure.html
-  image="images/cs.jpg"
-  caption="We specialize in computational methods for massive-scale genomics data."
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=immuno col2=csb col3=nycr %}
-
 
