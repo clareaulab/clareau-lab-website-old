@@ -1,6 +1,5 @@
 ---
 title: Home
-
 ---
 
 {% include section.html size="wide" %}

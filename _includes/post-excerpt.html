@@ -7,7 +7,7 @@
 <div class="post-excerpt">
   {% assign url = post.url %}
   {% assign title = post.title %}
-  <b>{{ title }}</b><br>
+  <b>{{ title }}</b>
 
   {%
     include post-info.html
@@ -26,7 +26,7 @@
     | strip_newlines
     | regex_strip
   %}
-  <p data-search="{{ search }}">
+  <p data-search="{{ search }}" style="text-align:right;">
     {{ excerpt }}
   </p>
 </div>
