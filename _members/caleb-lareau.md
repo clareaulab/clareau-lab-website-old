@@ -10,8 +10,8 @@ aliases:
   - Caleb Lareau
   - Caleb A Lareau
 links:
-	twitter: caleblareau
-	github: caleblareau
+  twitter: caleblareau
+  github: caleblareau
 ---
 
 ### About
