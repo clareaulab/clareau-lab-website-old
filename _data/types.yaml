@@ -34,7 +34,7 @@ link:
   tooltip: Link
 
 papers:
-  icon: fa-brands fa-book
+  icon: fa-solid fa-book
   text: Publications
   tooltip: Publications
   link: https://clareaulab.com/publications/?search=$VALUE

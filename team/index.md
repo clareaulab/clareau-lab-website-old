@@ -13,7 +13,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd"  style="medium"  %}
 
 
-{% include section.html background="images/scistories.jpg" dark=true %}
+{% include section.html background="images/scistories.jpg" dark=false %}
 {% include section.html %}
 
 
@@ -21,7 +21,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: alum" style="medium"  %}
 
-{% include section.html background="images/scistories.jpg" dark=true %}
+{% include section.html background="images/scistories.jpg" dark=false %}
 
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-paw" %}Technical support
