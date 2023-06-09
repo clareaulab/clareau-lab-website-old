@@ -59,6 +59,6 @@ The lab is located on the 11th Floor of Zuckerman Research Center
 
 {% endcapture %}
 
-{% include cols.html col1=nycr col2=immuno col3=csb %}
+{% include cols.html col1=immuno col2=csb col3=nycr %}
 
 
