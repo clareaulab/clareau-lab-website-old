@@ -33,6 +33,12 @@ link:
   text: Link
   tooltip: Link
 
+papers:
+  icon: fa-brands fa-book
+  text: Publications
+  tooltip: Publications
+  link: https://clareaulab.com/publications/?search=$VALUE
+
 website:
   icon: fa-solid fa-globe
   text: Website
@@ -132,7 +138,7 @@ help:
 
 info:
   icon: fa-solid fa-circle-info
-  color: "#0ea5e9"
+  color: "#104e8b"
 
 success:
   icon: fa-solid fa-circle-check
