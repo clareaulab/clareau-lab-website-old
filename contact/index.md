@@ -16,9 +16,9 @@ nav:
 {% include section.html dark=false %}
 
 {% capture col1 %}
-Lareau Lab
-417 East 68th Street
-Zuckerman Research Center, 11th Floor
+Lareau Lab<br>
+417 East 68th Street<br>
+Zuckerman Research Center, 11th Floor<br>
 New York, NY 10065
 {% endcapture %}
 
