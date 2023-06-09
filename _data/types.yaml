@@ -75,6 +75,11 @@ search:
   icon: fa-solid fa-magnifying-glass
   text: Search
   tooltip: Search
+  
+search:
+  icon: fa-duotone fa-file
+  text: CV
+  tooltip: CV
 
 # social media
 

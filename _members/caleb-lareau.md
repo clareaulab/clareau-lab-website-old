@@ -12,11 +12,13 @@ aliases:
 links:
   twitter: caleblareau
   github: caleblareau
+  CV: https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau
 ---
 
 ### About
 Caleb is an Assistant Member in the Computational and Systems Biology Program 
 at Sloan Kettering Institute. Caleb joined MSK from Stanford University where he was a 
 Stanford Science Fellow and Parker Scholar at the Parker Institute for Cancer Immunotherapy. 
-He completed his undergraduate studies at the University of Tulsa and his graduate work at Harvard University.
+Originally from Oklahoma, Caleb completed his undergraduate studies at the University of Tulsa 
+before attending Harvard University for his graduate work. 
 

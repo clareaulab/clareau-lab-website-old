@@ -58,7 +58,7 @@ from diverse socio-economic, educational, and cultural backgrounds.
 **We will always prioritize people over projects**. 
 
 
-## Interested in joining? 
+### Interested in joining? 
 
 {%
   include button.html
