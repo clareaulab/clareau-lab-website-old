@@ -29,7 +29,6 @@ nav:
 {% include portrait.html name="Alpha" style="small" image="images/pets/alpha.png" %}
 {% include portrait.html name="Boo" style="small" image="images/pets/boo.png" %}
 {% include portrait.html name="Brooks" style="small" image="images/pets/brooks.png" %}
-
 {% include portrait.html name="Nala" style="small" image="images/pets/nala.png" %}
 
 {% capture content %}
