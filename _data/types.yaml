@@ -76,7 +76,7 @@ search:
   text: Search
   tooltip: Search
   
-search:
+CV:
   icon: fa-duotone fa-file
   text: CV
   tooltip: CV
