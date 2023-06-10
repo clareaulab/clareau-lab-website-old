@@ -4,9 +4,6 @@ nav:
   order: 6
   tooltip: Contact us
 ---
-{% include section.html size="full"%}
-
-{% include figure.html image="images/nyc-crappy.svg"  height="80" unit="%" %}
 
 {% include section.html %}
 

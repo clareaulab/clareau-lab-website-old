@@ -1,12 +1,17 @@
 ---
 title: Testbed
-header: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
-footer: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
-header-dark: false
-footer-dark: false
+header: images/scistories.jpg
+footer: images/scistories.jpg
+header-dark: true
+footer-dark: true
 ---
 
 # Testbed
+
+{% include section.html size="full"%}
+
+{% include figure.html image="images/nyc-crappy.svg"  height="80" unit="%" %}
+
 
 {% include section.html %}
 
