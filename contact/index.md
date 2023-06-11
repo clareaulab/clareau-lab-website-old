@@ -7,7 +7,7 @@ nav:
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-bullseye-arrow" %}Contact
+# {% include icon.html icon="fa-solid fa-magnifying-glass" %}Contact
 
 
 {% capture col1 %}
@@ -29,7 +29,7 @@ New York, NY 10065
   text="Email Caleb"
   link="caleb.lareau@gmail.com"
 %}
-
+<br>
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
