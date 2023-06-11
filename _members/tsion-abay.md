@@ -15,5 +15,5 @@ Before starting graduate school, she graduated from Rowan University and was a R
 Associate at Twist Biosciences. Most recently, she worked as a Research Associate II with Caleb
 and Bob Stickels in the Satpathy Lab at the Gladstone Institutes.
 During her time in the group, she lead the development of new genomics technologies to
-study rare cells via single-cell sequencing. Ask her about her plants!   :hibiscus: :seedling: :blossom: :four_leaf_clover: :cherry_blossom:
+study rare cells via single-cell sequencing. Ask her about her plants! &nbsp; :hibiscus: :seedling: :blossom: :four_leaf_clover: :cherry_blossom:
 

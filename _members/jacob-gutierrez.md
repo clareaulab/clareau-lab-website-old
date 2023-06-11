@@ -21,4 +21,4 @@ Satpathy Lab at Stanford University School of Medicine as a computational biolog
 on the analyses of single-cell multi-omics and spatial datasets. Jacob completed his Bachelors
 degree from Lewis and Clark College in Biochemistry and Molecular Biology then a masters degree
 in Bioinformatics from Oregon Health and Science University. Jacob is the resident expert baker
-and may make you delicious treats  :cookie:  if you ask him nicely. 
+and may make you delicious treats &nbsp; :cookie: &nbsp; if you ask him nicely. 

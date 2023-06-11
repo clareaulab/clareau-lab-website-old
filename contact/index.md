@@ -7,7 +7,7 @@ nav:
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-sharp fa-regular fa-bullseye-arrow" %}Contact
+# {% include icon.html icon="fa-solid fa-bullseye-arrow" %}Contact
 
 
 {% capture col1 %}
@@ -22,7 +22,7 @@ New York, NY 10065
 {% endcapture %}
 
 {% capture col3 %}
-<br><br>
+<br>
 {%
   include button.html
   type="email"

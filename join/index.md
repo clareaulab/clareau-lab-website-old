@@ -17,9 +17,17 @@ nav:
 
 # Open positions
 
+
+## Lab manager / staff scientist
+
+We are recruiting an individual interested in building the research program in the lab. 
+Responsibilities and positions vary depending on experience, educational background, and
+research interests. If you think that you may be a good fit for the lab, please reach out! 
+
+
 ## Postdoctoral associates
 
-We are recruiting 2-3 postdoctoral associates to help build the research environment in the lab.
+We are recruiting two postdoctoral associates to help build the research environment in the lab.
 We are particularly interested in individuals with wet-bench 
 backgrounds, including those that seek mentored training in computational biology,
 data science, genomics, and/or biotechnology. 
@@ -37,12 +45,6 @@ single-cell genomics, immunotherapy, and/or molecular genetics. We have several 
 projects available concerning these topics individually and interdisciplinary. 
 We can accept graduate students from most Tri-I programs.  
 
-
-## Staff scientists
-
-We are recruiting individuals interested in building the research program in the lab. 
-Responsibilities and positions vary depending on experience, educational background, and
-research interests. If you think that you may be a good fit for the lab, please reach out! 
 
 {% include section.html %}
 
