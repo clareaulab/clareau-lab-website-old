@@ -7,10 +7,8 @@ nav:
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-sharp fa-regular fa-bullseye-arrow" %}Contact
 
-
-{% include section.html dark=false %}
 
 {% capture col1 %}
 <b>Lareau Lab</b><br>
@@ -24,7 +22,7 @@ New York, NY 10065
 {% endcapture %}
 
 {% capture col3 %}
-
+<br><br>
 {%
   include button.html
   type="email"
@@ -37,6 +35,6 @@ New York, NY 10065
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 
-{% include section.html size = "full"%}
+{% include section.html size = "wide"%}
 
 {% include figure.html name="Zuckerman" image="images/zuckerman.jpg" %}
