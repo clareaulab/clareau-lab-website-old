@@ -1,5 +1,5 @@
 ---
-name: Tsion Abay
+name: Leonhard Pfänder
 image: images/people/leonhard-pfaender.png
 description: 2023
 role: alum

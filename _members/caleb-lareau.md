@@ -21,5 +21,5 @@ at Sloan Kettering Institute. Caleb joined MSK from Stanford University where he
 Stanford Science Fellow and Parker Scholar at the Parker Institute for Cancer Immunotherapy. 
 Originally from Oklahoma, Caleb completed his undergraduate studies at the University of Tulsa 
 before attending Harvard University for his graduate degrees. Outside of lab, Caleb continues
-his lifelong quest of finding the best slice of pizza :pizza: out there (in New York or otherwise). 
+his lifelong quest of finding the best slice of pizza &nbsp; :pizza:  &nbsp; out there (in New York or otherwise). 
 

@@ -34,7 +34,4 @@ New York, NY 10065
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
-
-{% include section.html size = "wide"%}
-
 {% include figure.html name="Zuckerman" image="images/zuckerman.jpg" %}
