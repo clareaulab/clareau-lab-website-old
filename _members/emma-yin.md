@@ -17,4 +17,4 @@ genomics assays to study clonal heterogeneity in immune cell populations, includ
 time at Stanford, Emma completed her Medical training at Weifang Medical College, a Masters degree in 
 Translational Medicine from the University of California, Irvine, and was a research Scholar at 
 the University of North Carolina, Chapel Hill. Outside of lab, you can find her trying to 
-keep her good friend Alpha :dog: out of (too much) trouble. 
+keep her good friend Alpha  :dog:  out of (too much) trouble. 

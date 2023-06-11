@@ -13,7 +13,7 @@ nav:
 {% include section.html dark=false %}
 
 {% capture col1 %}
-Lareau Lab<br>
+<b>Lareau Lab</b><br>
 417 East 68th Street<br>
 Zuckerman Research Center, 11th Floor<br>
 New York, NY 10065
@@ -25,6 +25,13 @@ New York, NY 10065
 
 {% capture col3 %}
 
+{%
+  include button.html
+  type="email"
+  text="Email Caleb"
+  link="caleb.lareau@gmail.com"
+%}
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
@@ -33,10 +40,3 @@ New York, NY 10065
 {% include section.html size = "full"%}
 
 {% include figure.html name="Zuckerman" image="images/zuckerman.jpg" %}
-
-{%
-  include button.html
-  type="email"
-  text="Email Caleb"
-  link="caleb.lareau@gmail.com"
-%}
