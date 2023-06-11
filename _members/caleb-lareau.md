@@ -10,9 +10,9 @@ aliases:
   - Caleb Lareau
   - Caleb A Lareau
 links:
+  CV: https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau
   twitter: caleblareau
   github: caleblareau
-  CV: https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau
 ---
 
 ### Bio

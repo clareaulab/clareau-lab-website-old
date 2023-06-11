@@ -62,13 +62,14 @@ from diverse socio-economic, educational, and cultural backgrounds.
 
 ### Interested in joining? 
 
+<p style="text-align:left;">
 {%
   include button.html
   type="email"
   text="Email Caleb"
   link="caleb.lareau@gmail.com"
 %}
-
+</p>
 
 {% include section.html dark=false %}
 
