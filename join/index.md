@@ -5,7 +5,7 @@ nav:
   tooltip: Join us!
 ---
 
-# {% include icon.html icon="fa-solid fa-plus" %}{% include icon.html icon="fa-solid fa-plus" %} Open positions
+# {% include icon.html icon="fa-solid fa-users" %} Open positions
 
 
 {% capture hiring %} **The lab is recruiting at all levels.** Email Caleb to discuss a possible position. {% endcapture %}
