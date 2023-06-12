@@ -5,17 +5,11 @@ nav:
   tooltip: Join us!
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Join us!
+# {% include icon.html icon="fa-solid fa-plus" %}{% include icon.html icon="fa-solid fa-plus" %} Open positions
 
 
 {% capture hiring %} **The lab is recruiting at all levels.** Email Caleb to discuss a possible position. {% endcapture %}
 {% include alert.html type="info" content=hiring %}
-
-
-
-{% include section.html %}
-
-# Open positions
 
 
 ## Lab manager / staff scientist
@@ -71,24 +65,4 @@ from diverse socio-economic, educational, and cultural backgrounds.
 %}
 </p>
 
-{% include section.html dark=false %}
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

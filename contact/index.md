@@ -15,7 +15,7 @@ Come find us at these upcoming events!
 
 - <b>July 10-12, 2023</b> - [Human Cell Atlas General Meeting](https://events.humancellatlas.org/2023gm); Toronto, CA
 - <b>October 9-11, 2023</b> - [Single Cell Genomics 2023](https://conferences.weizmann.ac.il/SCG2023/single-cell-genomics-2023); Engelberg, Switzerland
-- <b>November 1-5, 2023</b> - SITC 2023](https://www.sitcancer.org/events/event-description); San Diego, CA
+- <b>November 1-5, 2023</b> - [SITC 2023](https://www.sitcancer.org/events/event-description); San Diego, CA
 
 ## Address
 
