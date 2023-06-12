@@ -53,6 +53,7 @@ In this pursuit, we are committed to ensuring that the environment in the lab is
 from diverse socio-economic, educational, and cultural backgrounds. 
 **We will always prioritize people over projects**. 
 
+{% include section.html %}
 
 ### Interested in joining? 
 
