@@ -8,10 +8,6 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %} Open positions
 
 
-{% capture hiring %} **The lab is recruiting at all levels.** Email Caleb to discuss a possible position. {% endcapture %}
-{% include alert.html type="info" content=hiring %}
-
-
 ## Lab manager / staff scientist
 
 We are recruiting an individual interested in building the research program in the lab. 

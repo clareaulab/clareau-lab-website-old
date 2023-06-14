@@ -5,7 +5,7 @@
   link: research/mitochondria
   description: Just a holding place for now
 
-- title: Cancer Immunotherapy
+- title: Cancer Immunology and Immunotherapy
   subtitle: 
   image: images/ai/immune.jpg
   link: research/io
@@ -23,8 +23,14 @@
   link: research/mitochondria
   description: 
 
-- title: Single-cell multiomics
+- title: Single-cell Technology Development
   subtitle:
   image: images/ai/singlecellmultiomics.jpg
   link: research/single-cell
+  description: 
+
+- title: Somatic Evolution
+  subtitle:
+  image: images/ai/somaticmosaic.jpg
+  link: research/somatic-evolution
   description: 

@@ -7,6 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+{% capture hiring %} **The lab is recruiting at all levels.** [Email Caleb](mailto:caleb.lareau@gmail.com) to discuss a possible position. {% endcapture %}
+{% include alert.html type="info" content=hiring %}
+
 
 {% include list.html data="members" component="portrait" filters="role: pi" style="large"  style="medium"   %}
 {% include list.html data="members" component="portrait" filters="role: postdoc"   style="medium"  %}

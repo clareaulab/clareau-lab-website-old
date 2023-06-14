@@ -5,19 +5,28 @@ nav:
   tooltip: Lab projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Computational and Translational Immunology
+# {% include icon.html icon="fa-solid fa-flask" %}Computational and Translational Immunology
 
-Our laboratory has broad interests in studying processes of **somatic evolution** whereby cells
+The overall theme of our lab's research is **Computational and Translational Immunology**,
+which 
+
+Our laboratory has broad interests in studying processes of [somatic evolution](somatic-evolution) whereby cells
 adapt, expand, differentiate, or die in response to genetic and environmental factors within 
-an individuals
+an individual's lifetime. We're particularly interested in studying these processes in the hematopoetic 
+system, spanning circulating blood to immune cells that are resident in tissues and tumors. 
+
+{% include section.html %}
 
 ## Research areas
 
-{% include list.html component="card" data="projects" filters="group: " %}
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+
+{% include section.html %}
 
 ## Funding
 
-{% include section.html %}
+Our research is currently supported by the generous contributions from these sources:
 
 {% capture mskcc %}
 
