@@ -13,7 +13,7 @@ an individuals
 
 ## Research areas
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: " %}
 
 ## Funding
 
@@ -23,7 +23,7 @@ an individuals
 
 {%
   include figure.html
-  image="images/mskcc.png"
+  image="images/funding/mskcc.png"
 %}
 
 {% endcapture %}
@@ -32,7 +32,7 @@ an individuals
 
 {%
   include figure.html
-  image="images/kravis-ecosystems.png"
+  image="images/funding/kravis-ecosystems.png"
 %}
 
 {% endcapture %}
@@ -41,7 +41,7 @@ an individuals
 
 {%
   include figure.html
-  image="images/nhgri.png"
+  image="images/funding/nhgri.png"
 %}
 
 {% endcapture %}
