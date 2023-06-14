@@ -3,26 +3,25 @@ title: Mitochondrial research
 
 ---
 
-# Hello
+# Mitochondrial Biology Reserach
 
+{% include section.html %}
 
+## Mitochondrial DNA as a lineage recorder
 
+## 
+
+## Resources
 {%
   include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-
-{%
-  include button.html
-  type="docs"
+  type="docs",
+  text = "mtscATAC-seq Protocol",
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
 %}
 {%
   include button.html
   type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
+  text="mgatk package",
+  link="caleblareau/mgatk"
 %}
 
-{% include section.html %}

@@ -3,22 +3,28 @@
   group: featured
   image: images/gifs/hydrop.gif
   link: research/mitochondria
-  description: Just a holding pattern for now
+  description: Just a holding place for now
 
-- title: Mitochondrial biology
+- title: Cancer Immunotherapy
+  subtitle: 
+  image: images/ai/immune.jpg
+  link: research/io
+  description: 
+  
+- title: Computational Biology
   subtitle:
-  image: images/gifs/mitochondria.gif
+  image: images/ai/cs.jpg
   link: research/mitochondria
   description: 
 
-- title: Human genetics
-  subtitle: 
-  image: images/gifs/DNK.gif
+- title: Mitochondrial DNA
+  subtitle:
+  image: images/ai/mito.jpg
   link: research/mitochondria
   description: 
 
 - title: Single-cell multiomics
   subtitle:
-  image: images/gifs/hydrop.gif
+  image: images/ai/singlecellmultiomics.jpg
   link: research/single-cell
   description: 

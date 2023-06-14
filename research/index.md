@@ -2,49 +2,49 @@
 title: Research
 nav:
   order: 2
-  tooltip: What we do
+  tooltip: Lab projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Computational and Translational Immunology
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our laboratory has broad interests in studying processes of **somatic evolution** whereby cells
+adapt, expand, differentiate, or die in response to genetic and environmental factors within 
+an individuals
+
+## Research areas
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+## Funding
 
 {% include section.html %}
 
-{% capture immuno %}
+{% capture mskcc %}
 
 {%
   include figure.html
-  image="images/immune.jpg"
-  caption="Our group focuses on questions involving the immune system and immunotherapies."
+  image="images/mskcc.png"
 %}
 
 {% endcapture %}
 
-{% capture nycr %}
+{% capture kravis %}
 
 {%
   include figure.html
-  image="images/nyc.jpg"
-  caption="The lab is located in Zuckerman Research Center at Sloan Kettering in New York City."
+  image="images/kravis-ecosystems.png"
 %}
 
 {% endcapture %}
 
-{% capture csb %}
+{% capture nhgri %}
 
 {%
   include figure.html
-  image="images/cs.jpg"
-  caption="We specialize in computational methods for massive-scale genomics data."
+  image="images/nhgri.png"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=immuno col2=csb col3=nycr %}
+{% include cols.html col1=mskcc col2=kravis col3=nhgri %}
 
-
-## Research focuses
-
-{% include list.html component="card" data="projects" filters="group: " style="small" %}

@@ -1,0 +1,59 @@
+---
+title: "Publications"
+author: "Caleb Lareau"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+
+```{r, echo=FALSE,results = 'asis'}
+library(yaml)
+library(dplyr)
+library(data.table)
+# Import data
+cite <- read_yaml("../_data/citations.yaml")
+gs <- data.frame(data.table::fread("gscholar-14june2023.csv"))
+
+#Match it
+google_match_vec <- lapply(1:length(cite), function(i){
+  agrep(cite[[i]]$title,gs$Title)
+})
+
+papers_df <- lapply(1:length(cite), function(i){
+  
+  # Deal with authors and bold CL name
+  authors_list <- cite[[i]]$authors
+  cl_hit <- agrep("Lareau", authors_list)
+  authors_list[cl_hit] <- paste0("**",authors_list[cl_hit],"**")
+  authors <- paste0(authors_list, collapse = ", ")
+  
+  year <- substr(cite[[i]]$date,1,4)
+  title <- cite[[i]]$title
+  journal <- paste0("***", cite[[i]]$publisher, "***")
+  doi <- cite[[i]]$id
+  
+  # Pull stuff from google entry
+  hit <- head(google_match_vec[[i]], 1)
+  if(length(hit) > 0){
+    gs_ss <- gs[hit,]
+    volume <- gs_ss[["Volume"]]
+    number <- gs_ss[["Number"]]
+    pages <- gs_ss[["Pages"]]
+  } else{
+    volume = "MISSING"
+    number = "MISSING"
+    pages = "MISSING"
+  }
+  
+  final_product <- paste0(authors, ". ", title, ". ", journal, " *", volume,"*, ",pages,  " (", year, "). ",doi,"\n")
+  data.frame(final_product, date = cite[[i]]$date)
+}) %>% rbindlist() %>% data.frame() %>%  arrange((date)) # add desc() for reverse chronolocial
+
+# Print it out
+sapply(papers_df$final_product, function(paper){
+  cat(paste0(paper))
+  cat("\n")
+  cat("\n")
+})
+
+```
