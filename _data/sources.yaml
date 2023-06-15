@@ -1,6 +1,30 @@
 
 # highlighted articles
 
+
+
+- id: doi:10.1038/s41596-022-00795-3
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://clareaulab.github.io/pdfs/Lareau-NatProt-2023.pdf
+      
+  
+- id: doi:10.1038/s41467-020-14667-5
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
+  buttons:
+    - type: github
+      text: Code
+      link: caleblareau/barcode-multiplets
+    - type: twitter
+      text: Tweetorial
+      link: CalebLareau/status/118964033652990361
+    - type: paper
+      text: PDF
+      link: https://clareaulab.github.io/pdfs/Lareau-NatComms-2020.pdf
+      
+
 # NK cell
 - id: doi:10.1038/s41590-022-01327-7
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/adaptnk.png
@@ -14,9 +38,6 @@
     - type: website
       text: News and Views
       link: https://www.nature.com/articles/s41590-022-01336-6
-  tags:
-    - immunology
-    - singlecell
 
 #Cancer cell review
 - id: doi:10.1016/j.ccell.2021.11.005
@@ -77,8 +98,21 @@
       text: Tweetorial
       link: caleblareau/status/1101158837447548928
 
+# barcoded tn5 paper
+- id: doi:10.1038/s41587-019-0147-6
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodetn5.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauDuarteChew-NBT-2019.pdf
+    - type: github
+      text: Code
+      link: caleblareau/bap
+    - type: website
+      text: Coverage from Harvard Gazette
+      link: https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/
 
-# gchromvar paper
+# singlecell single variant paper
 - id: doi:10.1038/s41588-019-0362-6
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/singlecellbloodtraits.png
   buttons:
@@ -124,6 +158,7 @@
     - type: github
       text: Code
       link: caleblareau/pearson_syndrome
+
 # Kamir
 - id: doi:10.1101/2021.09.26.461821
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/kamirdc.png
@@ -142,17 +177,7 @@
 
 - id: doi:10.1038/s41587-023-01797-6
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/metacells.png
-  
-- id: doi:10.1038/s41467-020-14667-5
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
-  buttons:
-    - type: github
-      text: Code
-      link: caleblareau/barcode-multiplets
-    - type: twitter
-      text: Tweetorial
-      link: CalebLareau/status/118964033652990361
-      
+
 - id: doi:10.1182/blood.2021013753
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/gata1307.png
   
@@ -165,9 +190,6 @@
 - id: doi:10.1007/978-1-0716-2899-7_14
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbmtscatac.png
 
-- id: doi:10.1038/s41596-022-00795-3
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
-  
 - id: doi:10.1126/sciimmunol.abl5053
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/etac-jc.png
 
@@ -179,9 +201,6 @@
 
 - id: doi:10.1016/j.cell.2020.08.008
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/bcxgcv.png
-
-- id: doi:10.1038/s41587-019-0147-6
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodetn5.png
 
 - id: doi:10.1182/bloodadvances.2019001196
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mitolong.png
