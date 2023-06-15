@@ -26,6 +26,12 @@
   - type: paper
     text: PDF
     link: https://clareaulab.github.io/pdfs/Lareau-NatProt-2023.pdf
+  - type: github
+    text: Code
+    link: caleblareau/mtscatac_protocol
+  - type: twitter
+    text: Tweetorial
+    link: CalebLareau/status/1626007563908308997
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-020-14667-5
@@ -41,15 +47,15 @@
   link: https://doi.org/gms3vv
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
   buttons:
+  - type: paper
+    text: PDF
+    link: https://clareaulab.github.io/pdfs/Lareau-NatComms-2020.pdf
   - type: github
     text: Code
     link: caleblareau/barcode-multiplets
   - type: twitter
     text: Tweetorial
     link: CalebLareau/status/118964033652990361
-  - type: paper
-    text: PDF
-    link: https://clareaulab.github.io/pdfs/Lareau-NatComms-2020.pdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41590-022-01327-7
@@ -324,6 +330,9 @@
   link: https://doi.org/gr7bzp
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/m7076.png
   buttons:
+  - type: paper
+    text: PDF
+    link: https://www.biorxiv.org/content/10.1101/2023.04.23.537997v1.full.pdf
   - type: github
     text: Code
     link: caleblareau/m7076
@@ -376,6 +385,9 @@
   link: https://doi.org/gr7b6p
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
   buttons:
+  - type: paper
+    text: PDF
+    link: https://www.biorxiv.org/content/10.1101/2022.08.12.503683v2.full.pdf
   - type: github
     text: Code
     link: caleblareau/hhv6-reactivation
