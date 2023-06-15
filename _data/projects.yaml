@@ -11,13 +11,13 @@
   link: research/io
   description: 
   
-- title: Computational Biology
+- title: Computational biology
   subtitle:
   image: images/ai/cs.jpg
   link: research/mitochondria
   description: 
 
-- title: Mitochondrial DNA
+- title: Mitochondrial genetics
   subtitle:
   image: images/ai/mito.jpg
   link: research/mitochondria
@@ -29,7 +29,7 @@
   link: research/single-cell
   description: 
 
-- title: Somatic Evolution
+- title: Somatic evolution
   subtitle:
   image: images/ai/somaticmosaic.jpg
   link: research/somatic-evolution
