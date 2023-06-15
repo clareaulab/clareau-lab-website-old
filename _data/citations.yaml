@@ -1,5 +1,57 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41596-022-00795-3
+  title: Mitochondrial single-cell ATAC-seq for high-throughput multi-omic detection
+    of mitochondrial genotypes and chromatin accessibility
+  authors:
+  - Caleb A. Lareau
+  - Vincent Liu
+  - Christoph Muus
+  - Samantha D. Praktiknjo
+  - Lena Nitsch
+  - Pauline Kautz
+  - Katalin Sandor
+  - Yajie Yin
+  - Jacob C. Gutierrez
+  - Karin Pelka
+  - Ansuman T. Satpathy
+  - Aviv Regev
+  - Vijay G. Sankaran
+  - Leif S. Ludwig
+  publisher: Nature Protocols
+  date: '2023-02-15'
+  link: https://doi.org/gr7b5r
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
+  buttons:
+  - type: paper
+    text: PDF
+    link: https://clareaulab.github.io/pdfs/Lareau-NatProt-2023.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-020-14667-5
+  title: Inference and effects of barcode multiplets in droplet-based single-cell
+    assays
+  authors:
+  - Caleb A. Lareau
+  - Sai Ma
+  - Fabiana M. Duarte
+  - Jason D. Buenrostro
+  publisher: Nature Communications
+  date: '2020-02-13'
+  link: https://doi.org/gms3vv
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
+  buttons:
+  - type: github
+    text: Code
+    link: caleblareau/barcode-multiplets
+  - type: twitter
+    text: Tweetorial
+    link: CalebLareau/status/118964033652990361
+  - type: paper
+    text: PDF
+    link: https://clareaulab.github.io/pdfs/Lareau-NatComms-2020.pdf
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41590-022-01327-7
   title: Clonal expansion and epigenetic inheritance of long-lasting NK cell memory
   authors:
@@ -22,9 +74,6 @@
   - type: website
     text: News and Views
     link: https://www.nature.com/articles/s41590-022-01336-6
-  tags:
-  - immunology
-  - singlecell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ccell.2021.11.005
@@ -171,6 +220,37 @@
   - type: twitter
     text: Tweetorial
     link: caleblareau/status/1101158837447548928
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-019-0147-6
+  title: Droplet-based combinatorial indexing for massive-scale single-cell chromatin
+    accessibility
+  authors:
+  - Caleb A. Lareau
+  - Fabiana M. Duarte
+  - Jennifer G. Chew
+  - Vinay K. Kartha
+  - Zach D. Burkett
+  - Andrew S. Kohlway
+  - Dmitry Pokholok
+  - Martin J. Aryee
+  - Frank J. Steemers
+  - Ronald Lebofsky
+  - Jason D. Buenrostro
+  publisher: Nature Biotechnology
+  date: '2019-06-24'
+  link: https://doi.org/ggsf7q
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodetn5.png
+  buttons:
+  - type: paper
+    text: PDF
+    link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/pdfs/LareauDuarteChew-NBT-2019.pdf
+  - type: github
+    text: Code
+    link: caleblareau/bap
+  - type: website
+    text: Coverage from Harvard Gazette
+    link: https://news.harvard.edu/gazette/story/2019/06/new-atac-seq-method-from-harvard-accelerates-single-cell-research/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-019-0362-6
@@ -408,27 +488,6 @@
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/metacells.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/s41467-020-14667-5
-  title: Inference and effects of barcode multiplets in droplet-based single-cell
-    assays
-  authors:
-  - Caleb A. Lareau
-  - Sai Ma
-  - Fabiana M. Duarte
-  - Jason D. Buenrostro
-  publisher: Nature Communications
-  date: '2020-02-13'
-  link: https://doi.org/gms3vv
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
-  buttons:
-  - type: github
-    text: Code
-    link: caleblareau/barcode-multiplets
-  - type: twitter
-    text: Tweetorial
-    link: CalebLareau/status/118964033652990361
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1182/blood.2021013753
   title: Congenital anemia reveals distinct targeting mechanisms for master transcription
     factor GATA1
@@ -512,30 +571,6 @@
   date: '2023-01-01'
   link: https://doi.org/gr7b46
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbmtscatac.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41596-022-00795-3
-  title: Mitochondrial single-cell ATAC-seq for high-throughput multi-omic detection
-    of mitochondrial genotypes and chromatin accessibility
-  authors:
-  - Caleb A. Lareau
-  - Vincent Liu
-  - Christoph Muus
-  - Samantha D. Praktiknjo
-  - Lena Nitsch
-  - Pauline Kautz
-  - Katalin Sandor
-  - Yajie Yin
-  - Jacob C. Gutierrez
-  - Karin Pelka
-  - Ansuman T. Satpathy
-  - Aviv Regev
-  - Vijay G. Sankaran
-  - Leif S. Ludwig
-  publisher: Nature Protocols
-  date: '2023-02-15'
-  link: https://doi.org/gr7b5r
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciimmunol.abl5053
@@ -728,27 +763,6 @@
   date: '2020-09-01'
   link: https://doi.org/gg92dg
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/bcxgcv.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41587-019-0147-6
-  title: Droplet-based combinatorial indexing for massive-scale single-cell chromatin
-    accessibility
-  authors:
-  - Caleb A. Lareau
-  - Fabiana M. Duarte
-  - Jennifer G. Chew
-  - Vinay K. Kartha
-  - Zach D. Burkett
-  - Andrew S. Kohlway
-  - Dmitry Pokholok
-  - Martin J. Aryee
-  - Frank J. Steemers
-  - Ronald Lebofsky
-  - Jason D. Buenrostro
-  publisher: Nature Biotechnology
-  date: '2019-06-24'
-  link: https://doi.org/ggsf7q
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodetn5.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/bloodadvances.2019001196
