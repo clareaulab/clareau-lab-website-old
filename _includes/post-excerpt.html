@@ -8,12 +8,10 @@
   {% assign url = post.url %}
   {% assign title = post.title %}
   <b>{{ title }}</b>
-
   {%
     include post-info.html
     published=post.date
   %}
-
   {% assign excerpt = post.content
     | default: ""
     | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
