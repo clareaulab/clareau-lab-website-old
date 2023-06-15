@@ -5,7 +5,7 @@
   link: research/mitochondria
   description: Just a holding place for now
 
-- title: Cancer Immunology and Immunotherapy
+- title: Immunology and Immunotherapy
   subtitle: 
   image: images/ai/immune.jpg
   link: research/io
@@ -23,7 +23,7 @@
   link: research/mitochondria
   description: 
 
-- title: Single-cell Technology Development
+- title: Single-cell technologies
   subtitle:
   image: images/ai/singlecellmultiomics.jpg
   link: research/single-cell
