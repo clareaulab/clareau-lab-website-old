@@ -2,27 +2,33 @@
 # highlighted articles
 
 
-
+# Nature protocols paper
 - id: doi:10.1038/s41596-022-00795-3
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
   buttons:
     - type: paper
       text: PDF
       link: https://clareaulab.github.io/pdfs/Lareau-NatProt-2023.pdf
+    - type: github
+      text: Code
+      link: caleblareau/mtscatac_protocol
+    - type: twitter
+      text: Tweetorial
+      link: CalebLareau/status/1626007563908308997
       
-  
+# Barcode multiplets paper
 - id: doi:10.1038/s41467-020-14667-5
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
   buttons:
+    - type: paper
+      text: PDF
+      link: https://clareaulab.github.io/pdfs/Lareau-NatComms-2020.pdf
     - type: github
       text: Code
       link: caleblareau/barcode-multiplets
     - type: twitter
       text: Tweetorial
       link: CalebLareau/status/118964033652990361
-    - type: paper
-      text: PDF
-      link: https://clareaulab.github.io/pdfs/Lareau-NatComms-2020.pdf
 
 # NK cell
 - id: doi:10.1038/s41590-022-01327-7
@@ -132,6 +138,9 @@
 - id: doi:10.1101/2023.04.23.537997
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/m7076.png
   buttons:
+    - type: paper
+      text: PDF
+      link: https://www.biorxiv.org/content/10.1101/2023.04.23.537997v1.full.pdf
     - type: github
       text: Code
       link: caleblareau/m7076
@@ -143,6 +152,9 @@
 - id: doi:10.1101/2022.08.12.503683
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
   buttons:
+    - type: paper
+      text: PDF
+      link: https://www.biorxiv.org/content/10.1101/2022.08.12.503683v2.full.pdf
     - type: github
       text: Code
       link: caleblareau/hhv6-reactivation
@@ -150,6 +162,10 @@
       text: Tweetorial
       link: CalebLareau/status/1558314332059865088
       
+####
+
+
+
 # Pearson
 - id: doi:10.1101/2022.11.20.517242
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson-selection.png
