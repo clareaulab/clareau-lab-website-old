@@ -8,17 +8,12 @@ nav:
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
 
-## Recent pre-prints
-
-{% include citation.html lookup="Codon affinity" style="rich" %}
-{% include citation.html lookup="Latent human herpesvirus" style="rich" %}
-
-
-
-{% include section.html %}
-
 ## Selected publications
 
+{% include citation.html lookup="Codon affinity" style="rich" %}
+{% include citation.html lookup="Mitochondrial single-cell ATAC-seq for high-throughput multi-omic detection" style="rich" %}
+
+{% include citation.html lookup="Latent human herpesvirus" style="rich" %}
 {% include citation.html lookup="long-lasting NK cell memory" style="rich" %}
 {% include citation.html lookup="drawn by single-cell genomics" style="rich" %}
 {% include citation.html lookup="Scalable, multimodal profiling" style="rich" %}
@@ -29,7 +24,7 @@ nav:
 
 {% include section.html %}
 
-# All works (2013- present)
+## All works (2013- present)
 
 {% include search-box.html %}
 {% include search-info.html %}
