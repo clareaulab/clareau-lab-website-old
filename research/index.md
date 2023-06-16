@@ -5,7 +5,21 @@ nav:
   tooltip: Lab projects
 ---
 
-# {% include icon.html icon="fa-solid fa-flask" %}Computational and Translational Immunology
+# {% include icon.html icon="fa-solid fa-flask" %} Lareau Lab Research
+
+The focus of the Lareau Lab is to understand how cells in our bodies adapt, expand, and
+evolve during the course of our lives, particularly in the immune system.
+We are particularly interested in how somatic evolution—the collection of mutations,
+infections, and exposures to therapies that humans experience over a lifetime—reshapes
+these fundamental cellular processes. For example, we're interested in how hematopoietic 
+and immune cells 
+
+To study these processes, our group develops and applies computational methods
+and genomics-based technologies. 
+We specialize in utilizing single-cell multi-omics approaches that profile multiple
+orthogonal properties of the same individual cells, including cell state and lineage.
+In addition to resolving the functional heterogeneity of cells throughout the body,
+we hope to help translate our basic observations into safer and more efficacious cancer immunotherapies. 
 
 The overall theme of our lab's research is **Computational and Translational Immunology**,
 which 
@@ -17,7 +31,7 @@ system, spanning circulating blood to immune cells that are resident in tissues 
 
 {% include section.html %}
 
-## Research areas
+## Focus areas
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
 
