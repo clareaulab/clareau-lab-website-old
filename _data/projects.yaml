@@ -8,29 +8,29 @@
 - title: Cancer immunotherapies
   subtitle: 
   image: images/ai/immune.jpg
-  link: https://clareaulab.com/publications/?search=%22CAR+T%22+%22chimeric%22+%22cancer+therapy%22+%22antigen+map%22
+  link: https://clareaulab.com/publications/?search=%22CAR+T%22+%22chimeric%22+%22cancer+therapy%22+%22antigen+map%22#all-works-2013--present
   description: 
   
 - title: Computational biology
   subtitle:
   image: images/ai/cs.jpg
-  link: https://clareaulab.com/publications/?search=%22bioinformatics%22+%22pipeline%22+%22method%22+%22inference%22+%22massive%22
+  link: https://clareaulab.com/publications/?search=%22bioinformatics%22+%22pipeline%22+%22method%22+%22inference%22+%22massive%22#all-works-2013--present
   description: 
 
 - title: Mitochondrial genetics
   subtitle:
   image: images/ai/mito.jpg
-  link: https://clareaulab.com/publications/?search=mitochondria
+  link: https://clareaulab.com/publications/?search=mitochondria#all-works-2013--present
   description: 
 
 - title: Single-cell genomics
   subtitle:
   image: images/ai/singlecellmultiomics.jpg
-  link: https://clareaulab.com/publications/?search=%22single-cell%22+%22single+cell%22
+  link: https://clareaulab.com/publications/?search=%22single-cell%22+%22single+cell%22#all-works-2013--present
   description: 
 
 - title: Somatic evolution
   subtitle:
   image: images/ai/somaticmosaic.jpg
-  link: https://clareaulab.com/publications/?search=%22tag:%20single-cell%20multi-omics%22
+  link: https://clareaulab.com/publications/?search=%22tag:%20single-cell%20multi-omics%22#all-works-2013--present
   description: 

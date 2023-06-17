@@ -25,10 +25,11 @@ nav:
 
 {% include section.html %}
 
-## All works (2013- present)
-
 {% include search-box.html %}
 {% include search-info.html %}
+
+## All works (2013- present)
+
 {% include list.html data="citations" component="citation" style="rich" %}
 
 
