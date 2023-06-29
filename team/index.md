@@ -5,7 +5,7 @@ nav:
   tooltip: Who we are
 ---
 
-{% capture hiring %} **The lab is recruiting at all levels.** [Email Caleb](mailto:caleb.lareau@gmail.com) to discuss a possible position. {% endcapture %}
+{% capture hiring %} **The lab is recruiting at all levels.** [Email Caleb](mailto:lareauc@mskcc.org) to discuss a possible position. {% endcapture %}
 {% include alert.html type="info" content=hiring %}
 
 
