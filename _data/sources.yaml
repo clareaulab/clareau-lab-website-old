@@ -1,6 +1,22 @@
 
 # highlighted articles
 
+# Pearson paper
+- id: doi:10.1038/s41588-023-01433-8
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://clareaulab.github.io/pdfs/Lareau-NatGen-2023.pdf
+    - type: github
+      text: Code
+      link: caleblareau/pearson_syndrome
+    - type: twitter
+      text: Tweetorial
+      link: CalebLareau/status/1674442591717433344
+    - type: website
+      text: News and Views
+      link: https://www.nature.com/articles/s41588-023-01436-5
 
 # Nature protocols paper
 - id: doi:10.1038/s41596-022-00795-3

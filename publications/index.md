@@ -9,7 +9,7 @@ nav:
 
 
 ## Selected publications
-
+{% include citation.html lookup="disorders reveals dynamics of purifying selection across human immune cells" style="rich" %}
 {% include citation.html lookup="Codon affinity" style="rich" %}
 {% include citation.html lookup="Mitochondrial single-cell ATAC-seq for high-throughput multi-omic detection" style="rich" %}
 {% include citation.html lookup="long-lasting NK cell memory" style="rich" %}
