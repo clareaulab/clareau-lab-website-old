@@ -1,5 +1,58 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41588-023-01433-8
+  title: Single-cell multi-omics of mitochondrial DNA disorders reveals dynamics of
+    purifying selection across human immune cells
+  authors:
+  - Caleb A. Lareau
+  - Sonia M. Dubois
+  - Frank A. Buquicchio
+  - Yu-Hsin Hsieh
+  - Kopal Garg
+  - Pauline Kautz
+  - Lena Nitsch
+  - Samantha D. Praktiknjo
+  - Patrick Maschmeyer
+  - Jeffrey M. Verboon
+  - Jacob C. Gutierrez
+  - Yajie Yin
+  - Evgenij Fiskin
+  - Wendy Luo
+  - Eleni P. Mimitou
+  - Christoph Muus
+  - Rhea Malhotra
+  - Sumit Parikh
+  - Mark D. Fleming
+  - Lena Oevermann
+  - Johannes Schulte
+  - Cornelia Eckert
+  - Anshul Kundaje
+  - Peter Smibert
+  - Santosha A. Vardhana
+  - Ansuman T. Satpathy
+  - Aviv Regev
+  - Vijay G. Sankaran
+  - Suneet Agarwal
+  - Leif S. Ludwig
+  publisher: Nature Genetics
+  date: '2023-06-29'
+  link: https://doi.org/gsd4gd
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson.png
+  buttons:
+  - type: paper
+    text: PDF
+    link: https://clareaulab.github.io/pdfs/Lareau-NatGen-2023.pdf
+  - type: github
+    text: Code
+    link: caleblareau/pearson_syndrome
+  - type: twitter
+    text: Tweetorial
+    link: CalebLareau/status/1674442591717433344
+  - type: website
+    text: News and Views
+    link: https://www.nature.com/articles/s41588-023-01436-5
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41596-022-00795-3
   title: Mitochondrial single-cell ATAC-seq for high-throughput multi-omic detection
     of mitochondrial genotypes and chromatin accessibility
