@@ -8,8 +8,6 @@ carousels:
     
 {% include carousel.html height="30" unit="%" duration="10" number="1" %}
 
-
-
-
-
 ```
+
+
