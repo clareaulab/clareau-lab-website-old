@@ -8,7 +8,7 @@ links:
   linkedin: leonhard-pfänder-ba1b8b202
 ---
 
-### Bio
+### About
 Leo is currently a Masters Student in Biochemistry at the Freie Universität Berlin. Leo
 and Caleb worked together in the Satpathy Lab at Stanford University where Leo has been
 writing his masters thesis on clonal heterogeneity of T lymphocytes in immunotherapies. 

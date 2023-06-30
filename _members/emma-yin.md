@@ -10,7 +10,7 @@ links:
 
 ---
 
-### Bio
+### About
 Emma Yin is currently a Life Science Research Professional II in the Satpathy Lab at Stanford University.
 Caleb and Emma worked closely together in the Satpathy lab to develop and utilize single-cell single-cell
 genomics assays to study clonal heterogeneity in immune cell populations, including CAR T cells. Before her 
