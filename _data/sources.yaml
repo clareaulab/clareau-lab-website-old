@@ -180,16 +180,6 @@
       
 ####
 
-
-
-# Pearson
-- id: doi:10.1101/2022.11.20.517242
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson-selection.png
-  buttons:
-    - type: github
-      text: Code
-      link: caleblareau/pearson_syndrome
-
 # Kamir
 - id: doi:10.1101/2021.09.26.461821
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/kamirdc.png
