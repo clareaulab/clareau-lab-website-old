@@ -33,6 +33,8 @@ system, spanning circulating blood to immune cells that are resident in tissues 
 
 ## Focus areas
 
+Check out our publications on each of the lab's major areas of focus:
+
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
 
 
