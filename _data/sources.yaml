@@ -19,6 +19,7 @@
       link: https://www.nature.com/articles/s41588-023-01436-5
     - type: featured
       text: Featured Article
+      link: https://clareaulab.com/publications/?search=featured
 
 # Nature protocols paper
 - id: doi:10.1038/s41596-022-00795-3
@@ -33,6 +34,9 @@
     - type: twitter
       text: Tweetorial
       link: CalebLareau/status/1626007563908308997
+    - type: featured
+      text: Featured Article
+      link: https://clareaulab.com/publications/?search=featured
       
 # Barcode multiplets paper
 - id: doi:10.1038/s41467-020-14667-5
@@ -47,6 +51,9 @@
     - type: twitter
       text: Tweetorial
       link: CalebLareau/status/118964033652990361
+    - type: featured
+      text: Featured Article
+      link: https://clareaulab.com/publications/?search=featured
 
 # NK cell
 - id: doi:10.1038/s41590-022-01327-7
@@ -168,7 +175,8 @@
       text: Tweetorial
       link: CalebLareau/status/1650390670904016897
     - type: preprint
-      text: bioRxiv
+      text: Preprint
+      link: https://clareaulab.com/publications/?search=Preprint
      
 # HHV6
 - id: doi:10.1101/2022.08.12.503683

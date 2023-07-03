@@ -102,7 +102,7 @@ github:
   link: https://github.com/$VALUE
 
 preprint:
-  icon: fa-solid fa-glasses
+  icon: fa-regular fa-eyes
   text: Preprint
   tooltip: Preprint
 
