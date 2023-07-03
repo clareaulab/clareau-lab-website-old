@@ -1,5 +1,5 @@
 ---
-title: Emerging Leader in Computational Oncology
+title: Emerging Leader in Computational Oncology &nbsp;&nbsp;&nbsp;
 ---
 
 Caleb is named an [Emerging Leader in Computational Oncology](https://componcmsk.org/event/computational-oncology-emerging-leaders-2023/)
