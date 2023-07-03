@@ -11,14 +11,14 @@ nav:
 {%
   include button.html
   type="email"
-  text="Check out our featured publications"
+  text="Featured articles"
   link="https://clareaulab.com/publications/?search=Featured"
 %}
 
 {%
   include button.html
-  type="biorxiv"
-  text="Preprints from the lab"
+  type="baking"
+  text="Fresh preprints"
   link="https://clareaulab.com/publications/?search=Preprint"
 %}
 
