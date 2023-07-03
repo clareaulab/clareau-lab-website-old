@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
+{% include search-box.html %}
+{% include search-info.html %}
+
+{% include section.html %}
 
 {%
   include button.html
@@ -31,11 +35,6 @@ nav:
   tooltip="Papers by lab focus"
   link="https://clareaulab.com/research/#focus-areas"
 %}
-
-{% include section.html %}
-
-{% include search-box.html %}
-{% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
 
