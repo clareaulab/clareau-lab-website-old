@@ -12,7 +12,7 @@ evolve during the course of our lives, particularly in the immune system.
 We are particularly interested in how somatic evolution—the collection of mutations,
 infections, and exposures to therapies that humans experience over a lifetime—reshapes
 these fundamental cellular processes. For example, we're interested in how hematopoietic 
-and immune cells 
+and immune cells change.
 
 To study these processes, our group develops and applies computational methods
 and genomics-based technologies. 
