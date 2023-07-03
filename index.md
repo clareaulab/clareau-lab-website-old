@@ -15,8 +15,6 @@ immunotherapies.
 
 The lab is currently recruiting at all levels. Come grow with us!
 
-<br><br>
-
 <b>Thank you</b> to [Hannah Fulcher](https://www.hannahruthfulcher.com/) for designing our lab logo and
 [SciStores](https://scistories.com/) for the cover art.    
 Our website design was forked from [Lab Website Template](https://github.com/greenelab/lab-website-template).
