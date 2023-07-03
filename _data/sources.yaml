@@ -18,7 +18,7 @@
       text: News and Views
       link: https://www.nature.com/articles/s41588-023-01436-5
     - type: featured
-      text: Featured Article
+      text: Featured
       link: https://clareaulab.com/publications/?search=featured
 
 # Nature protocols paper
@@ -35,7 +35,7 @@
       text: Tweetorial
       link: CalebLareau/status/1626007563908308997
     - type: featured
-      text: Featured Article
+      text: Featured
       link: https://clareaulab.com/publications/?search=featured
       
 # Barcode multiplets paper
@@ -155,8 +155,6 @@
     - type: twitter
       text: Tweetorial
       link: julirsch/status/1105154360634425344
-  tags:
-    - featured
 
 ############################
 # Current biorxiv
@@ -191,17 +189,27 @@
     - type: twitter
       text: Tweetorial
       link: CalebLareau/status/1558314332059865088
+    - type: preprint
+      text: Preprint
+      link: https://clareaulab.com/publications/?search=Preprint
       
 ####
 
 # Kamir
 - id: doi:10.1101/2021.09.26.461821
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/kamirdc.png
+  buttons:
+    - type: preprint
+      text: Preprint
+      link: https://clareaulab.com/publications/?search=Preprint
 
 # NIH cell press sneak peek
 - id: doi:10.2139/ssrn.4271102
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/shih.png
-
+  buttons:
+    - type: preprint
+      text: Preprint
+      link: https://clareaulab.com/publications/?search=Preprint
 
 
 ############
