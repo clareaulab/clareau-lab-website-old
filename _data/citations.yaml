@@ -116,7 +116,7 @@
     text: Tweetorial
     link: CalebLareau/status/118964033652990361
   - type: featured
-    text: Featured Article
+    text: Featured
     link: https://clareaulab.com/publications/?search=featured
   plugin: sources.py
   file: sources.yaml
@@ -422,7 +422,7 @@
   - type: twitter
     text: Tweetorial
     link: CalebLareau/status/1650390670904016897
-  - type: preprint
+  - type: fire
     text: bioRxiv
     link: https://clareaulab.com/publications/?search=preprint
   plugin: sources.py
@@ -501,7 +501,7 @@
   link: https://doi.org/gr7b6q
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/kamirdc.png
   buttons:
-  - type: preprint
+  - type: fire
     text: bioRxiv
     link: https://clareaulab.com/publications/?search=preprint
   plugin: sources.py
@@ -539,8 +539,8 @@
   link: https://doi.org/gr7b8m
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/shih.png
   buttons:
-  - type: preprint
-    text: Sneak peek
+  - type: fire
+    text: CPSP
     link: https://clareaulab.com/publications/?search=preprint
   plugin: sources.py
   file: sources.yaml
