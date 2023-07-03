@@ -8,27 +8,24 @@ nav:
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
 
-## Selected publications
-{% include citation.html lookup="disorders reveals dynamics of purifying selection across human immune cells" style="rich" %}
-{% include citation.html lookup="Codon affinity" style="rich" %}
-{% include citation.html lookup="Mitochondrial single-cell ATAC-seq for high-throughput multi-omic detection" style="rich" %}
-{% include citation.html lookup="long-lasting NK cell memory" style="rich" %}
-{% include citation.html lookup="Latent human herpesvirus" style="rich" %}
-{% include citation.html lookup="drawn by single-cell genomics" style="rich" %}
-{% include citation.html lookup="Scalable, multimodal profiling" style="rich" %}
-{% include citation.html lookup="Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling" style="rich" %}
-{% include citation.html lookup="Inference and effects of barcode multiplets" style="rich" %}
-{% include citation.html lookup="Droplet-based combinatorial indexing" style="rich" %}
-{% include citation.html lookup="Interrogation of human hematopoiesis " style="rich" %}
-{% include citation.html lookup="Lineage Tracing in Humans" style="rich" %}
+{%
+  include button.html
+  type="email"
+  text="Check out our featured publications"
+  link="https://clareaulab.com/publications/?search=Featured"
+%}
 
+{%
+  include button.html
+  type="biorxiv"
+  text="Preprints from the lab"
+  link="https://clareaulab.com/publications/?search=Preprint"
+%}
 
 {% include section.html %}
 
 {% include search-box.html %}
 {% include search-info.html %}
-
-## All works (2013- present)
 
 {% include list.html data="citations" component="citation" style="rich" %}
 
