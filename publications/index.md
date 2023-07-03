@@ -11,13 +11,13 @@ nav:
 {%
   include button.html
   type="featured"
-  text="Featured articles"
+  text="Featured works"
   link="https://clareaulab.com/publications/?search=featured"
 %}
 
 {%
   include button.html
-  type="fire"
+  type="preprint"
   text="Fresh preprints"
   link="https://clareaulab.com/publications/?search=preprint"
 %}

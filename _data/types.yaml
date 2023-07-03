@@ -101,11 +101,6 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
-preprint:
-  icon: fa-regular fa-eyes
-  text: Preprint
-  tooltip: Preprint
-
 fire:
   icon: fa-solid fa-fire
   text: Preprints
@@ -113,8 +108,8 @@ fire:
 
 featured:
   icon: fa-solid fa-star
-  text: Featured Work
-  tooltip: Featured Work
+  text: Featured article
+  tooltip: Featured article
 
 twitter:
   icon: fa-brands fa-twitter
