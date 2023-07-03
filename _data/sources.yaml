@@ -146,6 +146,8 @@
     - type: twitter
       text: Tweetorial
       link: julirsch/status/1105154360634425344
+  tags:
+    - featured
 
 ############################
 # Current biorxiv
@@ -163,6 +165,8 @@
     - type: twitter
       text: Tweetorial
       link: CalebLareau/status/1650390670904016897
+  tags:
+    - preprint
      
 # HHV6
 - id: doi:10.1101/2022.08.12.503683
