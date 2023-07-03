@@ -449,49 +449,6 @@
     link: CalebLareau/status/1558314332059865088
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2022.11.20.517242
-  title: Single-cell multi-omics reveals dynamics of purifying selection of pathogenic
-    mitochondrial DNA across human immune cells
-  authors:
-  - Caleb A. Lareau
-  - Sonia M. Dubois
-  - Frank A. Buquicchio
-  - Yu-Hsin Hsieh
-  - Kopal Garg
-  - Pauline Kautz
-  - Lena Nitsch
-  - Samantha D. Praktiknjo
-  - Patrick Maschmeyer
-  - Jeffrey M. Verboon
-  - Jacob C. Gutierrez
-  - Yajie Yin
-  - Evgenij Fiskin
-  - Wendy Luo
-  - Eleni Mimitou
-  - Christoph Muus
-  - Rhea Malhotra
-  - Sumit Parikh
-  - Mark D. Fleming
-  - Lena Oevermann
-  - Johannes Schulte
-  - Cornelia Eckert
-  - Anshul Kundaje
-  - Peter Smibert
-  - Ansuman T. Satpathy
-  - Aviv Regev
-  - Vijay G. Sankaran
-  - Suneet Agarwal
-  - Leif S. Ludwig
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-11-20'
-  link: https://doi.org/gr7b8k
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson-selection.png
-  buttons:
-  - type: github
-    text: Code
-    link: caleblareau/pearson_syndrome
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1101/2021.09.26.461821
   title: Transient dendritic cell activation diversifies the T cell response to acute
     infection
