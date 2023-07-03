@@ -32,16 +32,17 @@ data science, immunotherapy, genomics, and/or biotechnology.
 Postdocs will be employees of Memorial Sloan Kettering and be eligible for 
 [all postdoc benefits](https://www.mskcc.org/education-training/postdoctoral/resources-postdocs/compensation-benefits-resources), 
 including housing (four years guaranteed) and medical benefits.
-Our group offers starting salaries between \\$70,000&ndash;\\$90,000 with annual raises. 
-`$70,000-$90,000`
+All postdocs will be offered a starting salary between \\$70,000&ndash;\\$90,000 with annual raises. 
 
 ## Graduate students
 
 We are actively recruiting graduate students with interests in computational biology,
 single-cell genomics, immunotherapy, and/or molecular biology.
-Our group has several rotation projects available concerning these topics individually and interdisciplinary.
-Anyone in the Tri-I ecosystem that is interested in learning more about the group, potential projects, or a rotation
-should email Caleb to discuss opportunities. We will begin accepting rotation students in December 2023. 
+Our group has several rotation projects available concerning these topics individually and 
+as well as opportunities for interdisciplinary projects.
+Anyone in the Tri-I ecosystem, including the GSK graduate program,
+interested in learning more about the group, potential projects, or a rotation
+should email Caleb to discuss opportunities. We will begin accepting rotation students in Fall 2023. 
 
 {% include section.html %}
 
@@ -59,8 +60,6 @@ We encourage collaborative science between members of the group, within the Tri-
 and across research labs worldwide. 
 
 {% include section.html %}
-
-### Interested in joining? 
 
 <p style="text-align:left;">
 {%

@@ -4,7 +4,7 @@ image: images/people/caleb-lareau.png
 role: pi
 aliases:
 links:
-  CV: https://cap.stanford.edu/profiles/viewCV?facultyId=241457&name=Caleb_Lareau
+  CV: https://clareaulab.github.io/pdfs/cv/Lareau_CV.pdf
   twitter: caleblareau
   github: caleblareau
 ---
