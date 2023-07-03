@@ -165,8 +165,8 @@
     - type: twitter
       text: Tweetorial
       link: CalebLareau/status/1650390670904016897
-  tags:
-    - preprint
+    - type: preprint
+      text: bioRxiv
      
 # HHV6
 - id: doi:10.1101/2022.08.12.503683

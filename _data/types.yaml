@@ -101,6 +101,16 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
+preprint:
+  icon: fa-solid fa-glasses
+  text: Preprint
+  tooltip: Preprint
+
+featured:
+  icon: fa-solid fa-star
+  text: Featured Work
+  tooltip: Featured Work
+
 twitter:
   icon: fa-brands fa-twitter
   text: Twitter
