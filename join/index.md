@@ -23,16 +23,17 @@ If you are interested in helping build the lab, please reach out!
 
 We are recruiting two postdoctoral associates to help build the research environment in the lab.
 Individuals with doctoral research degrees of any background that is interested in the lab should
-contact Caleb with a 2-3 sentence summary of ideas/plans/interests for their work in the lab.
+contact Caleb with a CV and 2-3 sentence summary of ideas/plans/interests for future work.
 
 We are particularly interested in recruiting individuals with wet-bench backgrounds, 
-including those that seek mentored training in computational biology,
+including those that seek to grow their careers by receiving mentored training in computational biology,
 data science, immunotherapy, genomics, and/or biotechnology. 
 
 Postdocs will be employees of Memorial Sloan Kettering and be eligible for 
 [all postdoc benefits](https://www.mskcc.org/education-training/postdoctoral/resources-postdocs/compensation-benefits-resources), 
-including housing (four years of guaranteed housing) and medical benefits.
-For all postdocs in the lab, our team offers starting salaries between \$70,000&ndash;\$90,000 with annual raises. 
+including housing (four years guaranteed) and medical benefits.
+Our group offers starting salaries between \$70,000&ndash;\$90,000 with annual raises. 
+`$70,000-$90,000`
 
 ## Graduate students
 
