@@ -10,16 +10,16 @@ nav:
 
 {%
   include button.html
-  type="email"
+  type="featured"
   text="Featured articles"
-  link="https://clareaulab.com/publications/?search=Featured"
+  link="https://clareaulab.com/publications/?search=featured"
 %}
 
 {%
   include button.html
-  type="baking"
+  type="fire"
   text="Fresh preprints"
-  link="https://clareaulab.com/publications/?search=Preprint"
+  link="https://clareaulab.com/publications/?search=preprint"
 %}
 
 {% include section.html %}
