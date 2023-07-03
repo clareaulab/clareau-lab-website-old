@@ -11,12 +11,12 @@
     - type: github
       text: Code
       link: caleblareau/pearson_syndrome
-    - type: twitter
-      text: Tweetorial
-      link: CalebLareau/status/1674442591717433344
     - type: website
       text: News and Views
       link: https://www.nature.com/articles/s41588-023-01436-5
+    - type: twitter
+      text: Tweetorial
+      link: CalebLareau/status/1674442591717433344
     - type: featured
       text: Featured
       link: https://clareaulab.com/publications/?search=featured
