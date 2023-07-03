@@ -190,7 +190,7 @@ journal:
   tooltip: Journal
 
 preprint:
-  icon: fa-regular fa-eye
+  icon: fa-regular fa-eyes
   text: Preprint
   tooltip: Preprint
 

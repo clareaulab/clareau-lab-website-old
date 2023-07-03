@@ -22,6 +22,13 @@ nav:
   link="https://clareaulab.com/publications/?search=preprint"
 %}
 
+{%
+  include button.html
+  type="address"
+  text="Papers by topic"
+  link="https://clareaulab.com/research/#focus-areas"
+%}
+
 {% include section.html %}
 
 {% include search-box.html %}
