@@ -12,6 +12,7 @@ nav:
   include button.html
   type="featured"
   text="Featured works"
+  tooltip="Our greatest hits"
   link="https://clareaulab.com/publications/?search=featured"
 %}
 
@@ -19,6 +20,7 @@ nav:
   include button.html
   type="preprint"
   text="Fresh preprints"
+  tooltip="Pre-publication works"
   link="https://clareaulab.com/publications/?search=preprint"
 %}
 
@@ -26,6 +28,7 @@ nav:
   include button.html
   type="address"
   text="Papers by topic"
+  tooltip="Papers by lab focus"
   link="https://clareaulab.com/research/#focus-areas"
 %}
 
