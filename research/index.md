@@ -5,7 +5,7 @@ nav:
   tooltip: Research focuses
 ---
 
-# {% include icon.html icon="fa-solid fa-flask" %} Lareau Lab Research
+# {% include icon.html icon="fa-solid fa-flask" %} Research Philosophy
 
 The focus of the Lareau Lab is to understand how cells in our bodies adapt, expand, and
 evolve during the course of our lives, particularly in the immune system.
@@ -18,6 +18,7 @@ which is purposefully broad but grounds our research program in these tenets:
 We are particularly interested in how somatic evolution—the collection of mutations,
 infections, and exposures to therapies that humans experience over a lifetime—reshapes
 these fundamental cellular processes. 
+
 To conduct our work, our group develops and applies computational methods
 and genomics-based technologies. 
 We specialize in utilizing single-cell multi-omics approaches that profile multiple
