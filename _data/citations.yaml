@@ -394,8 +394,8 @@
   - type: twitter
     text: Tweetorial
     link: CalebLareau/status/1650390670904016897
-  tags:
-  - preprint
+  - type: preprint
+    text: bioRxiv
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.08.12.503683
