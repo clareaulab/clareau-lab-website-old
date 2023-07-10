@@ -375,6 +375,61 @@
     link: https://clareaulab.com/publications/?search=featured
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1182/blood.2021013753
+  title: Congenital anemia reveals distinct targeting mechanisms for master transcription
+    factor GATA1
+  authors:
+  - Leif S. Ludwig
+  - Caleb A. Lareau
+  - Erik L. Bao
+  - Nan Liu
+  - Taiju Utsugisawa
+  - Alex M. Tseng
+  - Samuel A. Myers
+  - Jeffrey M. Verboon
+  - Jacob C. Ulirsch
+  - Wendy Luo
+  - Christoph Muus
+  - Claudia Fiorini
+  - Meagan E. Olive
+  - Christopher M. Vockley
+  - Mathias Munschauer
+  - Abigail Hunter
+  - Hiromi Ogura
+  - Toshiyuki Yamamoto
+  - Hiroko Inada
+  - Shinichiro Nakagawa
+  - Shuichi Ohzono
+  - Vidya Subramanian
+  - Roberto Chiarle
+  - Bertil Glader
+  - Steven A. Carr
+  - Martin J. Aryee
+  - Anshul Kundaje
+  - Stuart H. Orkin
+  - Aviv Regev
+  - Timothy L. McCavit
+  - Hitoshi Kanno
+  - Vijay G. Sankaran
+  publisher: Blood
+  date: '2022-04-21'
+  link: https://doi.org/gr7bqf
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/gata1307.png
+  buttons:
+  - type: paper
+    text: PDF
+    link: https://clareaulab.github.io/pdfs/LudwigLareau-Blood-2022.pdf
+  - type: website
+    text: News and Views
+    link: https://ashpublications.org/blood/article/139/16/2422/484905/GATA1-function-through-disorder
+  - type: twitter
+    text: Tweetorial
+    link: LeifLudwig/status/1483052611779575816
+  - type: featured
+    text: Featured
+    link: https://clareaulab.com/publications/?search=featured
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.04.23.537997
   title: Codon affinity in mitochondrial DNA shapes evolutionary and somatic fitness
   authors:
@@ -552,48 +607,6 @@
   date: '2023-05-17'
   link: https://doi.org/gr8x6c
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/metacells.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1182/blood.2021013753
-  title: Congenital anemia reveals distinct targeting mechanisms for master transcription
-    factor GATA1
-  authors:
-  - Leif S. Ludwig
-  - Caleb A. Lareau
-  - Erik L. Bao
-  - Nan Liu
-  - Taiju Utsugisawa
-  - Alex M. Tseng
-  - Samuel A. Myers
-  - Jeffrey M. Verboon
-  - Jacob C. Ulirsch
-  - Wendy Luo
-  - Christoph Muus
-  - Claudia Fiorini
-  - Meagan E. Olive
-  - Christopher M. Vockley
-  - Mathias Munschauer
-  - Abigail Hunter
-  - Hiromi Ogura
-  - Toshiyuki Yamamoto
-  - Hiroko Inada
-  - Shinichiro Nakagawa
-  - Shuichi Ohzono
-  - Vidya Subramanian
-  - Roberto Chiarle
-  - Bertil Glader
-  - Steven A. Carr
-  - Martin J. Aryee
-  - Anshul Kundaje
-  - Stuart H. Orkin
-  - Aviv Regev
-  - Timothy L. McCavit
-  - Hitoshi Kanno
-  - Vijay G. Sankaran
-  publisher: Blood
-  date: '2022-04-21'
-  link: https://doi.org/gr7bqf
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/gata1307.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1158/0008-5472.CAN-22-0275
