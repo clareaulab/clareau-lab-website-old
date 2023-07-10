@@ -177,6 +177,24 @@
       text: Featured
       link: https://clareaulab.com/publications/?search=featured
 
+
+- id: doi:10.1182/blood.2021013753
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/gata1307.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://clareaulab.github.io/pdfs/LudwigLareau-Blood-2022.pdf
+    - type: website
+      text: News and Views
+      link: https://ashpublications.org/blood/article/139/16/2422/484905/GATA1-function-through-disorder
+    - type: twitter
+      text: Tweetorial
+      link: LeifLudwig/status/1483052611779575816
+    - type: featured
+      text: Featured
+      link: https://clareaulab.com/publications/?search=featured
+      
+      
 ############################
 # Current biorxiv
 
@@ -242,9 +260,6 @@
 - id: doi:10.1038/s41587-023-01797-6
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/metacells.png
 
-- id: doi:10.1182/blood.2021013753
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/gata1307.png
-  
 - id: doi:10.1158/0008-5472.CAN-22-0275
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mousemtscatac.png
 
