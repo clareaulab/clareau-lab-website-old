@@ -51,9 +51,9 @@ should email Caleb to discuss opportunities. We will begin accepting rotation st
 Our mission as a lab is to train and develop the next generation of scientific leaders.
 Whether you see yourself continuing in academia, building a startup, teaching,
 pursuing a career in industry, shaping science policy, or are trying to figure it out,
-we committed to helping you obtain the skills and expertise needed to excel in the next phase of your career.
+we are committed to helping you obtain the skills and expertise needed to excel in the next phase of your career.
 
-In the pursuit of our mission, we are committed to building and maintaining a lab environment 
+In the pursuit of our mission, we will build and maintain a lab environment 
 that is inclusive of individuals from diverse socio-economic, educational, and cultural backgrounds. 
 
 We encourage collaborative science between members of the group, within the Tri-I community,
