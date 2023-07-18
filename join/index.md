@@ -16,8 +16,10 @@ lab that cuts across projects and programs. We encourage staff scientists to bal
 supporting the group broadly and driving specific projects that are more directly of interest. 
 
 The exact role will vary depending on the scientific background, interest, and expertise of the applicant. 
-If you are interested in helping build the lab, please reach out! 
+If you are interested in helping build the lab, please reach out!
 
+The formal application for this position, as well as a job description, can be
+found [here, on the MSK recruitment website](https://externaltalent-mskcc.icims.com/jobs/70719/lab-manager/job).
 
 ## Postdoctoral associates
 

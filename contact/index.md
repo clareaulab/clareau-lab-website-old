@@ -13,9 +13,14 @@ nav:
 
 Come find us at these upcoming events!
 
-- <b>July 10-12, 2023</b> - [Human Cell Atlas General Meeting](https://events.humancellatlas.org/2023gm); Toronto, Canada
+- <b>September 27-29, 2023</b> - [SITC Sparkathon 2023](https://www.sitcancer.org/professional-development/sitc-sparkathon/sparkathon?news_item_id=7368); Chicago, IL
 - <b>October 9-11, 2023</b> - [Single Cell Genomics 2023](https://conferences.weizmann.ac.il/SCG2023/single-cell-genomics-2023); Engelberg, Switzerland
 - <b>November 1-5, 2023</b> - [SITC 2023](https://www.sitcancer.org/events/event-description); San Diego, CA
+
+## Recent talks and recordings
+
+- [Human Cell Atlas General Meeting 2023](https://events.humancellatlas.org/2023gm/home)
+	- [Watch talk here](https://events.humancellatlas.org/2023gm/agenda/session/1147421). _Caleb talks at the 1:47:00 mark_
 
 ## Lab address
 
