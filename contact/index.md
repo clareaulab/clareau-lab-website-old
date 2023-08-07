@@ -17,6 +17,7 @@ Come find us at these upcoming events!
 - <b>October 9-11, 2023</b> - [Single Cell Genomics 2023](https://conferences.weizmann.ac.il/SCG2023/single-cell-genomics-2023); Engelberg, Switzerland
 - <b>November 1-5, 2023</b> - [SITC 2023](https://www.sitcancer.org/events/event-description); San Diego, CA
 - <b>February 11-14, 2024</b> - [Probing Human Disease using Single-Cell Technologies](https://www.fusion-conferences.com/conference/154); Cancun, Mexico
+- <b>May 27-28, 2024</b> - Innovations in Single Cell Omics; Barcelona, Spain
 - <b>June 9-14, 2024</b> - [GRC Single-Cell Cancer Biology](https://www.grc.org/venues/north-america/southern-new-hampshire-university/); Hooksett, NH
 
 ## Recent talks and recordings
