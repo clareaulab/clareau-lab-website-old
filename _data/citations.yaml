@@ -2673,7 +2673,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1084/jem.20181625
-  title: Impaired human hematopoiesis due to a cryptic intronic GATA1 splicing mutation
+  title: Impaired human hematopoiesis due to a cryptic intronic <i>GATA1</i> splicing
+    mutation
   authors:
   - Nour J. Abdulhay
   - Claudia Fiorini
