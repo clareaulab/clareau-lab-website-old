@@ -21,7 +21,7 @@ data science, immunotherapy, genomics, and/or biotechnology.
 Postdocs will be employees of Memorial Sloan Kettering and be eligible for 
 [all postdoc benefits](https://www.mskcc.org/education-training/postdoctoral/resources-postdocs/compensation-benefits-resources), 
 including housing (four years guaranteed) and medical benefits.
-All postdocs will be offered a starting salary at a minimum of \\$72,000 with annual raises. 
+All postdocs will be offered a starting salary at a minimum of \$72,000 with annual raises. 
 
 ## Graduate students
 
