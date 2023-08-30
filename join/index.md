@@ -8,19 +8,6 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %} Open positions
 
 
-## Lab manager / staff scientist
-
-We are recruiting an individual interested in helping establish and maintain the wet-bench research programs in the lab. 
-The successful applicant will play a major intellectual and organizational role in developing expertise in the 
-lab that cuts across projects and programs. We encourage staff scientists to balance efforts between 
-supporting the group broadly and driving specific projects that are more directly of interest. 
-
-The exact role will vary depending on the scientific background, interest, and expertise of the applicant. 
-If you are interested in helping build the lab, please reach out!
-
-The formal application for this position, as well as a job description, can be
-found [here, on the MSK recruitment website](https://externaltalent-mskcc.icims.com/jobs/70719/lab-manager/job).
-
 ## Postdoctoral associates
 
 We are recruiting two postdoctoral associates to help build the research environment in the lab.
@@ -34,7 +21,7 @@ data science, immunotherapy, genomics, and/or biotechnology.
 Postdocs will be employees of Memorial Sloan Kettering and be eligible for 
 [all postdoc benefits](https://www.mskcc.org/education-training/postdoctoral/resources-postdocs/compensation-benefits-resources), 
 including housing (four years guaranteed) and medical benefits.
-All postdocs will be offered a starting salary between \\$70,000&ndash;\\$90,000 with annual raises. 
+All postdocs will be offered a starting salary at a minimum of \\$72,000 with annual raises. 
 
 ## Graduate students
 
@@ -44,7 +31,7 @@ Our group has several rotation projects available concerning these topics indivi
 as well as opportunities for interdisciplinary projects.
 Anyone in the Tri-I ecosystem, including the GSK graduate program,
 interested in learning more about the group, potential projects, or a rotation
-should email Caleb to discuss opportunities. We will begin accepting rotation students in Fall 2023. 
+should email Caleb to discuss opportunities.
 
 {% include section.html %}
 
