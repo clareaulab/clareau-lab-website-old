@@ -27,10 +27,12 @@ Come find us at these upcoming events!
 ## Lab address
 
 {% capture col1 %}
+Memorial Sloan Kettering Cancer Center<br>
 <b>Lareau Lab</b><br>
-Zuckerman Research Center, 11th Floor<br>
-417 East 68th Street<br>
-New York, NY 10065
+417 E 68th St<br>
+Zuckerman - ZRC 1132<br>
+New York, NY 10065<br>
+T: 646-888-2069
 {% endcapture %}
 
 {% capture col2 %}
