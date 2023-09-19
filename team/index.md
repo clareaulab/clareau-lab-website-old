@@ -37,6 +37,7 @@ nav:
 {% include portrait.html name="Boo" style="small" image="images/pets/boo.png" %}
 {% include portrait.html name="Brooks" style="small" image="images/pets/brooks.png" %}
 {% include portrait.html name="Nala" style="small" image="images/pets/nala.png" %}
+{% include portrait.html name="Sabrina" style="small" image="images/pets/sabrina.png" %}
 
 {% capture content %}
 {% include list.html data="pets" component="portrait" filters="role: pet" style="small" %}
