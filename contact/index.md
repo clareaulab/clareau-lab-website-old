@@ -27,7 +27,7 @@ Come find us at these upcoming events!
 
 {% capture col1 %}
 Memorial Sloan Kettering Cancer Center<br>
-<b>Lareau Lab</b><br>
+Lareau Lab<br>
 417 E 68th St<br>
 Zuckerman - ZRC 1132<br>
 New York, NY 10065<br>
@@ -46,7 +46,7 @@ New York, NY 10065<br>
   text="Email Caleb"
   link="lareauc@mskcc.org"
 %}
-T: 646-888-2069
+<center>T: 646-888-2069</center>
 <br>
 {% endcapture %}
 
