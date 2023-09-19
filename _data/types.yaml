@@ -14,13 +14,13 @@ phd:
   icon: 
   description: PhD Student
 
-tech:
+jrtech:
   icon: 
   description: Research Technician
 
 srtech:
   icon: 
-  description: Senior Resarch Technician
+  description: Sr. Research Technician
 
 admin:
   icon: 
