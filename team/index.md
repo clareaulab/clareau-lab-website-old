@@ -13,6 +13,8 @@ nav:
 
 
 {% include list.html data="members" component="portrait" filters="role: pi" style="large"  style="medium"   %}
+{% include list.html data="members" component="portrait" filters="role: tech"   style="medium"  %}
+{% include list.html data="members" component="portrait" filters="role: tech"   style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: postdoc"   style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: phd"  style="medium"  %}
 
