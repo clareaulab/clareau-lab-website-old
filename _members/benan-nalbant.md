@@ -1,7 +1,7 @@
 ---
 name: Benan Nalbant
 image: images/people/benan-nalbant.png
-role: tech
+role: srtech
 links:
 
 ---

@@ -14,6 +14,19 @@ phd:
   icon: 
   description: PhD Student
 
+tech:
+  icon: 
+  description: Research Technician
+
+srtech:
+  icon: 
+  description: Senior Resarch Technician
+
+admin:
+  icon: 
+  description: Administrative Assistant II
+
+
 undergrad:
   icon: 
   description: Undergraduate Student
