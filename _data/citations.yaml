@@ -599,6 +599,47 @@
     link: https://clareaulab.com/publications/?search=preprint
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.cell.2023.09.002
+  title: SND1 binds SARS-CoV-2 negative-sense RNA and promotes viral RNA synthesis
+    through NSP9
+  authors:
+  - Nora Schmidt
+  - Sabina Ganskih
+  - Yuanjie Wei
+  - Alexander Gabel
+  - Sebastian Zielinski
+  - Hasmik Keshishian
+  - Caleb A. Lareau
+  - Liv Zimmermann
+  - Jana Makroczyova
+  - Cadence Pearce
+  - Karsten Krey
+  - Thomas Hennig
+  - Sebastian Stegmaier
+  - Lambert Moyon
+  - Marc Horlacher
+  - Simone Werner
+  - Jens Aydin
+  - Marco Olguin-Nava
+  - Ramya Potabattula
+  - Anuja Kibe
+  - "Lars D\xF6lken"
+  - Redmond P. Smyth
+  - Neva Caliskan
+  - Annalisa Marsico
+  - Christine Krempl
+  - Jochen Bodem
+  - Andreas Pichlmair
+  - Steven A. Carr
+  - Petr Chlanda
+  - Florian Erhard
+  - Mathias Munschauer
+  publisher: Cell
+  date: '2023-10-01'
+  link: https://doi.org/gstdzg
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/snd1.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41587-023-01797-6
   title: Subtle cell states resolved in single-cell data
   authors:
