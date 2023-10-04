@@ -8,7 +8,7 @@ pi:
 
 postdoc:
   icon: 
-  description: Postdoctoral Researcher
+  description: Postdoctoral Fellow
 
 phd:
   icon: 
@@ -29,7 +29,7 @@ admin:
 
 undergrad:
   icon: 
-  description: Undergraduate Student
+  description: Undergraduate
 
 alum:
   icon: 

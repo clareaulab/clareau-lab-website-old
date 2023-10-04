@@ -13,7 +13,6 @@ nav:
 
 Come find us at these upcoming events!
 
-- <b>September 27-29, 2023</b> - [SITC Sparkathon 2023](https://www.sitcancer.org/professional-development/sitc-sparkathon/sparkathon?news_item_id=7368); Chicago, IL
 - <b>November 1-5, 2023</b> - [SITC 2023](https://www.sitcancer.org/events/event-description); San Diego, CA
 - <b>February 11-14, 2024</b> - [Probing Human Disease using Single-Cell Technologies](https://www.fusion-conferences.com/conference/154); Cancun, Mexico
 - <b>May 27-28, 2024</b> - Innovations in Single Cell Omics; Barcelona, Spain
