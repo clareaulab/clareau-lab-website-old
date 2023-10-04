@@ -257,6 +257,9 @@
 
 # everything else
 
+- id: doi:10.1016/j.cell.2023.09.002
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/snd1.png
+
 - id: doi:10.1038/s41587-023-01797-6
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/metacells.png
 

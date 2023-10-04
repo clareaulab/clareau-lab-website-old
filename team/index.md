@@ -36,8 +36,11 @@ nav:
 {% include portrait.html name="Alpha" style="small" image="images/pets/alpha.png" %}
 {% include portrait.html name="Boo" style="small" image="images/pets/boo.png" %}
 {% include portrait.html name="Brooks" style="small" image="images/pets/brooks.png" %}
+{% include portrait.html name="Kinzo" style="small" image="images/pets/kinzo.png" %}
 {% include portrait.html name="Nala" style="small" image="images/pets/nala.png" %}
+{% include portrait.html name="Ono" style="small" image="images/pets/ono.png" %}
 {% include portrait.html name="Sabrina" style="small" image="images/pets/sabrina.png" %}
+{% include portrait.html name="Zuka" style="small" image="images/pets/zuka.png" %}
 
 {% capture content %}
 {% include list.html data="pets" component="portrait" filters="role: pet" style="small" %}
