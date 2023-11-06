@@ -1110,8 +1110,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/acn3.229
-  title: "Fine mapping of chromosome 15q25 implicates\n            <scp>ZNF</scp>\n\
-    \            592 in neurosarcoidosis patients"
+  title: Fine mapping of chromosome 15q25 implicates <scp>ZNF</scp>592 in neurosarcoidosis
+    patients
   authors:
   - Caleb A. Lareau
   - Indra Adrianto
