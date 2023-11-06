@@ -7,30 +7,36 @@
 
 - title: Cancer immunotherapies
   subtitle: 
-  image: images/ai/immune.jpg
+  image: images/dalle-new/cancerio.jpg
   link: https://clareaulab.com/publications/?search=%22CAR+T%22+%22chimeric%22+%22cancer+therapy%22+%22antigen+map%22
   description: 
   
 - title: Computational biology
   subtitle:
-  image: images/ai/cs.jpg
+  image: images/dalle-new/compbio.jpg
   link: https://clareaulab.com/publications/?search=%22bioinformatics%22+%22pipeline%22+%22method%22+%22inference%22+%22massive%22+%22disorders%22
+  description: 
+
+- title: Computational virology
+  subtitle:
+  image: images/dalle-new/virus.jpg
+  link: https://clareaulab.com/publications/?search=%22latent%22+%22sars%22+%22inheritance%22
   description: 
 
 - title: Mitochondrial genetics
   subtitle:
-  image: images/ai/mito.jpg
+  image: images/dalle-new/mito.jpg
   link: https://clareaulab.com/publications/?search=mitochondria
   description: 
 
 - title: Single-cell genomics
   subtitle:
-  image: images/ai/singlecellmultiomics.jpg
+  image: images/dalle-new/dna.jpg
   link: https://clareaulab.com/publications/?search=%22single-cell%22+%22single+cell%22
   description: 
 
 - title: Somatic evolution
   subtitle:
-  image: images/ai/somaticmosaic.jpg
+  image: images/dalle-new/somaticperson.jpg
   link: https://clareaulab.com/publications/?search=%22affinity%22+%22purifying%22+%22longitudinal%22+%22clonal%22
   description: 
