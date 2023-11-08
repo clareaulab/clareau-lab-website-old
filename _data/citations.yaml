@@ -1,23 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2022.08.12.503683
-  title: Latent human herpesvirus 6 is reactivated in chimeric antigen receptor T
-    cells
+- id: doi:10.1038/s41586-023-06704-2
+  title: Latent human herpesvirus 6 is reactivated in CAR T cells
   authors:
   - Caleb A. Lareau
   - Yajie Yin
   - Katie Maurer
   - Katalin D. Sandor
+  - Bence Daniel
   - Garima Yagnik
   - "Jos\xE9 Pe\xF1a"
   - Jeremy Chase Crawford
   - Anne M. Spanjaart
   - Jacob C. Gutierrez
   - Nicholas J. Haradhvala
+  - Janice M. Riberdy
   - Tsion Abay
   - Robert R. Stickels
   - Jeffrey M. Verboon
   - Vincent Liu
+  - Frank A. Buquicchio
+  - Fangyi Wang
   - Jackson Southard
   - Ren Song
   - Wenjing Li
@@ -27,7 +30,8 @@
   - Marcela V. Maus
   - Shuqiang Li
   - Alison Moore
-  - Rafael G. Amado
+  - Zachary J. Roberts
+  - Leif S. Ludwig
   - Aimee C. Talleur
   - Paul G. Thomas
   - Houman Dehghani
@@ -39,9 +43,9 @@
   - Catherine J. Wu
   - Robbie G. Majzner
   - Ansuman T. Satpathy
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-08-12'
-  link: https://doi.org/gr7b6p
+  publisher: Nature
+  date: '2023-11-08'
+  link: https://doi.org/gs344m
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
   buttons:
   - type: paper
