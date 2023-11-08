@@ -2,7 +2,7 @@
 # highlighted articles
 
 # HHV6
-- id: doi:10.1101/2022.08.12.503683
+- id: doi:10.1038/s41586-023-06704-2
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
   buttons:
     - type: paper
