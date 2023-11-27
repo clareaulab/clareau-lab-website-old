@@ -16,6 +16,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: admin"   style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: srtech"   style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: postdoc"   style="medium"  %}
+{% include list.html data="members" component="portrait" filters="role: mdstu"  style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: phd"  style="medium"  %}
 
 

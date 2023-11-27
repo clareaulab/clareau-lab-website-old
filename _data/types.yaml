@@ -10,6 +10,10 @@ postdoc:
   icon: 
   description: Postdoctoral Fellow
 
+mdstu:
+  icon: 
+  description: MD Student
+  
 phd:
   icon: 
   description: PhD Student
