@@ -11,11 +11,11 @@ nav:
 
 ## Upcoming meetings and presentations
 
-Come find us at these upcoming events!
+Come find us at these upcoming events:
 
 - <b>February 11-14, 2024</b> - [Probing Human Disease using Single-Cell Technologies](https://www.fusion-conferences.com/conference/154); Cancun, Mexico
 - <b>May 13-17, 2024</b> - [PEGS Boston Summit](https://www.pegsummit.com/); Boston, MA
-- <b>May 27-28, 2024</b> - Innovations in Single Cell Omics; Barcelona, Spain
+- <b>May 27-28, 2024</b> - [Innovations in Single Cell Omics](https://www.isco-conference.eu/); Barcelona, Spain
 - <b>June 9-14, 2024</b> - [GRC Single-Cell Cancer Biology](https://www.grc.org/venues/north-america/southern-new-hampshire-university/); Hooksett, NH
 
 ## Recent talks and recordings
