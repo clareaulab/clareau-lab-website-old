@@ -1,6 +1,7 @@
 ---
 name: Crystal Bass
 image: images/people/crystal-bass.png
+description: 2023
 role: alum
 links:
 
