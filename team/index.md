@@ -3,10 +3,15 @@ title: Team
 nav:
   order: 1
   tooltip: Who we are
+carousels:
+  - images: 
+    - image: /images/group/pizza1.jpg
+    - image: /images/group/holidayparty2023.jpg
+    
 ---
 
-{% capture hiring %} **The lab is recruiting at all levels.** [Email Caleb](mailto:lareauc@mskcc.org) to discuss a possible position. {% endcapture %}
-{% include alert.html type="info" content=hiring %}
+
+{% include carousel.html height="30" unit="%" duration="10" number="1" %}
 
 
 # {% include icon.html icon="fa-solid fa-users" %}Team

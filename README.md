@@ -1,13 +1,9 @@
 
 ```
 
-yolo
-carousels:
-  - images: 
-    - image: /images/circles.jpg
-    - image: /images/nyc.jpg
-    
-{% include carousel.html height="30" unit="%" duration="10" number="1" %}
+{% capture hiring %} **The lab is recruiting at all levels.** [Email Caleb](mailto:lareauc@mskcc.org) to discuss a possible position. {% endcapture %}
+{% include alert.html type="info" content=hiring %}
+
 
 ```
 
