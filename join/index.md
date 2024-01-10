@@ -3,7 +3,15 @@ title: Join
 nav:
   order: 5
   tooltip: Join us!
+carousels:
+  - images: 
+    - image: /images/group/pizza1.jpg
+    - image: /images/group/holidayparty2023.jpg
 ---
+
+# Lareau Lab @ MSKCC
+{% include carousel.html height="40" unit="%" duration="10" number="1" %}
+
 
 # {% include icon.html icon="fa-solid fa-users" %} Open positions
 
