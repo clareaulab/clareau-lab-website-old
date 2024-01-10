@@ -14,4 +14,4 @@ Caleb to investigate the immune landscape of patients with mitochondrial disease
 via single-cell multi-omics approaches. As a Taiwan native, he is on a personal 
 mission to find the best Asian foods in the city 🍱🍜🍲. When he's not in the lab
 or satisfying his taste buds, you can spot Josch strolling on the street and enjoying
-the beautiful NYC skyline. 🌉🌇 &nbsp; &nbsp;. 
+the beautiful NYC skyline 🌉🌇. 
