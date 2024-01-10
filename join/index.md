@@ -5,8 +5,9 @@ nav:
   tooltip: Join us!
 carousels:
   - images: 
-    - image: /images/group/pizza1.jpg
     - image: /images/group/holidayparty2023.jpg
+    - image: /images/group/pizza1.jpg
+
 ---
 
 # Lareau Lab @ MSKCC
