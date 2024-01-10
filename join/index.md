@@ -10,16 +10,16 @@ carousels:
 
 ---
 
-# Lareau Lab @ MSKCC
+# {% include icon.html icon="fa-solid fa-users" %} Lareau Lab @ MSKCC
+
 {% include carousel.html height="40" unit="%" duration="10" number="1" %}
 
 
-# {% include icon.html icon="fa-solid fa-users" %} Open positions
 
 
-## Postdoctoral associates
+## Now recruiting: Postdoctoral associates
 
-We are recruiting postdoctoral associates to help build the research environment in the lab.
+We are hiring postdoctoral associates to help build the research environment in the lab.
 Individuals with doctoral research degrees of any background that is interested in the lab should
 contact Caleb with a CV and 2-3 sentence summary of ideas/plans/interests for future work.
 
@@ -32,7 +32,7 @@ Postdocs will be employees of Memorial Sloan Kettering and be eligible for
 including housing (four years guaranteed) and medical benefits.
 All postdocs will be offered a starting salary at a minimum of \$72,000 with annual raises. 
 
-## Graduate students
+## Now recruiting: Graduate students
 
 We are actively recruiting graduate students with interests in computational biology,
 single-cell genomics, immunotherapy, and/or molecular biology.
