@@ -548,18 +548,19 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.10.29.563503
-  title: Multi-modal skin atlas associates a multicellular immune-stromal community
-    with altered cornification and T cell expansion in atopic dermatitis
+  title: Multi-modal skin atlas identifies a multicellular immune-stromal community
+    associated with altered cornification and specific T cell expansion in atopic
+    dermatitis
   authors:
   - Evgenij Fiskin
-  - Gokcen Eraslan
-  - Maria Beatrice Alora-Palli
+  - "G\xF6kcen Eraslan"
+  - Maria B Alora-Palli
   - Juan Manuel Leyva-Castillo
   - Sean Kim
   - Heather Choe
-  - Caleb A. Lareau
+  - Caleb A Lareau
   - Helena Lau
-  - Emily P. Finan
+  - Emily P Finan
   - Isabella Teixeira-Soldano
   - Brenna LaBere
   - Anne Chu
@@ -572,13 +573,13 @@
   - Wanda Phipatanakul
   - Craig Platt
   - Orit Rozenblatt-Rosen
-  - Toni M. Delorey
+  - Toni M Delorey
   - Jacques Deguine
-  - Gideon P. Smith
-  - Raif S. Geha
+  - Gideon P Smith
+  - Raif Geha
   - Aviv Regev
-  - Ramnik J. Xavier
-  publisher: bioRxiv
+  - Ramnik Xavier
+  publisher: Cold Spring Harbor Laboratory
   date: '2023-10-30'
   link: https://doi.org/gs27hr
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/EFskin.png
@@ -1314,7 +1315,7 @@
   - Vanessa D. Jonsson
   - Caleb Lareau
   - Alexander Marson
-  - Denna M. Maurer
+  - Deena M. Maurer
   - Paul V. Munson
   - Mike Stubbington
   - Sarah Taylor
