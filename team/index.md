@@ -25,14 +25,16 @@ carousels:
 
 
 {% include section.html background="images/scistories-clear-cut.png" dark=false %}
+
 {% include section.html %}
+# {% include icon.html icon="fa-solid fa-champagne-glasses" %}Fun
 
 {% include carousel.html height="40" unit="%" duration="10" number="1" %}
 
 {% include section.html background="images/scistories-clear.png" dark=false %}
 
 
-
+{% include section.html %}
 # {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumni
 
 {% include list.html data="members" component="portrait" filters="role: alum" style="medium"  %}
