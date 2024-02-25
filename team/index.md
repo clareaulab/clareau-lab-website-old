@@ -3,8 +3,17 @@ title: Team
 nav:
   order: 1
   tooltip: Who we are
+carousels:
+  - images: 
+    - image: /images/group/holidayparty2023.jpg
+    - image: /images/group/playthatgoeswrong.png
+    - image: /images/group/pizza1.jpg
 
 ---
+
+# {% include icon.html icon="fa-solid fa-users" %} Lareau Lab @ MSKCC
+
+{% include carousel.html height="40" unit="%" duration="10" number="1" %}
 
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
