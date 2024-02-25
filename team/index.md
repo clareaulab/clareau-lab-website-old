@@ -50,7 +50,6 @@ carousels:
 {% include portrait.html name="Luna" style="small" image="images/pets/luna.png" %}
 {% include portrait.html name="Nala" style="small" image="images/pets/nala.png" %}
 {% include portrait.html name="Ono" style="small" image="images/pets/ono.png" %}
-{% include portrait.html name="Sabrina" style="small" image="images/pets/sabrina.png" %}
 {% include portrait.html name="Zuka" style="small" image="images/pets/zuka.png" %}
 
 {% capture content %}
