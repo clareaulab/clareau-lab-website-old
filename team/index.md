@@ -11,9 +11,6 @@ carousels:
 
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %} Lareau Lab @ MSKCC
-
-{% include carousel.html height="40" unit="%" duration="10" number="1" %}
 
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -29,6 +26,11 @@ carousels:
 
 {% include section.html background="images/scistories-clear-cut.png" dark=false %}
 {% include section.html %}
+
+{% include carousel.html height="40" unit="%" duration="10" number="1" %}
+
+{% include section.html background="images/scistories-clear.png" dark=false %}
+
 
 
 # {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumni
