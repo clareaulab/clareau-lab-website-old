@@ -9,7 +9,7 @@
   - Blah blah blah blah blah blah blah
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
   publisher: yolo1
-  date: 2023
+  date: '2023-03-29'
   buttons:
     - type: paper
       text: PDF
@@ -34,7 +34,7 @@
   title: Pearson
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson.png
   publisher: yolo55
-  date: 2023
+  date: '2023-03-02'
   buttons:
     - type: paper
       text: PDF
