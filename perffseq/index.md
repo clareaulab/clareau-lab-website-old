@@ -28,8 +28,6 @@ title: PERFF-seq
   link="tabay@g.harvard.edu"
 %}
 
-
-<p style="text-align:center;">
 {%
   include button.html
   type="email"
