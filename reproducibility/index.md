@@ -9,6 +9,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-magnifying-glass" %}Reproducibility
 
-{% include list_reproducibility.html data="reproducibility" component="citation" style="rich" %}
+{% include list_reproducibility.html data="reproducibility" component="reprobox" style="rich" %}
 
 
