@@ -15,7 +15,7 @@ novel sequencing data generated as part of our profiles, and experimental protoc
 these out yourself. 
 
 
-Check out these resources for code, protocols, and data:
+Check out these resources below:
 
 ## Lareau Lab @ MSKCC (2024-Present)
 

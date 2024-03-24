@@ -13,7 +13,7 @@ nav:
 
 Come find us at these upcoming events:
 
-- <b>March 29, 2024</b> - [Single Cell Genomics Day](https://satijalab.org/scgd24/); Virtual (Caleb talks at noon ET)
+- <b>March 29, 2024</b> - [Single Cell Genomics Day](https://satijalab.org/scgd24/); [Virtual YouTube Talk](https://www.youtube.com/watch?v=BBtOp1tB44Y) (Caleb talks at noon ET)
 - <b>April 16, 2024</b> - Element Biosciences User Group Meeting; New York, NY
 - <b>May 13-17, 2024</b> - [PEGS Boston Summit](https://www.pegsummit.com/); Boston, MA
 - <b>May 22 2024</b> - MSKCC Tumor Immune Systems Biology Symposium; New York, NY
