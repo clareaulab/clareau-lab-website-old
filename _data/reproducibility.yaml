@@ -2,13 +2,14 @@
 # Links for reproducibility
 
 # HHV6
+
 - id: hmidk
   title: HHV6
   authors: 
   - Blah blah blah blah blah blah blah
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
   publisher: yolo1
-  date: yolo2
+  date: yolo4
   buttons:
     - type: paper
       text: PDF
@@ -28,9 +29,12 @@
       
 
 # Pearson paper
+
 - id: doi:10.1038/s41588-023-01433-8
   title: Pearson
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson.png
+  publisher: yolo55
+  date: yolo99
   buttons:
     - type: paper
       text: PDF
