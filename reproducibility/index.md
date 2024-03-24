@@ -1,13 +1,11 @@
 ---
 title: Reproducibility
-nav:
-  order: 5
-  tooltip: Code/protocols for our work
 ---
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-mclone" %}Reproducing prior works
+
+# {% include icon.html icon="fa-solid fa-clone" %}Reproducing prior works
 
 Our lab is an advocate for reproducible science, both experimentally and computationally. 
 We take special care to ensure that critical resources from our major efforts are available
@@ -19,7 +17,7 @@ these out yourself.
 
 Check out these resources for code, protocols, and data:
 
-## Lareau Lab @MSKCC (2024-Present)
+## Lareau Lab @ MSKCC (2024-Present)
 
 {% include list.html data="reproducibility_mskcc" component="citation" style="rich" %}
 
@@ -29,16 +27,8 @@ Check out these resources for code, protocols, and data:
 {% include list.html data="reproducibility_old" component="citation" style="rich" %}
 
 
-## Something not working?
-
-<p style="text-align:left;">
-
-{%
-  include button.html
-  type="email"
-  text="Email Caleb"
-  link="lareauc@mskcc.org"
-%}
-</p>
-
-<br>
+nav:
+  order: 5
+  tooltip: Code/protocols for our work
+  
+  
