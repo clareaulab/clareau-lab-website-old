@@ -3,11 +3,11 @@ name: Sherry Nyeo
 image: images/people/sherry-nyeo.png
 role: phd
 links:
-
+  linkedin: sherry-shu-yuh-nyeo
 ---
 
 ### About
-Sherry is a first year PhD student in the Tri-Institutional Program in Computational
+Sherry is a PhD student in the Tri-Institutional Program in Computational
 Biology & Medicine Program. She completed her bachelor's degree at MIT,
 majoring in computer science & molecular biology, as well as minoring in
 management and German. As an undergraduate student researcher, Sherry studied
