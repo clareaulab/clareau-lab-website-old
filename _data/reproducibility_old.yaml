@@ -34,7 +34,8 @@
   title: Pearson
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson.png
   publisher: yolo55
-  date: '2023-03-02'
+  link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson.png
+  date: '2022-03-02'
   buttons:
     - type: paper
       text: PDF
