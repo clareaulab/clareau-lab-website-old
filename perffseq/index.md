@@ -2,11 +2,8 @@
 title: PERFF-seq
 ---
 
-## Transcript-specific enrichment enables profiling of rare cell states via scRNA-seq
+# PERFF-seq: Transcript-specific enrichment enables profiling of rare cell states via scRNA-seq
 
-Tsion Abay, Robert R. Stickels, Meril Takizawa, Benan N. Nalbant,
-Yu-Hsin Hsieh, Sidney Hwang, Catherine Snopkowski, Kenny Kwok Hei Yu,
-Zaki Abou-Mrad, Viviane Tabar, Leif S. Ludwig, Ronan Chaligné, Ansuman T. Satpathy, Caleb A. Lareau 
 
 ## Key links
 - bioRxiv preprint draft
@@ -21,40 +18,34 @@ Zaki Abou-Mrad, Viviane Tabar, Leif S. Ludwig, Ronan Chaligné, Ansuman T. Satpa
 
 ## Contact corresponding authors
 
-<p style="text-align:left;">
+<p style="text-align:center;">
 {%
   include button.html
   type="email"
   text="Email Bob"
   link="rstickel@stanford.edu"
 %}
-</p>
 
-<p style="text-align:left;">
 {%
   include button.html
   type="email"
   text="Email Ronan"
   link="chalignr@mskcc.org"
 %}
-</p>
 
-<p style="text-align:left;">
 {%
   include button.html
   type="email"
   text="Email Ansu"
   link="satpathy@stanford.edu"
 %}
-</p>
 
-<p style="text-align:left;">
 {%
   include button.html
   type="email"
   text="Email Caleb"
   link="lareauc@mskcc.org"
 %}
-</p>
 
+</p>
 
