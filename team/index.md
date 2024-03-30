@@ -8,6 +8,7 @@ carousels:
     - image: /images/group/holidayparty2023.jpg
     - image: /images/group/playthatgoeswrong.png
     - image: /images/group/pizza1.jpg
+    - image: /images/group/clownin1.png
 
 ---
 
