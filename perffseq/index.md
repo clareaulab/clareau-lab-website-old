@@ -7,9 +7,12 @@ title: PERFF-seq
 
 <b>Transcript-specific enrichment enables profiling of rare cell states via scRNA-seq</b>
 
-{% include figure.html name="scgd24" image="images/random/clareau-scgd24-sketch.jpg" %}
-<b>Live sketch summary of Caleb's talk at [scgd24](https://satijalab.org/scgd24/) by [Alex Cagan](https://www.alexcagan.com/)</b>
 
+
+## Critical reagents
+- Molecular Instruments [HCR-FlowFISH](https://www.molecularinstruments.com/)
+- 10x Genomics [Flex scRNA-seq](https://www.10xgenomics.com/products/single-cell-gene-expression-flex)
+- Thermo Fisher Scientific [dsDNase](https://www.thermofisher.com/order/catalog/product/EN0771)
 
 ## Key links
 - Find the full work available on our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2024.03.27.587039v1)
@@ -20,10 +23,10 @@ title: PERFF-seq
 - Easily prepare buffers and reagents with the PERFF-seq [benchside notes](PERFF-seq_Calculator.xlsx)
 
 
-## Critical reagents
-- Molecular Instruments [HCR-FlowFISH](https://www.molecularinstruments.com/)
-- 10x Genomics [Flex scRNA-seq](https://www.10xgenomics.com/products/single-cell-gene-expression-flex)
-- Thermo Fisher Scientific [dsDNase](https://www.thermofisher.com/order/catalog/product/EN0771)
+{% include figure.html name="scgd24" image="images/random/clareau-scgd24-sketch.jpg" %}
+<b>Live sketch summary of Caleb's talk at [scgd24](https://satijalab.org/scgd24/) by [Alex Cagan](https://www.alexcagan.com/)</b>
+
+
 
 ## Contact the authors
 
