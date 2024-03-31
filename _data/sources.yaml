@@ -1,6 +1,28 @@
 
 # highlighted articles
 
+# PERFF
+- id: doi:10.1101/2024.03.27.587039
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perfftf.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://www.biorxiv.org/content/10.1101/2024.03.27.587039v1.full.pdf
+    - type: github
+      text: Code
+      link: clareaulab/perffseq_reproducibility
+    - type: twitter
+      text: Tweetorial
+      link: CalebLareau/status/1773350071414788430
+    - type: featured
+      text: Featured
+      link: https://clareaulab.com/publications/?search=featured
+    - type: fire
+      text: bioRxiv
+      link: https://clareaulab.com/publications/?search=preprint
+      
+
+
 # HHV6
 - id: doi:10.1038/s41586-023-06704-2
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
