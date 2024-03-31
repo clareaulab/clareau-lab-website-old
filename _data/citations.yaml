@@ -1,5 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.03.27.587039
+  title: Transcript-specific enrichment enables profiling rare cell states via scRNA-seq
+  authors:
+  - Tsion Abay
+  - Robert R. Stickels
+  - Meril T. Takizawa
+  - Benan N. Nalbant
+  - Yu-Hsin Hsieh
+  - Sidney Hwang
+  - Catherine Snopkowski
+  - Kenny Kwok Hei Yu
+  - Zaki Abou-Mrad
+  - Viviane Tabar
+  - Leif S. Ludwig
+  - Ronan Chaligne
+  - Ansuman T. Satpathy
+  - Caleb A. Lareau
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-27'
+  link: https://doi.org/gtppxr
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perfftf.png
+  buttons:
+  - type: paper
+    text: PDF
+    link: https://www.biorxiv.org/content/10.1101/2024.03.27.587039v1.full.pdf
+  - type: github
+    text: Code
+    link: clareaulab/perffseq_reproducibility
+  - type: twitter
+    text: Tweetorial
+    link: CalebLareau/status/1773350071414788430
+  - type: featured
+    text: Featured
+    link: https://clareaulab.com/publications/?search=featured
+  - type: fire
+    text: bioRxiv
+    link: https://clareaulab.com/publications/?search=preprint
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41586-023-06704-2
   title: Latent human herpesvirus 6 is reactivated in CAR T cells
   authors:
