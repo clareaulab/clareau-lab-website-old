@@ -52,6 +52,7 @@ carousels:
 {% include portrait.html name="Kinzo" style="small" image="images/pets/kinzo.png" %}
 {% include portrait.html name="Luna" style="small" image="images/pets/luna.png" %}
 {% include portrait.html name="Nala" style="small" image="images/pets/nala.png" %}
+{% include portrait.html name="Playoff P" style="small" image="images/people/paul-dog.png" %}
 {% include portrait.html name="Ono" style="small" image="images/pets/ono.png" %}
 {% include portrait.html name="Zuka" style="small" image="images/pets/zuka.png" %}
 
