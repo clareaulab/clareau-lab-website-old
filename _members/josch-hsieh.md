@@ -1,13 +1,14 @@
 ---
 name: Josch Hsieh
 image: images/people/josch-hsieh.png
-role: phd
+description: 2023-2024
+role: alum
 links:
-
+	papers: yu-hsin
 ---
 
 ### About
-Yu-Hsin (Josch) is an exchange PhD student in the Lareau Lab.
+Yu-Hsin (Josch) was an exchange PhD student in the Lareau Lab.
 At his home institute, [Leif Ludwig Lab](https://www.mdc-berlin.de/ludwig)
 in the Berlin Institute of Health, he is involved in collaborative work with 
 Caleb to investigate the immune landscape of patients with mitochondrial disease 
