@@ -4,7 +4,7 @@ image: images/people/josch-hsieh.png
 description: 2023-2024
 role: alum
 links:
-	papers: yu-hsin
+  papers: yu-hsin
 ---
 
 ### About
