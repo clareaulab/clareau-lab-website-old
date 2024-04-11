@@ -7,5 +7,5 @@ links:
 ---
 
 ### About
-Arthur Chow is a Research Fellow in the Lareau Lab at MSK. 
+Erin Cumming is a Research Fellow in the Lareau Lab at MSK. 
 
