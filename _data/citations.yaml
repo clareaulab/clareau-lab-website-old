@@ -586,6 +586,29 @@
     link: https://clareaulab.com/publications/?search=preprint
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2024.02.29.582872
+  title: Regulation of immune signal integration and memory by inflammation-induced
+    chromosome conformation
+  authors:
+  - Bence Daniel
+  - Andy Y. Chen
+  - Katalin Sandor
+  - Wenxi Zhang
+  - Zhuang Miao
+  - Caleb A. Lareau
+  - Kathryn E. Yost
+  - Howard Y. Chang
+  - Ansuman T. Satpathy
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-04'
+  link: https://doi.org/gtrp38
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/bdanielmac.png
+  buttons:
+  - type: fire
+    text: bioRxiv
+    link: https://clareaulab.com/publications/?search=preprint
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.10.29.563503
   title: Multi-modal skin atlas identifies a multicellular immune-stromal community
     associated with altered cornification and specific T cell expansion in atopic
@@ -622,27 +645,6 @@
   date: '2023-10-30'
   link: https://doi.org/gs27hr
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/EFskin.png
-  buttons:
-  - type: fire
-    text: bioRxiv
-    link: https://clareaulab.com/publications/?search=preprint
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2023.10.10.561642
-  title: Convergent Epigenetic Evolution Drives Relapse in Acute Myeloid Leukemia
-  authors:
-  - Kevin A. Nuno
-  - Armon Azizi
-  - "Thomas K\xF6hnke"
-  - Caleb A. Lareau
-  - Asiri Ediwirickrema
-  - M. Ryan Corces
-  - Ansuman T. Satpathy
-  - Ravindra Majeti
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-10'
-  link: https://doi.org/gs27hs
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/KNaml.png
   buttons:
   - type: fire
     text: bioRxiv
@@ -720,6 +722,66 @@
   - type: fire
     text: CPSP
     link: https://clareaulab.com/publications/?search=preprint
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-024-07300-8
+  title: FOXO1 is a master regulator of memory programming in CAR T cells
+  authors:
+  - Alexander E. Doan
+  - Katherine P. Mueller
+  - Andy Y. Chen
+  - Geoffrey T. Rouin
+  - Yingshi Chen
+  - Bence Daniel
+  - John Lattin
+  - Martina Markovska
+  - Brett Mozarsky
+  - Jose Arias-Umana
+  - Robert Hapke
+  - In-Young Jung
+  - Alice Wang
+  - Peng Xu
+  - Dorota Klysz
+  - Gabrielle Zuern
+  - Malek Bashti
+  - Patrick J. Quinn
+  - Zhuang Miao
+  - Katalin Sandor
+  - Wenxi Zhang
+  - Gregory M. Chen
+  - Faith Ryu
+  - Meghan Logun
+  - Junior Hall
+  - Kai Tan
+  - Stephan A. Grupp
+  - Susan E. McClory
+  - Caleb A. Lareau
+  - Joseph A. Fraietta
+  - Elena Sotillo
+  - Ansuman T. Satpathy
+  - Crystal L. Mackall
+  - Evan W. Weber
+  publisher: Nature
+  date: '2024-04-10'
+  link: https://doi.org/gtrkfh
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/foxo1.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.93019
+  title: Convergent epigenetic evolution drives relapse in acute myeloid leukemia
+  authors:
+  - Kevin Nuno
+  - Armon Azizi
+  - Thomas Koehnke
+  - Caleb Lareau
+  - Asiri Ediriwickrema
+  - M Ryan Corces
+  - Ansuman T Satpathy
+  - Ravindra Majeti
+  publisher: eLife
+  date: '2024-04-22'
+  link: https://doi.org/gtrp39
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/KNaml.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2023.09.002
