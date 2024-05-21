@@ -49,9 +49,11 @@ carousels:
 {% include portrait.html name="Alpha" style="small" image="images/pets/alpha.png" %}
 {% include portrait.html name="Boo" style="small" image="images/pets/boo.png" %}
 {% include portrait.html name="Brooks" style="small" image="images/pets/brooks.png" %}
+{% include portrait.html name="Charlie" style="small" image="images/pets/charlie.png" %}
 {% include portrait.html name="Kinzo" style="small" image="images/pets/kinzo.png" %}
 {% include portrait.html name="Luna" style="small" image="images/pets/luna.png" %}
 {% include portrait.html name="Nala" style="small" image="images/pets/nala.png" %}
+{% include portrait.html name="Nacho" style="small" image="images/pets/nacho.png" %}
 {% include portrait.html name="Playoff P" style="small" image="images/people/paul-dog.png" %}
 {% include portrait.html name="Ono" style="small" image="images/pets/ono.png" %}
 {% include portrait.html name="Zuka" style="small" image="images/pets/zuka.png" %}

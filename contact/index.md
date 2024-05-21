@@ -13,10 +13,9 @@ nav:
 
 Come find us at these upcoming events:
 
-- <b>April 16, 2024</b> - Element Biosciences User Group Meeting; New York, NY
-- <b>May 13-17, 2024</b> - [PEGS Boston Summit](https://www.pegsummit.com/); Boston, MA
-- <b>May 22 2024</b> - MSKCC Tumor Immune Systems Biology Symposium; New York, NY
+- <b>May 22, 2024</b> - MSKCC Tumor Immune Systems Biology Symposium; New York, NY
 - <b>May 27-28, 2024</b> - [Innovations in Single Cell Omics](https://www.isco-conference.eu/); Barcelona, Spain
+- <b>June 5, 2024</b> - [10x Genomics Single Cell and Spatial User Day](https://pages.10xgenomics.com/SMR-2024-06-EVENT-AMER-PHILADELPHIA-SINGLE-CELL-AND-SPATIAL-SYMPOSIUM_LP.html); Philadlephia, PA
 - <b>June 9-14, 2024</b> - [GRC Single-Cell Cancer Biology](https://www.grc.org/venues/north-america/southern-new-hampshire-university/); Hooksett, NH
 
 ## Recent talks and recordings
