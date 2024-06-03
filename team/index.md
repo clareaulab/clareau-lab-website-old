@@ -5,8 +5,10 @@ nav:
   tooltip: Who we are
 carousels:
   - images: 
+  	- image: /images/group/retreat2024.jpg
     - image: /images/group/eclipse.jpg
     - image: /images/group/holidayparty2023.jpg
+    - image: /images/group/duckies.jpg
     - image: /images/group/playthatgoeswrong.png
     - image: /images/group/clownin1.png
 
