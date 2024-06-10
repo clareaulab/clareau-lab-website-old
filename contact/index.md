@@ -13,11 +13,11 @@ nav:
 
 Come find us at these upcoming events:
 
-
-- <b>May 22, 2024</b> - MSKCC Tumor Immune Systems Biology Symposium; New York, NY
-- <b>May 27-28, 2024</b> - [Innovations in Single Cell Omics](https://www.isco-conference.eu/); Barcelona, Spain
-- <b>June 5, 2024</b> - [10x Genomics Single Cell and Spatial User Day](https://pages.10xgenomics.com/SMR-2024-06-EVENT-AMER-PHILADELPHIA-SINGLE-CELL-AND-SPATIAL-SYMPOSIUM_LP.html); Philadlephia, PA
 - <b>June 9-14, 2024</b> - [GRC Single-Cell Cancer Biology](https://www.grc.org/venues/north-america/southern-new-hampshire-university/); Hooksett, NH
+- <b>July 11, 2024</b> - [SKI Academic Job Search Bootcamp](https://x.com/MSKEducation/status/1780305207336775777); New York, NY
+- <b>July 12, 2024</b> - [Columbia IICD Intensive Workshop: Methods in Single-Cell Data Integration](https://cancerdynamics.columbia.edu/iicd-intensive-workshop-methods-single-cell-data-integration-and-optimal-transport); New York, NY
+- <b>September 16-18, 2024</b> - [Single cell Genomics 2024](https://conferences.weizmann.ac.il/SCG2024/); Corinthia, Greece
+
 
 ## Recent talks and recordings
 
