@@ -5,6 +5,7 @@ nav:
   tooltip: Who we are
 carousels:
   - images: 
+    - image: /images/group/bigpizza.png
     - image: /images/group/retreat2024.png
     - image: /images/group/eclipse.jpg
     - image: /images/group/holidayparty2023.jpg
