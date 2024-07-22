@@ -13,8 +13,6 @@ nav:
 
 Come find us at these upcoming events:
 
-- <b>July 11, 2024</b> - [SKI Academic Job Search Bootcamp](https://x.com/MSKEducation/status/1780305207336775777); New York, NY
-- <b>July 12, 2024</b> - [Columbia IICD Intensive Workshop: Methods in Single-Cell Data Integration](https://cancerdynamics.columbia.edu/iicd-intensive-workshop-methods-single-cell-data-integration-and-optimal-transport); New York, NY
 - <b>September 16-18, 2024</b> - [Single cell Genomics 2024](https://conferences.weizmann.ac.il/SCG2024/); Corinthia, Greece
 - <b>May 4-7, 2025</b> - [Fusion Lineage Tracing and Clonal Memory](https://www.fusion-conferences.com/conference/171); Crete, Greece
 - <b>June 1-5, 2025</b> - [FASEB Mechanisms of Mitochondrial DNA Mutation and Repair](https://events.faseb.org/event/mitochondrialdna/summary); Nashville, TN

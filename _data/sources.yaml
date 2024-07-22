@@ -1,6 +1,18 @@
 
 # highlighted articles
 
+# Lena review
+- id: doi:
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/lenarev.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://clareaulab.github.io/pdfs/Nitsch-Lareau-Ludwig.pdf
+    - type: featured
+      text: Featured
+      link: https://clareaulab.com/publications/?search=featured
+      
+      
 # PERFF
 - id: doi:10.1101/2024.03.27.587039
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perfftf.png
@@ -295,20 +307,13 @@
       text: bioRxiv
       link: https://clareaulab.com/publications/?search=preprint
 
-# NIH cell press sneak peek
-- id: doi:10.2139/ssrn.4271102
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/shih.png
-  buttons:
-    - type: fire
-      text: CPSP
-      link: https://clareaulab.com/publications/?search=preprint
-
-
 ############
 
 
 
 # everything else
+- id: doi:10.1016/j.immuni.2024.04.007
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/shih.png
 
 - id: doi:10.1038/s41586-024-07300-8
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/foxo1.png
