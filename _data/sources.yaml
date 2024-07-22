@@ -312,6 +312,9 @@
 
 
 # everything else
+- id: doi:10.1016/j.immuni.2024.06.014 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/franktrm.png
+
 - id: doi:10.1016/j.immuni.2024.04.007
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/shih.png
 
