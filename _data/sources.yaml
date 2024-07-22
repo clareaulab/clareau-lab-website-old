@@ -2,7 +2,7 @@
 # highlighted articles
 
 # Lena review
-- id: doi:
+- id: doi:10.1038/s41588-024-01794-8
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/lenarev.png
   buttons:
     - type: paper
