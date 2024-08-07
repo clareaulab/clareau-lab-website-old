@@ -17,5 +17,5 @@ in colorectal cancer before transitioning to another lab within the same institu
 a short post-doc focusing on GSK3β treatment resistance in pancreatic cancer.
 Beyond science, Erin finds comfort in the great outdoors. While still exploring
 her varied interests, she harbors a keen enthusiasm for new experiences and is
-constantly seeking to broaden her view of the world  &nbsp; :globe:  &nbsp!
+constantly seeking to broaden her view of the world &nbsp; :globe: &nbsp; !
 

@@ -1,6 +1,36 @@
 
 # highlighted articles
 
+# Arthur review
+- id: doi:10.1016/j.tibtech.2024.07.006
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/arthurrev.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://clareaulab.github.io/pdfs/Chow-Lareau-TIBT-2024.pdf
+    - type: featured
+      text: Featured
+      link: https://clareaulab.com/publications/?search=featured
+
+#artifacts
+- id: doi:10.1101/2024.07.28.605517
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mitoartifact.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://www.biorxiv.org/content/10.1101/2024.07.28.605517v1.full.pdf
+    - type: github
+      text: Code
+      link: caleblareau/redeem-reanalysis-reproducibility
+    - type: twitter
+      text: Tweetorial
+      link: CalebLareau/status/1818257172779901221
+    - type: fire
+      text: bioRxiv
+      link: https://clareaulab.com/publications/?search=preprint
+     
+
+
 # Lena review
 - id: doi:10.1038/s41588-024-01794-8
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/lenarev.png
