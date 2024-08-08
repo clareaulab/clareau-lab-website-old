@@ -9,7 +9,6 @@ links:
   github: caleblareau
 ---
 
-### About
 Caleb is an Assistant Member in the Computational and Systems Biology Program 
 at Sloan Kettering Institute. He joined MSK from Stanford University where he was a 
 Stanford Science Fellow and Parker Scholar at the Parker Institute for Cancer Immunotherapy. 

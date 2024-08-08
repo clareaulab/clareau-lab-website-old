@@ -6,7 +6,6 @@ links:
 
 ---
 
-### About
 Jonathan Levine is a PhD Student in the Tri-Institutional PhD Program in Computational Biology & Medicine
 and is interested in T cells and immuno-oncology. Before joining the program, Jonathan worked as a
 software engineer at Flatiron Health creating clinical decision support software and conducting

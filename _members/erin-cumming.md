@@ -6,7 +6,6 @@ links:
 
 ---
 
-### About
 Erin Cumming is a Research Fellow in the Lareau Lab at MSK. Hailing from Scotland,
 she completed her bachelor’s degree in Molecular Genetics at the University of Dundee,
 with a brief period spent working at Charles River, where she engaged in in vitro

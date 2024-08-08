@@ -6,7 +6,6 @@ links:
 
 ---
 
-### About
 Laura is a Boehringer-Ingelheim MD Fellow in the Lareau Lab. 
 She is completing her medical degree at Charité in Berlin, Germany, where she investigates 
 immunological alterations in microglia after subarachnoid hemorrhage. 

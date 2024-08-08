@@ -6,7 +6,6 @@ links:
 
 ---
 
-### About
 Benan is a Senior Research Technician in the Lareau lab.
 Prior to joining she was in the Vakoc lab at Cold Spring Harbor Laboratory
 investigating transcription factor dependencies in cancer.

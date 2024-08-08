@@ -7,7 +7,6 @@ links:
   papers: yu-hsin
 ---
 
-### About
 Yu-Hsin (Josch) was an exchange PhD student in the Lareau Lab.
 At his home institute, [Leif Ludwig Lab](https://www.mdc-berlin.de/ludwig)
 in the Berlin Institute of Health, he is involved in collaborative work with 

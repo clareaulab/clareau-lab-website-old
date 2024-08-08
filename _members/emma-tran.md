@@ -7,8 +7,6 @@ group: alum
 links:
 ---
 
-### About
-
 Emma was an undergraduate summer student in the Lareau Lab through the 
 [Computational Biology Summer Program](https://www.mskcc.org/education-training/summer-scientific-undergraduate-programs/computational-biology-summer-program-cbsp) 
 by the Tri-Institutional PhD Program in Computational Biology & Medicine. 

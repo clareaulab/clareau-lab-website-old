@@ -8,7 +8,6 @@ links:
   papers: jacob+gutierrez
 ---
 
-### About
 Jacob Gutierrez is a PhD Student in the Gerstner Sloan Kettering Graduate School of Biomedical 
 Sciences at Memorial Sloan Kettering. Prior to starting his PhD, he worked with Caleb in the
 Satpathy Lab at Stanford University School of Medicine as a computational biologist, focusing

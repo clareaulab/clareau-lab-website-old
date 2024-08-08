@@ -6,7 +6,6 @@ links:
 
 ---
 
-### About
 Hoyin Chu is a PhD student in the Tri-I Computational Biology and Medicine Program.
 After graduating from Northeastern University with a B.S. in Computer Science and Mathematics,
 Hoyin worked at Dana-Farber Cancer Institute as a computational biologist with
