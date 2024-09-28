@@ -13,8 +13,8 @@ nav:
 
 Come find us at these upcoming events:
 
-- <b>September 16-18, 2024</b> - [Single cell Genomics 2024](https://conferences.weizmann.ac.il/SCG2024/); Corinthia, Greece
-- <b>May 4-7, 2025</b> - [Fusion Lineage Tracing and Clonal Memory](https://www.fusion-conferences.com/conference/171); Crete, Greece
+- <b>February 8-13, 2025</b> - [23rd Annual Workshop at Bellairs; metagenomics workshop](https://www.mikehallett.science/barbados/small-mighty); Barbados
+- <b>March 25-27, 2025</b> - [12 International Conference on HHV-6 & 7](https://conference.hhv-6foundation.org/); Himeji City, Japan
 - <b>June 1-5, 2025</b> - [FASEB Mechanisms of Mitochondrial DNA Mutation and Repair](https://events.faseb.org/event/mitochondrialdna/summary); Nashville, TN
 
 ## Recent talks and recordings

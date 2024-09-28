@@ -1,7 +1,8 @@
 ---
 name: Jonathan Levine
 image: images/people/jonathan-levine.png
-role: phd
+role: alum
+group: alum
 links:
 
 ---
@@ -12,4 +13,5 @@ software engineer at Flatiron Health creating clinical decision support software
 research in the “real-world evidence” space. Before Flatiron Health, Jonathan studied Computational
 Neuroscience & Math at the University of Pennsylvania in Philadelphia. Outside of lab, you
 can find Jonathan outdoors rock climbing 🧗 or backpacking 🏕, or indoors playing chess ♟ or
-doing the New York Times daily crossword 🧩.
+doing the New York Times daily crossword 🧩. Jon rotated in the Lareau Lab in Winter 2024 before 
+joining the Greenbaum and Victoria Labs. 
