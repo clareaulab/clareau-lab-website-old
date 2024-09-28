@@ -1,6 +1,7 @@
 ---
 name: Jonathan Levine
 image: images/people/jonathan-levine.png
+description: 2024
 role: alum
 group: alum
 links:
