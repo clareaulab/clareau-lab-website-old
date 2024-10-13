@@ -2,27 +2,20 @@
 # Links for reproducibility
 
 # PERFF-seq
-- id: PERFFFFF
-  title: PERFF-seq
+- id: https://clareaulab.com/perffseq/
+  title: <b>PERFF-seq</b>
   authors: 
-  - Blah blah blah blah blah blah blah
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
-  publisher: yolo1
-  date: '2024-03-29'
+  - A new technology for studying rare cell types
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perfftf.png
+  publisher: Last updated-
+  date: '2024-10-13'
   buttons:
-    - type: paper
-      text: PDF
-      link: https://clareaulab.github.io/pdfs/Lareau-Nature-2023.pdf
     - type: github
       text: Code
-      link: caleblareau/hhv6-reactivation
+      link: clareaulab/perffseq_reproducibility
     - type: twitter
       text: Tweetorial
-      link: CalebLareau/status/1722295109184573935
-    - type: website
-      text: STAT News Coverage
-      link: https://www.statnews.com/2023/11/08/car-t-cancer-therapy-complications-herpes-encephalitis/
-    - type: featured
-      text: Featured
-      link: https://clareaulab.com/publications/?search=featured
-      
+      link: CalebLareau/status/1773350071414788430
+    - type: paper
+      text: PDF
+      link: https://www.biorxiv.org/content/10.1101/2024.03.27.587039v1.full.pdf
