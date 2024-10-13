@@ -237,6 +237,16 @@ source:
   text: Source
   tooltip: Source code
 
+geodata:
+  icon: fa-solid fa-database
+  text: GEO
+  tooltip: GEO data
+
+protocolsio:
+  icon: fa-solid fa-mask
+  text: Protocols io
+  tooltip: Protocols io
+
 server:
   icon: fa-solid fa-server
   text: Server
