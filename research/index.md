@@ -83,6 +83,14 @@ Our research is currently supported by the generous contributions from these sou
 %}
 {% endcapture %}
 
-{% include cols.html col1=c4s col2=kravis col3=nhgri %}
-{% include cols.html col1=hvp col2=commonfund col3=nhgri %}
+{% capture ncicc %}
+{%
+  include figure.html
+  image="images/funding/nci-cc.png"
+%}
+{% endcapture %}
+
+
+{% include cols.html col1=c4s col2=kravis col3=hvp %}
+{% include cols.html col1=commonfund col2=nhgri col3=ncicc %}
 
