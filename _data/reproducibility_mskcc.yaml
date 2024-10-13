@@ -2,11 +2,11 @@
 # Links for reproducibility
 
 # PERFF-seq
-- id: with Satpathy Lab and <a href="https://www.mskcc.org/research/ski/innovation-labs/single-cell-analytics-innovation-lab-sail">SAIL</a>
-  title: <b>Programmable Enrichment via RNA FlowFISH with sequencing</b>
+- id: Led by <a href="https://clareaulab.com/members/tsion-abay.html">Tsion</a> with <a href="https://satpathylab.com/">Satpathy Lab</a> and <a href="https://www.mskcc.org/research/ski/innovation-labs/single-cell-analytics-innovation-lab-sail">SAIL</a>
+  title: <b>Programmable Enrichment via RNA FlowFISH by sequencing</b>
   authors: 
-  - A new technology for studying rare cell types via nucleic acid cytometry
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perfftf.png
+  - PERFF-seq is new technology for studying rare cell types via nucleic acid cytometry upstream of scRNA-seq.
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perffoverview.png
   publisher: <a href="https://clareaulab.com/perffseq/">PERFF-seq</a>
   date: '2024-10-13'
   buttons:
