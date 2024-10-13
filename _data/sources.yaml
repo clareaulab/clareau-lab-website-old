@@ -320,15 +320,6 @@
       text: bioRxiv
       link: https://clareaulab.com/publications/?search=preprint
 
-# IGVF
-- id: doi:10.48550/arXiv.2307.13708
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/igvf.png
-  buttons:
-    - type: fire
-      text: bioRxiv
-      link: https://clareaulab.com/publications/?search=preprint
-
-
 # Kamir
 - id: doi:10.1101/2021.09.26.461821
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/kamirdc.png
@@ -340,8 +331,13 @@
 ############
 
 
-
 # everything else
+- id: doi:10.1038/s41586-024-07510-0
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/igvf.png
+
+- id: doi:10.1158/2643-3230.BCD-23-0138
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/liviusbcd.jpg
+
 - id: doi:10.1016/j.immuni.2024.06.014 
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/franktrm.png
 
