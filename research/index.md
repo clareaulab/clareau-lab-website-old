@@ -42,41 +42,47 @@ Check out our publications on each of the lab's major areas of focus:
 Our research is currently supported by the generous contributions from these sources:
 
 {% capture mskcc %}
-
 {%
   include figure.html
   image="images/funding/mskcc.png"
 %}
-
 {% endcapture %}
 
 {% capture kravis %}
-
 {%
   include figure.html
   image="images/funding/kravis-ecosystems.png"
 %}
-
 {% endcapture %}
 
 {% capture nhgri %}
-
 {%
   include figure.html
   image="images/funding/nhgri.png"
 %}
-
 {% endcapture %}
 
 {% capture c4s %}
-
 {%
   include figure.html
   image="images/funding/c4s.png"
 %}
-
 {% endcapture %}
 
+{% capture hvp %}
+{%
+  include figure.html
+  image="images/funding/hvp.png"
+%}
+{% endcapture %}
+
+{% capture commonfund %}
+{%
+  include figure.html
+  image="images/funding/commonfund.png"
+%}
+{% endcapture %}
 
 {% include cols.html col1=c4s col2=kravis col3=nhgri %}
+{% include cols.html col1=hvp col2=commonfund col3=nhgri %}
 
