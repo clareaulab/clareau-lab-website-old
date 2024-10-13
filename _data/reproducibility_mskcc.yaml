@@ -3,9 +3,9 @@
 
 # PERFF-seq
 - id: with Satpathy Lab and <a href="https://www.mskcc.org/research/ski/innovation-labs/single-cell-analytics-innovation-lab-sail">SAIL</a>
-  title: <a href="https://clareaulab.com/perffseq/"><b>PERFF-seq</b></a> 
+  title: PERFF-seq
   authors: 
-  - A new technology for studying rare cell types
+  - A new technology for studying rare cell types via nucleic acid cytometry
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perfftf.png
   publisher: PERFF-seq
   date: '2024-10-13'

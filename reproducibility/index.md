@@ -8,7 +8,7 @@ nav:
 {% include section.html %}
 
 
-# {% include icon.html icon="fa-solid fa-clone" %}Reproducing prior works
+# {% include icon.html icon="fa-solid fa-clone" %}Reproducing our work
 
 Our lab is an advocate for open and reproducible science. This includes both 
 experimental details to generate data and line-by-line computational workflows
@@ -19,8 +19,6 @@ in easy-to-access formats.
 
 Check out our curated resources from our major efforts here: 
 
-
-Check out these resources below:
 
 ## Lareau Lab @ MSKCC (2024-Present)
 
