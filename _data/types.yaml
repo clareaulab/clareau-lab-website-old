@@ -13,6 +13,10 @@ postdoc:
 mdstu:
   icon: 
   description: MD Student
+
+mdphd:
+  icon: 
+  description: MD/PhD Student
   
 phd:
   icon: 
