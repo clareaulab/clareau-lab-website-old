@@ -1,7 +1,7 @@
 ---
 name: Cole Honeycutt
 image: images/people/cole-honeycutt.png
-role: mdphd
+role: mdph
 links:
 
 ---

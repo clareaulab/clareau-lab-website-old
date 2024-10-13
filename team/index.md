@@ -26,7 +26,7 @@ carousels:
 {% include list.html data="members" component="portrait" filters="role: jrtech"   style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: postdoc"   style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: mdstu"  style="medium"  %}
-{% include list.html data="members" component="portrait" filters="role: mdphd"  style="medium"  %}
+{% include list.html data="members" component="portrait" filters="role: mdph"  style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: phd"  style="medium"  %}
 
 

@@ -1,5 +1,8 @@
 ---
 title: Reproducibility
+nav:
+  order: 5
+  tooltip: Code & protocols for our work
 ---
 
 {% include section.html %}
@@ -7,12 +10,12 @@ title: Reproducibility
 
 # {% include icon.html icon="fa-solid fa-clone" %}Reproducing prior works
 
-Our lab is an advocate for reproducible science, both experimentally and computationally. 
+Our lab is an advocate for open and reproducible science, both experimentally and computationally. 
 We take special care to ensure that critical resources from our major efforts are available
 in easy-to-access formats for future users. These include custom code for downstream analyses,
 new software for processing large datasets, 
-novel sequencing data generated as part of our profiles, and experimental protocols for trying
-these out yourself. 
+sequencing data generated as part of our profiles, and experimental protocols for building
+upon our 
 
 
 Check out these resources below:
@@ -24,11 +27,8 @@ Check out these resources below:
 
 ## Before MSKCC  (2019-2023)
 
-{% include list.html data="reproducibility_old" component="citation" style="rich" %}
+_in development_
 
 
-nav:
-  order: 5
-  tooltip: Code/protocols for our work
   
   
