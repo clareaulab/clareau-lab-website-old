@@ -3,16 +3,6 @@ title: Team
 nav:
   order: 1
   tooltip: Who we are
-carousels:
-  - images: 
-    - image: /images/group/retreat2024.png
-    - image: /images/group/eclipse.jpg
-    - image: /images/group/bigpizza.png
-    - image: /images/group/holidayparty2023.jpg
-    - image: /images/group/duckies.jpg
-    - image: /images/group/playthatgoeswrong.png
-    - image: /images/group/clownin1.png
-
 ---
 
 
@@ -31,14 +21,6 @@ carousels:
 
 
 {% include section.html background="images/scistories-clear-cut.png" dark=false %}
-
-{% include section.html %}
-# {% include icon.html icon="fa-solid fa-champagne-glasses" %}Fun
-
-{% include carousel.html height="40" unit="%" duration="10" number="1" %}
-
-{% include section.html background="images/scistories-clear.png" dark=false %}
-
 
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumni

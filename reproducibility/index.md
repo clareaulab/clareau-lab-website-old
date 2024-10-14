@@ -27,7 +27,7 @@ in easy-to-access formats.
 
 ## Before MSKCC  (2019-2023)
 
-{% include list.html data="reproducibility_mskcc" component="citation" style="rich" %}
+{% include list.html data="reproducibility_old" component="citation" style="rich" %}
 
 
 

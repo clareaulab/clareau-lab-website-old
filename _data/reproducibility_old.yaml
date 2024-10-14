@@ -5,13 +5,13 @@
 - id: with <a href="https://www.mdc-berlin.de/ludwig">Leif</a> via the <a href="https://www.bloodgenes.org/">Sankaran Lab</a>
   title: <b>Mitochondrial single-cell ATAC-seq</b>
   authors: 
-  - The mtscATAC-seq workflow
+  - The best established method for generating high-quality insights of clonal relatedness using single-cell genomics is the mtscATAC-seq protocol. Check out our code, datasets, and step-by-step protocols here. 
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
-  publisher: <a href="https://clareaulab.com/protocols/mitotracing/">mtscATAC-seq</a>
+  publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#mitochondrial-single-cell-atac-seq">mtscATAC-seq</a>
   date: '2023-02-15'
   buttons:
     - type: github
-      text: Code
+      text: Analysis code
       link: caleblareau/mtscATACpaper_reproducibility
     - type: geodata
       text: Datasets
@@ -19,5 +19,7 @@
     - type: protocolsio
       text: Protocol
       link: https://www.nature.com/articles/s41596-022-00795-3
-
+    - type: github
+      text: Genotyping pipeline
+      link: caleblareau/mgatk
 
