@@ -9,10 +9,8 @@ nav:
 
 We are a team of interdisciplinary scientists that specializes in <b>data-driven translational genomics</b>.
 Our lab is a hybrid "wet" (experimental) and "dry" (bioinformatics) team. Our work tends to be interdisciplinary, 
-but each individual project or researcher may focus more on experimental or computational innovation.  
-Our lab does not rely on a model system or a specific experimental setting and instead focuses on data-driven
-exploration, including the development of new technologies. 
-Though not required, projects tend to fit within a part or all of a general framework with these three tenets:
+but each individual project or researcher may focus more on experimental or computational innovation. Our lab does not rely on a model system or a specific experimental setting and instead focuses on data-driven
+exploration, including the development of new technologies. Though not required, projects tend to fit within a part or all of a general framework with these three tenets:
 
 <b>1. Translational motivation</b>. As our approach can be applied to any organism profiled
 via DNA sequencing, we focus on questions that may directly impact human health,
