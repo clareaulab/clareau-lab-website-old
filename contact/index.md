@@ -9,9 +9,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-magnifying-glass" %}Contact
 
-## Upcoming meetings and presentations
-
-Come find us at these upcoming events:
+## Come find us at these upcoming events:
 
 - <b>February 8-13, 2025</b> - [23rd Annual Workshop at Bellairs; metagenomics workshop](https://www.mikehallett.science/barbados/small-mighty); Barbados
 - <b>March 25-27, 2025</b> - [12th International Conference on HHV-6 & 7](https://conference.hhv-6foundation.org/); Himeji City, Japan

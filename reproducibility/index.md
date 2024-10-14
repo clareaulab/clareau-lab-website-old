@@ -8,7 +8,7 @@ nav:
 {% include section.html %}
 
 
-# {% include icon.html icon="fa-solid fa-clone" %}Reproducing our work
+## {% include icon.html icon="fa-solid fa-mixed" %}Reproducing and extending our works
 
 Our team is an advocate for open and reproducible science. This includes both 
 experimental details to generate data and line-by-line computational workflows

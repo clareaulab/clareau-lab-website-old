@@ -12,7 +12,8 @@ nav:
 The mission of our lab is to train the next generation of scientific leaders, 
 particularly those with an interest in utilizing large-scale data 
 When you are filling out application materials, mention the Lareau Lab 
-as a group that you would like to work with 
+as a group that you would like to work with and be sure to 
+highlight the use of large datasets as part of your interest in future research projects. 
 
 ## Are you in high school and interested in a scientific career?
 
@@ -25,7 +26,7 @@ We also are able to accept students through the
   
 ## Are you an undergraduate looking for a summer research experience?
 
-Our lab participates in the [MSKCC Computational Biology Summer Program](https://www.mskcc.org/education-training/summer-scientific-undergraduate-programs/computational-biology-summer-program-cbsp)
+We participate in the [MSKCC Computational Biology Summer Program](https://www.mskcc.org/education-training/summer-scientific-undergraduate-programs/computational-biology-summer-program-cbsp)
 to host undergraduate students in our research group during the summer. As part of this program, you will meet with Caleb weekly to develop and execute an independent project. 
 
 ## Are you looking for full-time employment as a post-bac?
@@ -34,6 +35,7 @@ Our lab partners with the [MSK Bridge Program](https://www.mskcc.org/education-t
 to accept qualified individuals interested in being post-bacs in the lab. 
 Over the course of two years, the Bridge program provides training and immersive education
 to complement hands-on work in our lab to prepare for pursuing graduate training.
+
 
 {% include section.html background="images/scistories-clear-cut.png" dark=false %}
 
@@ -59,7 +61,7 @@ movement to defeat rare cancers. Our lab both participates by raising funds and 
 well as being the recipients of generous donations world-wide. To support our cause, consider
 [donating to the Lareau Lab team today](https://www.cycleforsurvival.org/donate/team-search?team_search=lareau).
 
-Our lab also participates in the [New York City Marathon with Fred's Team](https://www.fredsteam.org/). 
-Your support helps our mission of a cancer-free world. 
+Members of the Lareau Lab are part of in the [Fred's Team with the New York City Marathon](https://www.fredsteam.org/). 
+If you are able, please consider making a donation today. Your support helps our mission of a cancer-free world. 
 
 
