@@ -5,7 +5,7 @@
 - id: Led by <a href="https://clareaulab.com/members/tsion-abay.html">Tsion</a> with <a href="https://satpathylab.com/">Satpathy Lab</a> and <a href="https://www.mskcc.org/research/ski/innovation-labs/single-cell-analytics-innovation-lab-sail">SAIL</a>
   title: <b>Programmable Enrichment via RNA FlowFISH by sequencing</b>
   authors: 
-  - PERFF-seq is new technology for studying rare cell types via nucleic acid cytometry upstream of scRNA-seq. Our resources highlight code to reproduce downstream analyses of PERFF-seq data as well as step-by-step protocols for performing your own experiment. 
+  - PERFF-seq is new workflow for studying rare cell types via nucleic acid cytometry upstream of scRNA-seq. Our resources highlight code to reproduce downstream analyses of PERFF-seq data as well as step-by-step protocols for performing your own experiment. 
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perffoverview.png
   publisher: <a href="https://clareaulab.com/perffseq/">PERFF-seq</a>
   date: '2024-10-13'
@@ -17,7 +17,7 @@
       text: Datasets
       link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE262355
     - type: protocolsio
-      text: Code
+      text: Protocol
       link: https://www.protocols.io/view/1-perff-seq-cell-and-nuclei-preparation-14egn3k6ql5d/v1
     - type: twitter
       text: Tweetorial

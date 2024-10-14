@@ -244,8 +244,8 @@ geodata:
 
 protocolsio:
   icon: fa-solid fa-mask
-  text: Protocols io
-  tooltip: Protocols io
+  text: Protocols 
+  tooltip: Protocols 
 
 server:
   icon: fa-solid fa-server
