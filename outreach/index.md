@@ -35,6 +35,9 @@ to accept qualified individuals interested in being post-bacs in the lab.
 Over the course of two years, the Bridge program provides training and immersive education
 to complement hands-on work in our lab to prepare for pursuing graduate training.
 
+{% include section.html background="images/scistories-clear-cut.png" dark=false %}
+
+{% include section.html %}
 
 # Interested in making a difference? 
 
