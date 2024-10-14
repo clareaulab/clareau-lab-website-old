@@ -10,7 +10,7 @@ nav:
 # Interested in joining?
 
 The mission of our lab is to train the next generation of scientific leaders, 
-particularly those with an interest in utilizing large-scale data 
+particularly those with an interest in utilizing large-scale data to drive new discoveries.
 When you are filling out application materials, mention the Lareau Lab 
 as a group that you would like to work with and be sure to 
 highlight the use of large datasets as part of your interest in future research projects. 
