@@ -1,8 +1,8 @@
 ---
 title: Contact
 nav:
-  order: 6
-  tooltip: Contact us
+  order: 7
+  tooltip: Get in touch!
 ---
 
 {% include section.html %}

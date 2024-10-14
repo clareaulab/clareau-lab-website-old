@@ -1,54 +1,23 @@
 
 # Links for reproducibility
 
-# HHV6
-
-- id: hmidk
-  title: HHV6
+# mtscatac
+- id: with <a href="https://www.mdc-berlin.de/ludwig">Leif</a> via the <a href="https://www.bloodgenes.org/">Sankaran Lab</a>
+  title: <b>Mitochondrial single-cell ATAC-seq</b>
   authors: 
-  - Blah blah blah blah blah blah blah
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
-  publisher: yolo1
-  date: '2023-03-29'
+  - The mtscATAC-seq workflow
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/nprotocols.png
+  publisher: <a href="https://clareaulab.com/protocols/mitotracing/">mtscATAC-seq</a>
+  date: '2023-02-15'
   buttons:
-    - type: paper
-      text: PDF
-      link: https://clareaulab.github.io/pdfs/Lareau-Nature-2023.pdf
     - type: github
       text: Code
-      link: caleblareau/hhv6-reactivation
-    - type: twitter
-      text: Tweetorial
-      link: CalebLareau/status/1722295109184573935
-    - type: website
-      text: STAT News Coverage
-      link: https://www.statnews.com/2023/11/08/car-t-cancer-therapy-complications-herpes-encephalitis/
-    - type: featured
-      text: Featured
-      link: https://clareaulab.com/publications/?search=featured
-      
+      link: caleblareau/mtscATACpaper_reproducibility
+    - type: geodata
+      text: Datasets
+      link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE142745
+    - type: protocolsio
+      text: Protocol
+      link: https://www.nature.com/articles/s41596-022-00795-3
 
-# Pearson paper
 
-- id: doi:10.1038/s41588-023-01433-8
-  title: Pearson
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson.png
-  publisher: yolo55
-  link: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/pearson.png
-  date: '2022-03-02'
-  buttons:
-    - type: paper
-      text: PDF
-      link: https://clareaulab.github.io/pdfs/Lareau-NatGen-2023.pdf
-    - type: github
-      text: Code
-      link: caleblareau/pearson_syndrome
-    - type: website
-      text: News and Views
-      link: https://www.nature.com/articles/s41588-023-01436-5
-    - type: twitter
-      text: Tweetorial
-      link: CalebLareau/status/1674442591717433344
-    - type: featured
-      text: Featured
-      link: https://clareaulab.com/publications/?search=featured

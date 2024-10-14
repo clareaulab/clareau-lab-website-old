@@ -1,8 +1,8 @@
 ---
 title: Research
 nav:
-  order: 2
-  tooltip: Research focuses
+  order: 4
+  tooltip: Scientific focuses
 ---
 
 # {% include icon.html icon="fa-solid fa-flask" %} Research Philosophy
