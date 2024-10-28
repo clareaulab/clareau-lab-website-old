@@ -503,11 +503,57 @@
 
 <h2 id="mitochondrial-single-cell-atac-seq">Mitochondrial single-cell ATAC-seq</h2>
 
-<p>Concomitant detection of mitochondrial genomes and accessible chromatin at high throughput</p>
+<p>The mitochondrial single-cell ATAC-seq (mtscATAC-seq) protocol is an adaptation of 
+commercial single-cell ATAC-seq workflows. At a basic level, by fixing and permeabilizing
+cells (versus just nuclei), Tn5 also tagments the more accessible mitochondrial genome.
+Accessible chromatin profiling can thereby be combined with single-cell whole mitochondrial genome sequencing.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/researchpngs/mtscatac-overview-wide.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
 
 <h2 id="maester">MAESTER</h2>
+<p>As &gt;90% of mtDNA is transcribed, full-length RNA-seq techniques (e.g., Smart-seq) that capture
+the entire sequence of a transcript are particularly attractive to capture genetic variants.
+As relatively few groups use Smart-seq nowadays,</p>
+
+<p>The more high-throughput and more popular 3′- or 5′-based scRNA-seq approaches sequence 
+only part of the transcript and thus tend to suffer from limited coverage of the mitochondrial
+transcriptome for confident variant detection.</p>
+
+<p>However, the primer-based tiling of mitochondrial transcripts and a modified computational toolkit
+(‘MAESTER’, below) has successfully demonstrated variant determination from cDNA libraries.
+One recent application of MAESTER resolved the malignant evolution in Barrett’s esophagus,
+providing a unified view of the cell states and dynamics along a disease trajectory.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/researchpngs/maester-overview-wide.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
+<p>There are a few noteworthy limitations of genotyping mitochondrial mutations from RNA alone.
+First, there is a high degree of inherent transcriptional error of the mitochondrial RNA polymerase,
+which may confound variant determination.  Yet, RNA-based methods do have limitations. For example, not all mtDNA molecules may be equally transcribed or captured; for example, the 22 mitochondrial tRNAs are not reverse transcribed by poly(A)-based priming, which is most commonly utilized in scRNA-seq.</p>
 
 <h2 id="software-for-analyses">Software for analyses</h2>
+
+<ul>
+  <li>For analyzing mtDNA (from any ATAc data), we currently recommend the <a href="https://github.com/caleblareau/mgatk">mgatk package</a>.</li>
+  <li>For analyzing MAESTER data, we recommend the <a href="https://github.com/caleblareau/maegatk">maegatk workflow</a>.</li>
+</ul>
+
+<p>The major differences between the software tools <a href="https://github.com/caleblareau/maegatk/wiki/FAQ">are described here</a>.</p>
   </section>
 
 
