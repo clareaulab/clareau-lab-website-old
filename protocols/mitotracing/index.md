@@ -4,6 +4,10 @@ title: Mitochondrial lineage tracing
 
 # {% include icon.html icon="fa-solid fa-dna" %}Methods for mtDNA tracing
 
+Our lab has been active in the development of new technologies to enable
+lineage tracing in humans via mitochondrial DNA mutations. All of these works have been 
+collaborative efforts with the [Leif Ludwig](https://www.mdc-berlin.de/ludwig) Lab.
+See a summary of these major technologies and software below: 
 
 
 ## Mitochondrial single-cell ATAC-seq
@@ -37,8 +41,14 @@ There are a few noteworthy limitations of genotyping mitochondrial mutations fro
 First, there is a high degree of inherent transcriptional error of the mitochondrial RNA polymerase,
 which may confound variant determination.  Yet, RNA-based methods do have limitations. For example, not all mtDNA molecules may be equally transcribed or captured; for example, the 22 mitochondrial tRNAs are not reverse transcribed by poly(A)-based priming, which is most commonly utilized in scRNA-seq.
 
+{% include section.html background="images/scistories-clear-cut.png" dark=false %}
+
+{% include section.html %}
 
 ## Software for analyses
+
+As part of these tools, our lab has been the primary developers of genotyping software for processing sequencing reads 
+from the protocols and identifying high-confidence single-cell heteroplasmy. 
 
 - For analyzing mtDNA (from any ATAc data), we currently recommend the [mgatk package](https://github.com/caleblareau/mgatk).
 - For analyzing MAESTER data, we recommend the [maegatk workflow](https://github.com/caleblareau/maegatk).
