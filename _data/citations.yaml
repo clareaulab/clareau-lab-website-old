@@ -738,6 +738,50 @@
     link: https://clareaulab.com/publications/?search=preprint
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.immuni.2024.09.015
+  title: "Retinoic acid and TGF-\u03B2 orchestrate organ-specific programs of tissue\
+    \ residency"
+  authors:
+  - Andreas Obers
+  - Tobias Poch
+  - Grace Rodrigues
+  - Susan N. Christo
+  - Luke C. Gandolfo
+  - Raissa Fonseca
+  - Ali Zaid
+  - Joey En Yu Kuai
+  - Hongjin Lai
+  - Pirooz Zareie
+  - Marina H. Yakou
+  - Lachlan Dryburgh
+  - Thomas N. Burn
+  - James Dosser
+  - Frank A. Buquicchio
+  - Caleb A. Lareau
+  - Calum Walsh
+  - Louise Judd
+  - Maria Rafailia Theodorou
+  - Katharina Gutbrod
+  - "Peter D\xF6rmann"
+  - Jenny Kingham
+  - Tim Stinear
+  - Axel Kallies
+  - Jan Schroeder
+  - Scott N. Mueller
+  - Simone L. Park
+  - Terence P. Speed
+  - Ansuman T. Satpathy
+  - Tri Giang Phan
+  - Christoph Wilhelm
+  - Colby Zaph
+  - Maximilien Evrard
+  - Laura K. Mackay
+  publisher: Immunity
+  date: '2024-10-01'
+  link: https://doi.org/g8jmtn
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/trmTGFB.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41586-024-07510-0
   title: Deciphering the impact of genomic variation on function
   authors:
@@ -1574,7 +1618,7 @@
   - Eleni P. Mimitou
   - Peter Smibert
   - Caleb A. Lareau
-  publisher: Chromatin Accessibility
+  publisher: Methods in Molecular Biology
   date: '2023-01-01'
   link: https://doi.org/gr7b45
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapschematic.png
@@ -1586,7 +1630,7 @@
   authors:
   - Leif S. Ludwig
   - Caleb A. Lareau
-  publisher: Chromatin Accessibility
+  publisher: Methods in Molecular Biology
   date: '2023-01-01'
   link: https://doi.org/gr7b46
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mmbmtscatac.png
