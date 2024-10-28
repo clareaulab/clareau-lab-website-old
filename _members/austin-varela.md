@@ -1,6 +1,6 @@
 ---
-name: Austin Valera
-image: images/people/austin-valera.png
+name: Austin Varela
+image: images/people/austin-varela.png
 role: phd
 links:
 

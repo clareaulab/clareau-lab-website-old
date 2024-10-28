@@ -332,6 +332,9 @@
 
 
 # everything else
+- id: doi:10.1016/j.immuni.2024.09.015
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/trmTGFB.png
+  
 - id: doi:10.1038/s41586-024-07510-0
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/igvf.png
 

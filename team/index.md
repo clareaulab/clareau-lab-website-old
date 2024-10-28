@@ -15,6 +15,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: srtech"   style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: jrtech"   style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: postdoc"   style="medium"  %}
+{% include list.html data="members" component="portrait" filters="role: clinicalfellow"  style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: mdstu"  style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: mdph"  style="medium"  %}
 {% include list.html data="members" component="portrait" filters="role: phd"  style="medium"  %}
@@ -37,6 +38,7 @@ nav:
 {% include portrait.html name="Boo" style="small" image="images/pets/boo.png" %}
 {% include portrait.html name="Brooks" style="small" image="images/pets/brooks.png" %}
 {% include portrait.html name="Charlie" style="small" image="images/pets/charlie.png" %}
+{% include portrait.html name="Choumao" style="small" image="images/pets/choumao.png" %}
 {% include portrait.html name="Fiete" style="small" image="images/pets/fiete.png" %}
 {% include portrait.html name="Ginny" style="small" image="images/pets/ginny.png" %}
 {% include portrait.html name="Kinzo" style="small" image="images/pets/kinzo.png" %}

@@ -14,7 +14,7 @@ mdstu:
   icon: 
   description: MD Student
 
-mdphd:
+mdph:
   icon: 
   description: MD/PhD Student
   
@@ -34,6 +34,9 @@ admin:
   icon: 
   description: Administrative Assistant
 
+clinicalfellow:
+  icon: 
+  description: Clinical Fellow
 
 undergrad:
   icon: 
