@@ -503,8 +503,9 @@
 
 <p>Our lab has been active in the development of new technologies to enable
 lineage tracing in humans via mitochondrial DNA mutations. All of these works have been 
-collaborative efforts with the <a href="https://www.mdc-berlin.de/ludwig">Leif Ludwig</a> Lab.
-See a summary of these major technologies and software below:</p>
+collaborative efforts with the <a href="https://www.mdc-berlin.de/ludwig">Leif Ludwig</a> Lab
+while we were trainees with Aviv Regev and Vijay Sankaran. 
+See a summary of these major technologies, software, and informal guidelines below:</p>
 
 <h2 id="mitochondrial-single-cell-atac-seq">Mitochondrial single-cell ATAC-seq</h2>
 
@@ -523,6 +524,38 @@ Accessible chromatin profiling can thereby be combined with single-cell whole mi
   
 </figure>
 
+<p>Multiple mtscATAC-seq variant assays have been developed, for example,
+<a href="https://www.nature.com/articles/s41587-021-00927-2">ATAC with select antigen profiling by sequencing (ASAP-seq)</a> (with Eleni Mimitou and Peter Smibert); 
+as well as 
+<a href="https://www.nature.com/articles/s41587-021-01065-5">PHAGE-ATAC</a> (with Evgenij Fiskin),
+which in addition facilitate surface-marker profiling. In our experience, the</p>
+
+<p>The 10x Genomics Multiome kit has further facilitated the integration of transcriptional profiles,
+yielding <a href="https://www.nature.com/articles/s41587-021-00927-2">DOGMA-seq</a> (with Eleni Mimitou and Peter Smibert); 
+this enables the single-cell capture of up to four data modalities, including transcriptome,
+accessible chromatin, surface markers and mtDNA mutations.</p>
+
+<p>Another extension of the approach (though unrelated to our group) for the genotyping of 
+targeted loci with single-cell chromatin accessibility <a href="https://www.nature.com/articles/s41586-024-07388-y">(GoT-ChA)</a>
+utilizes targeted primers 
+to genotype nuclear variants in addition to optional mtDNA sequencing for high-resolution clonal analyses.</p>
+
+<p>Unless you have a specific reason to want the transcriptome (then use DOGMA-seq) or 
+the surface proteome (then use ASAP-seq), we recommend mtscATAC-seq due to the ease 
+and cost-efficiency of the workflow.</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="2" data-dark="false" style="--image: url('/images/scistories-clear-cut.png')">
+    <!--
+  background: images/scistories-clear-cut.png;
+  dark: false;
+  size: 2;
+-->
+
 <h2 id="maester">MAESTER</h2>
 <p>As &gt;90% of mtDNA is transcribed, full-length RNA-seq techniques (e.g., Smart-seq) that capture
 the entire sequence of a transcript are particularly attractive to capture genetic variants.
@@ -533,9 +566,14 @@ only part of the transcript and thus tend to suffer from limited coverage of the
 transcriptome for confident variant detection.</p>
 
 <p>However, the primer-based tiling of mitochondrial transcripts and a modified computational toolkit
-(‘MAESTER’, below) has successfully demonstrated variant determination from cDNA libraries.
-One recent application of MAESTER resolved the malignant evolution in Barrett’s esophagus,
-providing a unified view of the cell states and dynamics along a disease trajectory.</p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35210612/">(‘MAESTER’, below)</a> 
+can enrich mitochondrial mutations from existing cDNA libraries. MAESTER was developed with
+<a href="https://tymillerlab.org/">Tyler Miller</a> and <a href="https://vangalenlab.bwh.harvard.edu/">Peter van Galen</a>.</p>
+
+<p>One of the best applications of MAESTER resolved the 
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9900873/">malignant evolution in Barrett’s esophagus</a>
+(from <a href="https://www.sydshafferlab.com/">Syd Shaffer’s Lab</a>) providing a unified view of the cell
+states and dynamics along a disease trajectory.</p>
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
@@ -547,9 +585,15 @@ providing a unified view of the cell states and dynamics along a disease traject
   
 </figure>
 
-<p>There are a few noteworthy limitations of genotyping mitochondrial mutations from RNA alone.
-First, there is a high degree of inherent transcriptional error of the mitochondrial RNA polymerase,
-which may confound variant determination.  Yet, RNA-based methods do have limitations. For example, not all mtDNA molecules may be equally transcribed or captured; for example, the 22 mitochondrial tRNAs are not reverse transcribed by poly(A)-based priming, which is most commonly utilized in scRNA-seq.</p>
+<p>In general, if you are regular user of 10x scRNA-seq, MAESTER may be a great entry-level 
+assay for looking at mitochondrial genomes in your cells
+However, there are a few noteworthy limitations of genotyping mitochondrial mutations from RNA alone.
+First, note a high degree of inherent transcriptional error of the mitochondrial RNA polymerase,
+which we have observed will lead to false-positive heteroplasmy detection. 
+Additionally, not all mtDNA molecules may be equally transcribed or captured, including 
+the 22 mitochondrial tRNAs are not reverse transcribed by poly(A)-based priming. 
+We advise to download public data related to the assay that you plan to use
+and compute the per-singe-cell coverage to get an estimate of what your data may look like.</p>
   </section>
 
   
@@ -586,6 +630,35 @@ from the protocols and identifying high-confidence single-cell heteroplasmy.</p>
 </ul>
 
 <p>The major differences between the software tools <a href="https://github.com/caleblareau/maegatk/wiki/FAQ">are described here</a>.</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="2" data-dark="false" style="--image: url('/images/scistories-clear-cut.png')">
+    <!--
+  background: images/scistories-clear-cut.png;
+  dark: false;
+  size: 2;
+-->
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="interested-in-mtdna-tracing">Interested in mtDNA tracing?</h2>
+
+<p>Feel free to <a href="mailto:lareauc@mskcc.org">reach out to Caleb</a>, who can either answer your questions
+or refer you to the right person who can help!</p>
   </section>
 
 
