@@ -11,6 +11,12 @@ while we were trainees with Aviv Regev and Vijay Sankaran.
 See a summary of these major technologies, software, and informal guidelines below:
 
 
+## Interested in mtDNA tracing?
+
+Feel free to [reach out to Caleb](mailto:lareauc@mskcc.org), who can either answer your questions
+or refer you to the right person who can help! 
+
+
 ## Mitochondrial single-cell ATAC-seq
 
 The mitochondrial single-cell ATAC-seq (mtscATAC-seq) protocol is an adaptation of 
@@ -43,6 +49,7 @@ the surface proteome (then use ASAP-seq), we recommend mtscATAC-seq due to the e
 and cost-efficiency of the workflow. 
 
 {% include section.html background="images/scistories-clear-cut.png" dark=false %}
+{% include section.html %}
 
 
 ## MAESTER
@@ -92,11 +99,4 @@ from the protocols and identifying high-confidence single-cell heteroplasmy.
 
 The major differences between the software tools [are described here](https://github.com/caleblareau/maegatk/wiki/FAQ).
 
-{% include section.html background="images/scistories-clear-cut.png" dark=false %}
 
-{% include section.html %}
-
-## Interested in mtDNA tracing?
-
-Feel free to [reach out to Caleb](mailto:lareauc@mskcc.org), who can either answer your questions
-or refer you to the right person who can help! 
