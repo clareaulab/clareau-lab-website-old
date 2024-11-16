@@ -561,13 +561,15 @@
         
           <input class="carousel__activator" type="radio" name="carousel0" id="0g">
         
+          <input class="carousel__activator" type="radio" name="carousel0" id="0h">
+        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0g"></label>
+              <label class="carousel__control carousel__control--backward" for="0h"></label>
               <label class="carousel__control carousel__control--forward" for="0b"></label>
           </div>
         
@@ -622,13 +624,25 @@
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="0f"></label>
+              <label class="carousel__control carousel__control--forward" for="0h"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0g"></label>
               <label class="carousel__control carousel__control--forward" for="0a"></label>
           </div>
         
         <div class="carousel__track">
           <ul>
             
-            <li class="carousel__slide" style="background-image: url('/images/group/retreat2024.png');">
+            <li class="carousel__slide" style="background-image: url('/images/group/rickmorty2024.png');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('/images/group/retreat2024.png');">
             
             </li>
 <li class="carousel__slide" style="background-image: url('/images/group/eclipse.jpg');">
@@ -666,6 +680,8 @@
               <label class="carousel__indicator" for="0f"></label>
             
               <label class="carousel__indicator" for="0g"></label>
+            
+              <label class="carousel__indicator" for="0h"></label>
             
         </div>
     </div>
@@ -847,6 +863,29 @@
   opacity: 1;
 }
 
+.carousel__activator:nth-of-type(8):checked ~ .carousel__track {
+  -webkit-transform: translateX(-700%);
+          transform: translateX(-700%);
+}
+.carousel__activator:nth-of-type(8):checked ~ .carousel__slide:nth-of-type(8) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(8):checked ~ .carousel__controls:nth-of-type(8) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(8):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(8) {
+  opacity: 1;
+}
+
 
 .carousel__control {
   height: 30px;
@@ -951,6 +990,11 @@
           transform: translateX(600%);
 }
 
+.carousel__track .carousel__slide:nth-of-type(8) {
+  -webkit-transform: translateX(700%);
+          transform: translateX(700%);
+}
+
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -1009,6 +1053,12 @@
 
 .carousel__slide:nth-of-type(7),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(7) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(8),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(8) {
   background-size: cover;
   background-position: center;
 }
