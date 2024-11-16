@@ -6,7 +6,7 @@
   - Arthur Chow
   - Caleb A. Lareau
   publisher: Trends in Biotechnology
-  date: '2024-08-01'
+  date: '2024-11-01'
   link: https://doi.org/gt6mcm
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/arthurrev.png
   buttons:
@@ -738,6 +738,35 @@
     link: https://clareaulab.com/publications/?search=preprint
   plugin: sources.py
   file: sources.yaml
+- id: 10.3389/fimmu.2024.1492782
+  title: Identifying optimal tumor-associated antigen combinations with single-cell
+    genomics to enable multi-targeting therapies
+  authors:
+  - Matthew A. Nix
+  - Caleb A. Lareau
+  - Jeffrey Verboon
+  - David G. Kugler
+  publisher: Frontiers in Immunology
+  date: '2024-11-07'
+  link: https://doi.org/g8q67z
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mattcbreview.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1146/annurev-cancerbio-080124-102241
+  title: Single-Cell Technologies for Studying the Evolution and Function of Mitochondrial
+    DNA Heteroplasmy in Cancer
+  authors:
+  - Sonia Boscenco
+  - Erin M. Cumming
+  - Minsoo Kim
+  - Caleb Lareau
+  - Ed Reznik
+  publisher: Annual Review of Cancer Biology
+  date: '2024-11-12'
+  link: https://doi.org/g8q672
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/annualmitoreviewreznik.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.immuni.2024.09.015
   title: "Retinoic acid and TGF-\u03B2 orchestrate organ-specific programs of tissue\
     \ residency"
@@ -1440,7 +1469,7 @@
   - Ansuman T. Satpathy
   - Laura K. Mackay
   publisher: Immunity
-  date: '2024-07-01'
+  date: '2024-09-01'
   link: https://doi.org/gt5f8c
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/franktrm.png
   plugin: sources.py
