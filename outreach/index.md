@@ -2,10 +2,40 @@
 title: Outreach
 nav:
   order: 6
-  tooltip: Join or get involved!
+  tooltip: Get involved or join!
 ---
 
 {% include section.html %}
+
+
+# Interested in making a difference? 
+
+## Are you or someone you love under the age of 45?
+
+One of the most effective ways to prevent more than six types of cancer is by
+[getting the HPV vaccine](https://www.mskcc.org/cancer-care/patient-education/preventing-hpv-related-cancers). 
+If you or someone you love is younger than 45 (ideally aged 9-12), 
+getting the vaccine will protect you against the 9 most common 
+strains of HPV infection that can cause cancer. 
+It is <b>safe, effective, and easy</b>. If you have questions about the vaccine
+or if you should get it, [email Caleb](mailto:lareauc@mskcc.org) who can 
+help answer any questions or help connect you to a doctor at MSKCC. 
+
+## Are you interested in help raising funding for cancer research?
+
+Our lab participates in [Cycle For Survival](https://www.cycleforsurvival.org), a nation-wide
+movement to defeat rare cancers. Our lab both participates by raising funds and riding as 
+well as being the recipients of generous donations world-wide. To support our cause, consider
+[donating to the Lareau Lab team today](https://www.cycleforsurvival.org/donate/team-search?team_search=lareau).
+
+Members of the Lareau Lab are part of in the [Fred's Team with the New York City Marathon](https://www.fredsteam.org/). 
+If you are able, please consider making a donation today. Your support helps our mission of a cancer-free world. 
+
+
+{% include section.html background="images/scistories-clear-cut.png" dark=false %}
+
+{% include section.html %}
+
 
 # Interested in joining?
 
@@ -35,33 +65,3 @@ Our lab partners with the [MSK Bridge Program](https://www.mskcc.org/education-t
 to accept qualified individuals interested in being post-bacs in the lab. 
 Over the course of two years, the Bridge program provides training and immersive education
 to complement hands-on work in our lab to prepare for pursuing graduate training.
-
-
-{% include section.html background="images/scistories-clear-cut.png" dark=false %}
-
-{% include section.html %}
-
-# Interested in making a difference? 
-
-## Are you or someone you love under the age of 45?
-
-One of the most effective ways to prevent more than six types of cancer is by
-[getting the HPV vaccine](https://www.mskcc.org/cancer-care/patient-education/preventing-hpv-related-cancers). 
-If you or someone you love is younger than 45 (ideally aged 9-12), 
-getting the vaccine will protect you against the 9 most common 
-strains of HPV infection that can cause cancer. 
-It is <b>safe, effective, and easy</b>. If you have questions about the vaccine
-or if you should get it, [email Caleb](mailto:lareauc@mskcc.org) who can 
-help answer any questions or help connect you to a doctor at MSKCC. 
-
-## Are you interested in help raising funding for cancer research?
-
-Our lab participates in [Cycle For Survival](https://www.cycleforsurvival.org), a nation-wide
-movement to defeat rare cancers. Our lab both participates by raising funds and riding as 
-well as being the recipients of generous donations world-wide. To support our cause, consider
-[donating to the Lareau Lab team today](https://www.cycleforsurvival.org/donate/team-search?team_search=lareau).
-
-Members of the Lareau Lab are part of in the [Fred's Team with the New York City Marathon](https://www.fredsteam.org/). 
-If you are able, please consider making a donation today. Your support helps our mission of a cancer-free world. 
-
-

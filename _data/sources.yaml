@@ -332,6 +332,12 @@
 
 
 # everything else
+- id: 10.3389/fimmu.2024.1492782
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mattcbreview.png
+
+- id: 10.1146/annurev-cancerbio-080124-102241
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/annualmitoreviewreznik.png
+
 - id: doi:10.1016/j.immuni.2024.09.015
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/trmTGFB.png
   
