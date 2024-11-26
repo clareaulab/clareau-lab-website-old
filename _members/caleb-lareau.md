@@ -5,7 +5,7 @@ role: pi
 aliases:
 links:
   CV: https://clareaulab.github.io/pdfs/cv/Lareau_CV.pdf
-  twitter: caleblareau
+  bluesky: caleblareau.bsky.social
   github: caleblareau
 ---
 
