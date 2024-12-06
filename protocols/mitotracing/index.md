@@ -30,7 +30,8 @@ Multiple mtscATAC-seq variant assays have been developed, for example,
 [ATAC with select antigen profiling by sequencing (ASAP-seq)](https://www.nature.com/articles/s41587-021-00927-2) (with Eleni Mimitou and Peter Smibert); 
 as well as 
 [PHAGE-ATAC](https://www.nature.com/articles/s41587-021-01065-5) (with Evgenij Fiskin),
-which in addition facilitate surface-marker profiling. In our experience, the 
+which in addition facilitate surface-marker profiling. In our experience, these approaches both work well 
+and right-out-of-the-box if you have experience working with antibodies and/or phages. 
 
 The 10x Genomics Multiome kit has further facilitated the integration of transcriptional profiles,
 yielding [DOGMA-seq](https://www.nature.com/articles/s41587-021-00927-2) (with Eleni Mimitou and Peter Smibert); 
@@ -45,7 +46,8 @@ to genotype nuclear variants in addition to optional mtDNA sequencing for high-r
 
 
 Unless you have a specific reason to want the transcriptome (then use DOGMA-seq) or 
-the surface proteome (then use ASAP-seq), we recommend mtscATAC-seq due to the ease 
+the surface proteome (then use ASAP-seq due to ease of commercially available reagents),
+we recommend mtscATAC-seq due to the ease 
 and cost-efficiency of the workflow. 
 
 {% include section.html background="images/scistories-clear-cut.png" dark=false %}
@@ -55,16 +57,19 @@ and cost-efficiency of the workflow.
 ## MAESTER
 As >90% of mtDNA is transcribed, full-length RNA-seq techniques (e.g., Smart-seq) that capture
 the entire sequence of a transcript are particularly attractive to capture genetic variants.
-As relatively few groups use Smart-seq nowadays, 
-
-The more high-throughput and more popular 3′- or 5′-based scRNA-seq approaches sequence 
+As relatively few groups use Smart-seq nowadays, approaches that are compatible with 
+the more high-throughput and more popular 3′- or 5′-based scRNA-seq approaches were necessary. 
+However, it's important to note that these approaches sequence 
 only part of the transcript and thus tend to suffer from limited coverage of the mitochondrial
 transcriptome for confident variant detection.
 
-However, the primer-based tiling of mitochondrial transcripts and a modified computational toolkit
-[(‘MAESTER’, below)](https://pubmed.ncbi.nlm.nih.gov/35210612/) 
-can enrich mitochondrial mutations from existing cDNA libraries. MAESTER was developed with
-[Tyler Miller](https://tymillerlab.org/) and [Peter van Galen](https://vangalenlab.bwh.harvard.edu/).
+Enter [(MAESTER, below)](https://pubmed.ncbi.nlm.nih.gov/35210612/).
+MAESTER can enrich mitochondrial mutations from existing cDNA libraries,
+massively improving the suitability of these data for detecting and analyzing mtDNA
+variants from high-throughput scRNA-seq data. 
+MAESTER was the brain child of 
+[Tyler Miller](https://tymillerlab.org/) and [Peter van Galen](https://vangalenlab.bwh.harvard.edu/), 
+and we were happy to help out in finalizing its development. 
 
 
 One of the best applications of MAESTER resolved the 

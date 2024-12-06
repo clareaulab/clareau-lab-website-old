@@ -49,7 +49,21 @@ Check out our publications on each of the lab's major areas of focus:
 
 ## Funding
 
-Our research is currently supported by the generous contributions from these sources:
+We are incredibly grateful to the many generous donors, foundations, and institutes that enable our most ambitious research. 
+Our trainees have an exceptional track record of securing independent funding to support their research in the lab:
+
+- [Arthur Chow](https://clareaulab.com/members/arthur-chow.html), Ludwig Center Postdoctoral Scholar Award
+- [Erica Sun](https://clareaulab.com/members/erica-sun.html), MSK T32 Investigational Cancer Therapeutics Training Grant
+- [Laura Kida](https://clareaulab.com/members/laura-kida.html), Boehringer Ingelheim Fonds (BIF) MD Fellowship
+- [Jacob Gutierrez](https://clareaulab.com/members/jacob-gutierrez.html), GSK Harold Varmus Fellowship
+- [Austin Varela](https://clareaulab.com/members/austin-varela.html), NSF Graduate Research Fellowship
+- [Sherry Nyeo](https://clareaulab.com/members/sherry-nyeo.html), NSF Graduate Research Fellowship
+
+{% include section.html background="images/scistories-clear-cut.png" dark=false %}
+
+{% include section.html %}
+
+The lab's overall research program is currently supported by the generous contributions from these sources:
 
 {% capture mskcc %}
 {%
