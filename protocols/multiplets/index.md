@@ -13,7 +13,5 @@ title: Identifying multiple beads per droplet in ATAC-seq data
 
 ## Application to 10x Genomics scATAC data
 
-{% include figure.html name="biorad" image="images/researchpngs/biorad-wide.png" %}
-
-
 {% include figure.html name="biorad" image="images/researchpngs/10x-bm-wide.png" %}
+

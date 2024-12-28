@@ -328,6 +328,14 @@
       text: bioRxiv
       link: https://clareaulab.com/publications/?search=preprint
 
+# Siraj pp
+- id: doi:10.1101/2024.05.05.592437
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mprasiraj.png
+  buttons:
+    - type: fire
+      text: bioRxiv
+      link: https://clareaulab.com/publications/?search=preprint
+
 ############
 
 
