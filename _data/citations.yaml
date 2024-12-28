@@ -738,6 +738,44 @@
     link: https://clareaulab.com/publications/?search=preprint
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2024.05.05.592437
+  title: Functional dissection of complex and molecular trait variants at single nucleotide
+    resolution
+  authors:
+  - Layla Siraj
+  - Rodrigo I Castro
+  - Hannah Dewey
+  - Susan Kales
+  - Thanh Thanh L Nguyen
+  - Masahiro Kanai
+  - Daniel Berenzy
+  - Kousuke Mouri
+  - Qingbo Wang
+  - Zachary R McCaw
+  - Sager J Gosai
+  - "Fran\xE7ois Aguet"
+  - Ran Cui
+  - Christopher M Vockley
+  - Caleb A Lareau
+  - Yukinori Okada
+  - Alexander Gusev
+  - Thouis R Jones
+  - Eric S Lander
+  - Pardis C Sabeti
+  - Hilary K Finucane
+  - Steven K Reilly
+  - Jacob C Ulirsch
+  - Ryan Tewhey
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-05-06'
+  link: https://doi.org/g8w7c8
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/mprasiraj.png
+  buttons:
+  - type: fire
+    text: bioRxiv
+    link: https://clareaulab.com/publications/?search=preprint
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.3389/fimmu.2024.1492782
   title: Identifying optimal tumor-associated antigen combinations with single-cell
     genomics to enable multi-targeting therapies
