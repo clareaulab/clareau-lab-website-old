@@ -17,7 +17,7 @@
       text: Datasets
       link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE210063
     - type: github
-      text: Pan-viralreactivation 
+      text: Human pan-viral screen 
       link: caleblareau/serratus-reactivation-screen
 
 
@@ -58,15 +58,34 @@
     - type: geodata
       text: Datasets
       link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182685
-    - type: protocolsio
+    - type: paper
       text: Manuscript
       link: https://www.nature.com/articles/s41587-022-01210-8
     - type: github
       text: Downstream analyses
       link: petervangalen/MAESTER-2021
 
+# ASAP / DOGMA
+- id: with Eleni Mimitou and Peter Smibert</a>
+  title: <b>ATAC with Selected Antigen Profiling via sequencing + DOGMA-seq/<b>
+  authors: 
+  - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing.  
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
+  publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#Asap">ASAP-seq/DOGMA-seq</a>
+  date: '2021-10-30'
+  buttons:
+    - type: protocolsio
+      text: Protocol
+      link: https://cite-seq.com/asapseq/
+    - type: geodata
+      text: Datasets
+      link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156478
+    - type: github
+      text: Downstream analyses
+      link: caleblareau/asap_reproducibility
+
 # 10x barcode multiplets
-- id: with  the <a href="https://buenrostrolab.com">Buenrostro Lab</a>
+- id: with the <a href="https://buenrostrolab.com">Buenrostro Lab</a>
   title: <b>Uncovering barcode multiplets in 10x scATAC-seq data</b>
   authors: 
   - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing.  
@@ -82,7 +101,7 @@
       link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE143197
     - type: github
       text: Downstream analyses
-      link: https://github.com/caleblareau/barcode-multiplets
+      link: caleblareau/barcode-multiplets
 
 
 # dscATAC
@@ -94,6 +113,9 @@
   publisher: <a href="https://clareaulab.com/protocols/multiplets/index.html">dscATAC-seq</a>
   date: '2019-08-20'
   buttons:
+    - type: website
+      text: Library structure
+      link: https://teichlab.github.io/scg_lib_structs/methods_html/dscATAC.html
     - type: website
       text: Commercialization
       link: https://www.bio-rad.com/en-us/product/ddseq-single-cell-atac-seq-kit-omnition-analysis-software?ID=PEXSR1MC1ORV
