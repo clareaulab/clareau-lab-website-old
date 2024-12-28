@@ -5,15 +5,21 @@ title: Mitochondrial genomics and lineage tracing
 # {% include icon.html icon="fa-solid fa-dna" %}Methods for mtDNA tracing
 
 Our lab has been active in the development of new technologies to enable
-lineage tracing in humans via mitochondrial DNA mutations. All of these works have been 
+lineage tracing in humans via mitochondrial DNA mutations. Most of these works have been 
 collaborative efforts with the [Leif Ludwig](https://www.mdc-berlin.de/ludwig) Lab
-while we were trainees with Aviv Regev and Vijay Sankaran. See a summary of these major technologies, software, and informal guidelines below.
+while we were trainees with Aviv Regev and Vijay Sankaran. See a summary of these
+major technologies, software, and informal guidelines below. 
 
 
-## Interested in mtDNA tracing?
+## Interested in mitochondrial tracing? 
 
+A good review on these principles, technologies, and applications
+is [available online as a review article](https://www.nature.com/articles/s41588-024-01794-8).
 Feel free to [reach out to Caleb](mailto:lareauc@mskcc.org), who can either answer your questions
 or refer you to the right person who can help! 
+
+At a high level, we can detect somatic mitochondrial mutations in either mitochondrial DNA (mtDNA) or 
+mtRNA. These methods that we've been involved in developing are summarized here:
 
 # Genotyping via mtDNA
 
@@ -109,11 +115,10 @@ states and dynamics along a disease trajectory.
 
 {% include section.html %}
 
-# Pathogenic mitochondrial mutations
 
-## Purifying selection in congenital mitochondrial disease
+# Purifying selection in congenital mitochondrial disease
 
-{% include figure.html name="MAESTER" image="images/researchpngs/pearson-wide.png" %}
+{% include figure.html name="Pearson" image="images/researchpngs/pearson-wide.png" %}
 
 
 
@@ -121,13 +126,13 @@ states and dynamics along a disease trajectory.
 
 {% include section.html %}
 
-# Software for analyses
+# Software that enables mitochondrial mutaiton analyses
 
 As part of these tools, our lab has been the primary developers of genotyping software for processing sequencing reads 
 from the protocols and identifying high-confidence single-cell heteroplasmy. 
 
-- For analyzing mtDNA (from any ATAC data), we currently recommend the [mgatk package](https://github.com/caleblareau/mgatk).
-- To call mtDNA deletions, we recommend the [mgatk-del utility](https://github.com/caleblareau/mgatk) part of mgatk.
+- For analyzing mtDNA (from any ATAC data), we recommend the [mgatk package](https://github.com/caleblareau/mgatk).
+- To call mtDNA deletions and quantify single-cell heteroplasmy, we recommend the [mgatk-del utility](https://github.com/caleblareau/mgatk) part of mgatk. A detailed summary of the [toolkit is here](https://github.com/caleblareau/mgatk/wiki/Large-deletion-calling-and-heteroplasmy-estimation)
 - For analyzing MAESTER/mRNA data, we recommend the [maegatk workflow](https://github.com/caleblareau/maegatk).
 
 The major differences between the software tools [are described here](https://github.com/caleblareau/maegatk/wiki/FAQ).

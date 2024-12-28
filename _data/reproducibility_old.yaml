@@ -49,7 +49,7 @@
   authors: 
   - A parisomonious method common for profiling 3' scRNA-seq with mitochondrial transcriptome enrichment to increase coverage by more than 50-fold, enabling clonal tracing.  
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/maester.png
-  publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#maester">mtscATAC-seq</a>
+  publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#maester">MAESTER</a>
   date: '2022-02-24'
   buttons:
     - type: github
@@ -74,24 +74,24 @@
   publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#phage-atac">PHAGE-ATAC</a>
   date: '2021-10-30'
   buttons:
-    - type: protocolsio
-      text: Protocol
-      link: https://cite-seq.com/asapseq/
     - type: geodata
       text: Datasets
       link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157486
     - type: github
       text: Downstream analyses
       link: evgenijfiskin/phage-atac
-
+    - type: website
+      text: Phage plasmid
+      link: https://www.addgene.org/110101/
+      
 # ASAP / DOGMA
 - id: with Eleni Mimitou and Peter Smibert</a>
   title: <b>ATAC with Selected Antigen Profiling via sequencing + DOGMA-seq</b>
   authors: 
   - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing.  
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
-  publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#Asap">ASAP-seq/DOGMA-seq</a>
-  date: '2021-10-30'
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapclean.png
+  publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#asap-seq-and-dogma-seq">ASAP-seq/DOGMA-seq</a>
+  date: '2021-06-06'
   buttons:
     - type: protocolsio
       text: Protocol
