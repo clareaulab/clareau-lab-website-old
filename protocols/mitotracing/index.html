@@ -39,21 +39,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Mitochondrial genomics and lineage tracing | Lareau Lab</title>
+<title>Technologies for mitochondrial genomics and lineage tracing | Lareau Lab</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Mitochondrial genomics and lineage tracing">
+<meta name="title" content="Technologies for mitochondrial genomics and lineage tracing">
 <meta name="description" content="The Lareau Laboratory for Data-driven Translational Genomics is in the csBio Program at Memorial Sloan Kettering Cancer Center, New York, NY.">
 
-<meta property="og:title" content="Mitochondrial genomics and lineage tracing">
+<meta property="og:title" content="Technologies for mitochondrial genomics and lineage tracing">
 <meta property="og:site_title" content="Lareau Lab">
 <meta property="og:description" content="The Lareau Laboratory for Data-driven Translational Genomics is in the csBio Program at Memorial Sloan Kettering Cancer Center, New York, NY.">
 <meta property="og:url" content="">
 <meta property="og:image" content="">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Mitochondrial genomics and lineage tracing">
+<meta property="twitter:title" content="Technologies for mitochondrial genomics and lineage tracing">
 <meta property="twitter:description" content="The Lareau Laboratory for Data-driven Translational Genomics is in the csBio Program at Memorial Sloan Kettering Cancer Center, New York, NY.">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
@@ -69,9 +69,9 @@
     
       "@type": "WebSite",
     
-    "name": "Mitochondrial genomics and lineage tracing",
+    "name": "Technologies for mitochondrial genomics and lineage tracing",
     "description": "The Lareau Laboratory for Data-driven Translational Genomics is in the csBio Program at Memorial Sloan Kettering Cancer Center, New York, NY.",
-    "headline": "Mitochondrial genomics and lineage tracing",
+    "headline": "Technologies for mitochondrial genomics and lineage tracing",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -505,7 +505,7 @@
 lineage tracing in humans via mitochondrial DNA mutations. Most of these works have been 
 collaborative efforts with the <a href="https://www.mdc-berlin.de/ludwig">Leif Ludwig</a> Lab
 while we were trainees with Aviv Regev and Vijay Sankaran. See a summary of these
-major technologies, software, and informal guidelines below.</p>
+major technologies, software, biological results, and informal guidelines below.</p>
 
 <h2 id="interested-in-mitochondrial-tracing">Interested in mitochondrial tracing?</h2>
 
@@ -538,9 +538,9 @@ Accessible chromatin profiling can thereby be combined with single-cell whole mi
 
 <h2 id="asap-seq-and-dogma-seq">ASAP-seq and DOGMA-seq</h2>
 
-<p>Multiple mtscATAC-seq variant assays have been developed, for example,
-<a href="https://www.nature.com/articles/s41587-021-00927-2">ATAC with select antigen profiling by sequencing (ASAP-seq)</a> (with Eleni Mimitou and Peter Smibert); 
-as well as</p>
+<p><a href="https://www.nature.com/articles/s41587-021-00927-2">ATAC with select antigen profiling by sequencing (ASAP-seq)</a> (with Eleni Mimitou and Peter Smibert);</p>
+
+<p>ASAP-seq (ATAC with Select Antigen Profiling by Sequencing) enables a multimodal readout that simultaneously profiles accessible chromatin, protein levels, and optionally mitochondrial DNA for cellular clonality by repurposing the existing antibody-oligonucleotide conjugates (Figure 4A) [16]. As the bead oligo capture sequences on the scATAC-seq kit are complementary to the Nextra Read 1 sequence attached to DNA fragments after Tn5 transposition, the poly-A CITE-seq reagents are not immediately compatible. Thus, the critical innovation in ASAP-seq was a bridge oligo complementary to the poly-A antibody-oligo sequence on one end and the Read 1 sequence on the other. This development allows existing CITE-seq reagents to be used directly in ASAP-seq without requiring a new set of antibodies to be conjugated for capture with the ATAC-seq kit.</p>
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
@@ -553,7 +553,7 @@ as well as</p>
 </figure>
 
 <p>The 10x Genomics Multiome kit has further facilitated the integration of transcriptional profiles,
-yielding <a href="https://www.nature.com/articles/s41587-021-00927-2">DOGMA-seq</a> (with Eleni Mimitou and Peter Smibert); 
+yielding <a href="https://www.nature.com/articles/s41587-021-00927-2">DOGMA-seq</a>; 
 this enables the single-cell capture of up to four data modalities, including transcriptome,
 accessible chromatin, surface markers and mtDNA mutations.</p>
 
@@ -572,6 +572,11 @@ accessible chromatin, surface markers and mtDNA mutations.</p>
 which in addition facilitate surface-marker profiling. In our experience, these approaches both work well 
 and right-out-of-the-box if you have experience working with antibodies and/or phages.</p>
 
+<p>PHAGE-ATAC utilizes an M13 bacteriophage system that genetically encoded antibody binders
+attached to a PAC-tag, obviating the need for recombinantly expressed antibodies or covalent conjugations.
+The M13 phagemid system uses nanobodies with known specificity to detect surface antigens
+and quantify binding in droplets via the barcoding of the CDR3 hypervariable region that directly encodes the protein binder.</p>
+
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/researchpngs/phage-atac-wide.png" style="
@@ -582,12 +587,14 @@ and right-out-of-the-box if you have experience working with antibodies and/or p
   
 </figure>
 
-<p>Unless you have a specific reason to want the transcriptome (then use DOGMA-seq) or 
-the surface proteome (then use ASAP-seq due to ease of commercially available reagents),
-we recommend mtscATAC-seq due to the ease 
-and cost-efficiency of the workflow.</p>
+<p>As phages are effectively a renewable resource after infection in bacteria, these reagents are ideal for large-scale experiments.
+Keep an eye on this assay as additional resources outlining nanobodies are developed.</p>
 
-<p>Another extension of the approach (though unrelated to our group) for the genotyping of 
+<p>Unless you have a specific reason to want the transcriptome (then use DOGMA-seq or MAESTER, below) or 
+the surface proteome (then use ASAP-seq due to ease of commercially available reagents),
+we recommend mtscATAC-seq due to the ease and cost-efficiency of the workflow.</p>
+
+<p>Another extension of the mtscATAC-seq assay (though unrelated to our group) for the genotyping of 
 targeted loci with single-cell chromatin accessibility <a href="https://www.nature.com/articles/s41586-024-07388-y">(GoT-ChA)</a>
 utilizes targeted primers to genotype nuclear variants in addition to optional mtDNA sequencing for high-resolution clonal analyses.</p>
   </section>
@@ -626,7 +633,7 @@ However, it’s important to note that these approaches sequence
 only part of the transcript and thus tend to suffer from limited coverage of the mitochondrial
 transcriptome for confident variant detection.</p>
 
-<p>Enter <a href="https://pubmed.ncbi.nlm.nih.gov/35210612/">(MAESTER, below)</a>.
+<p>Enter <a href="https://pubmed.ncbi.nlm.nih.gov/35210612/">(MAESTER)</a>.
 MAESTER can enrich mitochondrial mutations from existing cDNA libraries,
 massively improving the suitability of these data for detecting and analyzing mtDNA
 variants from high-throughput scRNA-seq data. 
@@ -685,6 +692,19 @@ states and dynamics along a disease trajectory.</p>
 
 <h1 id="purifying-selection-in-congenital-mitochondrial-disease">Purifying selection in congenital mitochondrial disease</h1>
 
+<p>While most single-cell multi-omic efforts so far have used mtDNA genotyping for purposes of clonal tracing,
+the obvious utility of these technologies for studies of mitochondrial genetics has only
+become evident more recently in the context of mitochondriopathies.
+Clinically, these heterogeneous diseases are well recognized, but a detailed molecular understanding of 
+how alterations in mitochondrial genetic integrity elicit changes in individual cells.</p>
+
+<p>We initially applied mtscATAC-seq-based analysis of peripheral blood mononuclear cells
+from adult patients with mitochondrial encephalomyopathy, lactic acidosis and stroke-like episodes (MELAS),
+who carry the pathogenic m.3243G&gt;A mtDNA variant. In collaboration with Vamsi Mootha and Melissa Walker,
+We found an almost complete absence of the mutation, specifically in T cells but not in other immune cells.</p>
+
+<p>With Suneet Agarwal, we further applied mtscATAC-seq, ASAP-seq, and DOGMA-seq</p>
+
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/researchpngs/pearson-wide.png" style="
@@ -694,6 +714,13 @@ states and dynamics along a disease trajectory.</p>
   </a>
   
 </figure>
+
+<p>This work showed a strong purifying selection of pathogenic mtDNA in cell states that probably reflect
+specific metabolic requirements, in particular toward attaining and/or also potentially 
+maintaining the mucosal-associated invariant T cell (MAIT) and CD8+ effector/memory T cell states.</p>
+
+<p>In short, if you want to learn more about how functional mtDNA variants impact cells, the above suite of 
+technologies has worked well in our hands!</p>
   </section>
 
   
