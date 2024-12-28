@@ -5,7 +5,7 @@
 - id: with the <a href="https://satpathylab.com/">Satpathy Lab</a>
   title: <b>Viral reactivation uncovered in existing genomics datasets</b>
   authors: 
-  - blah
+  - These resources provide an overview for mining existing human sequencing datasets for the presence of viral nucleic acids. We used this framework to discover the reactivation of HHV-6 during T cell culture, including in the manufacturing of therapeutic CAR T cells. Code and data for this work are outlined here. 
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
   publisher: <a href="https://clareaulab.com/protocols/virus/index.html">Viruses in -seq data</a>
   date: '2023-11-30'
@@ -69,7 +69,7 @@
 - id: with Evenij Fiskin in the Regev Lab</a>
   title: <b>Combined proteomic and epigenomic profiling via M13 Bacteriophages</b>
   authors: 
-  - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing.  
+  - PHAGE-ATAC allows for a multi-omic extension of the scATAC-seq workflow by using M13 bacteriophages displaying nanobodies to quantify proteo-genomic measurements. Code, data, and plasmids to get started are available here.
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/phageatac.png
   publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#phage-atac">PHAGE-ATAC</a>
   date: '2021-10-30'
@@ -88,7 +88,7 @@
 - id: with Eleni Mimitou and Peter Smibert</a>
   title: <b>ATAC with Selected Antigen Profiling via sequencing + DOGMA-seq</b>
   authors: 
-  - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing.  
+  - ASAP-seq and DOGMA-seq extend commercial kits from 10x Genomics for multi-omic measurements of intracellular and surface proteins alongside accessible chromatin (and the transcriptome). These resources enable an end-to-end experimental workflows and computational analyses. 
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/asapclean.png
   publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#asap-seq-and-dogma-seq">ASAP-seq/DOGMA-seq</a>
   date: '2021-06-06'
@@ -102,14 +102,17 @@
     - type: github
       text: Downstream analyses
       link: caleblareau/asap_reproducibility
+    - type: github
+      text: Preprocessing tools
+      link: caleblareau/asap_to_kite
 
 # 10x barcode multiplets
 - id: with the <a href="https://buenrostrolab.com">Buenrostro Lab</a>
   title: <b>Uncovering barcode multiplets in 10x scATAC-seq data</b>
   authors: 
-  - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing.  
+  - Barcode multiplets occur when either a bead contains multiple valid cell barcodes or when multiple beads becomes encapsulated inside a single droplet. We outline tools and results that can detect barcode multiplets in sequencing dataset and quantify their impact. 
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
-  publisher: <a href="https://clareaulab.com/protocols/multiplets/index.html">Barcode multiplets</a>
+  publisher: <a href="https://clareaulab.com/protocols/multiplets/index.html#application-to-10x-genomics-scatac-data">Barcode multiplets</a>
   date: '2020-02-13'
   buttons:
     - type: github
@@ -127,9 +130,9 @@
 - id: with Fabina and Jen via the <a href="https://buenrostrolab.com">Buenrostro Lab</a>
   title: <b>Droplet-based single-cell ATAC-seq</b>
   authors: 
-  - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing commercialized by BioRad. 
+  - The dscATAC-seq method is a highly scalable droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing developed by experimental and computational insights. This approach is now commercially available. 
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodetn5.png
-  publisher: <a href="https://clareaulab.com/protocols/multiplets/index.html">dscATAC-seq</a>
+  publisher: <a href="https://clareaulab.com/protocols/multiplets/index.html#barcode-multiplets-used-to-develop-dscatac-seq">dscATAC-seq</a>
   date: '2019-08-20'
   buttons:
     - type: website
