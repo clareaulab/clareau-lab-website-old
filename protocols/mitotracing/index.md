@@ -21,7 +21,8 @@ or refer you to the right person who can help!
 At a high level, we can detect somatic mitochondrial mutations in either mitochondrial DNA (mtDNA) or 
 mtRNA. These methods that we've been involved in developing are summarized here:
 
-# Genotyping via mtDNA
+{% include section.html background="images/scistories-clear-cut.png" dark=false %}
+{% include section.html %}
 
 ## Mitochondrial single-cell ATAC-seq
 
@@ -37,11 +38,22 @@ Accessible chromatin profiling can thereby be combined with single-cell whole mi
 
 
 
-[ATAC with select antigen profiling by sequencing (ASAP-seq)](https://www.nature.com/articles/s41587-021-00927-2) (with Eleni Mimitou and Peter Smibert); 
-
-ASAP-seq (ATAC with Select Antigen Profiling by Sequencing) enables a multimodal readout that simultaneously profiles accessible chromatin, protein levels, and optionally mitochondrial DNA for cellular clonality by repurposing the existing antibody-oligonucleotide conjugates (Figure 4A) [16]. As the bead oligo capture sequences on the scATAC-seq kit are complementary to the Nextra Read 1 sequence attached to DNA fragments after Tn5 transposition, the poly-A CITE-seq reagents are not immediately compatible. Thus, the critical innovation in ASAP-seq was a bridge oligo complementary to the poly-A antibody-oligo sequence on one end and the Read 1 sequence on the other. This development allows existing CITE-seq reagents to be used directly in ASAP-seq without requiring a new set of antibodies to be conjugated for capture with the ATAC-seq kit.
-
+Enter the [ATAC with select antigen profiling by sequencing (ASAP-seq)](https://www.nature.com/articles/s41587-021-00927-2), 
+developed with Eleni Mimitou, Kelvin Chen, and Peter Smibert. ASAP-seq
+enables a multimodal readout that simultaneously profiles accessible chromatin,
+protein levels, and mitochondrial DNA mutation for cellular clonality by repurposing 
+existing antibody-oligonucleotide conjugates. 
+ 
 {% include figure.html name="ASAP" image="images/researchpngs/asap-seq-wide.png" %}
+
+The key insight that unlocked ASAP-seq is the use of a 'bridge oligo' for 
+barcoding CITE-seq reagents with gel beads. Specifically, the bead oligo capture sequences
+on the scATAC-seq kit are complementary to the Nextra Read 1 sequence attached to DNA fragments after Tn5 transposition. 
+Thus, the poly-A CITE-seq reagents are not immediately compatible. 
+The ASAP-seq bridge oligo is complementary to the poly-A antibody-oligo sequence on one end
+and the Read 1 sequence on the other.
+This development allows existing CITE-seq reagents to be used directly in ASAP-seq without
+requiring a new set of antibodies to be conjugated for capture with the ATAC-seq kit.
 
 
 The 10x Genomics Multiome kit has further facilitated the integration of transcriptional profiles,
@@ -51,6 +63,8 @@ accessible chromatin, surface markers and mtDNA mutations.
 
 {% include figure.html name="DOGMA" image="images/researchpngs/dogma-seq-wide.png" %}
 
+Here, the detection of the oligo-conjugated antibodies is identical to CITE-seq
+as there are polyT capture sequences on the multiome beads. 
 
 ## PHAGE-ATAC
 [PHAGE-ATAC](https://www.nature.com/articles/s41587-021-01065-5) (with Evgenij Fiskin),
@@ -65,13 +79,12 @@ and quantify binding in droplets via the barcoding of the CDR3 hypervariable reg
 {% include figure.html name="phageatac" image="images/researchpngs/phage-atac-wide.png" %}
 
 As phages are effectively a renewable resource after infection in bacteria, these reagents are ideal for large-scale experiments.
-Keep an eye on this assay as additional resources outlining nanobodies are developed. 
-
+Keep an eye on this assay as additional resources descrbing nanobodies against more targets 
+are developed, including in viral infections like SARS-CoV-2 as we show in the PHAGE-ATAC paper. 
 
 Unless you have a specific reason to want the transcriptome (then use DOGMA-seq or MAESTER, below) or 
 the surface proteome (then use ASAP-seq due to ease of commercially available reagents),
 we recommend mtscATAC-seq due to the ease and cost-efficiency of the workflow. 
-
 
 Another extension of the mtscATAC-seq assay (though unrelated to our group) for the genotyping of 
 targeted loci with single-cell chromatin accessibility [(GoT-ChA)](https://www.nature.com/articles/s41586-024-07388-y)
@@ -81,7 +94,6 @@ utilizes targeted primers to genotype nuclear variants in addition to optional m
 {% include section.html background="images/scistories-clear-cut.png" dark=false %}
 {% include section.html %}
 
-# Genotyping via mtRNA
 
 ## MAESTER
 As >90% of mtDNA is transcribed, full-length RNA-seq techniques (e.g., Smart-seq) that capture
@@ -134,10 +146,12 @@ how alterations in mitochondrial genetic integrity elicit changes in individual 
 
 We initially applied mtscATAC-seq-based analysis of peripheral blood mononuclear cells
 from adult patients with mitochondrial encephalomyopathy, lactic acidosis and stroke-like episodes (MELAS),
-who carry the pathogenic m.3243G>A mtDNA variant. In collaboration with Vamsi Mootha and Melissa Walker,
+who carry the pathogenic m.3243G>A mtDNA variant. 
+[In collaboration with Vamsi Mootha and Melissa Walker](https://www.nejm.org/doi/full/10.1056/NEJMoa2001265),
 We found an almost complete absence of the mutation, specifically in T cells but not in other immune cells.
 
 With Suneet Agarwal, we further applied mtscATAC-seq, ASAP-seq, and DOGMA-seq 
+to [study Pearson Syndrome](https://www.nature.com/articles/s41588-023-01433-8).
 
 {% include figure.html name="Pearson" image="images/researchpngs/pearson-wide.png" %}
 

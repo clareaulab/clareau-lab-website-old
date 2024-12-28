@@ -109,7 +109,7 @@
   authors: 
   - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing.  
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
-  publisher: <a href="https://clareaulab.com/protocols/multiplets/index.html">dscATAC-seq</a>
+  publisher: <a href="https://clareaulab.com/protocols/multiplets/index.html">Barcode multiplets</a>
   date: '2020-02-13'
   buttons:
     - type: github
