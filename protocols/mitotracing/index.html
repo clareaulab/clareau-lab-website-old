@@ -502,14 +502,20 @@
 <i class="icon fa-solid fa-dna"></i>Methods for mtDNA tracing</h1>
 
 <p>Our lab has been active in the development of new technologies to enable
-lineage tracing in humans via mitochondrial DNA mutations. All of these works have been 
+lineage tracing in humans via mitochondrial DNA mutations. Most of these works have been 
 collaborative efforts with the <a href="https://www.mdc-berlin.de/ludwig">Leif Ludwig</a> Lab
-while we were trainees with Aviv Regev and Vijay Sankaran. See a summary of these major technologies, software, and informal guidelines below.</p>
+while we were trainees with Aviv Regev and Vijay Sankaran. See a summary of these
+major technologies, software, and informal guidelines below.</p>
 
-<h2 id="interested-in-mtdna-tracing">Interested in mtDNA tracing?</h2>
+<h2 id="interested-in-mitochondrial-tracing">Interested in mitochondrial tracing?</h2>
 
-<p>Feel free to <a href="mailto:lareauc@mskcc.org">reach out to Caleb</a>, who can either answer your questions
+<p>A good review on these principles, technologies, and applications
+is <a href="https://www.nature.com/articles/s41588-024-01794-8">available online as a review article</a>.
+Feel free to <a href="mailto:lareauc@mskcc.org">reach out to Caleb</a>, who can either answer your questions
 or refer you to the right person who can help!</p>
+
+<p>At a high level, we can detect somatic mitochondrial mutations in either mitochondrial DNA (mtDNA) or 
+mtRNA. These methods that we’ve been involved in developing are summarized here:</p>
 
 <h1 id="genotyping-via-mtdna">Genotyping via mtDNA</h1>
 
@@ -677,9 +683,7 @@ states and dynamics along a disease trajectory.</p>
   size: ;
 -->
 
-<h1 id="pathogenic-mitochondrial-mutations">Pathogenic mitochondrial mutations</h1>
-
-<h2 id="purifying-selection-in-congenital-mitochondrial-disease">Purifying selection in congenital mitochondrial disease</h2>
+<h1 id="purifying-selection-in-congenital-mitochondrial-disease">Purifying selection in congenital mitochondrial disease</h1>
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
@@ -715,14 +719,15 @@ states and dynamics along a disease trajectory.</p>
   size: ;
 -->
 
-<h1 id="software-for-analyses">Software for analyses</h1>
+<h1 id="software-that-enables-mitochondrial-mutaiton-analyses">Software that enables mitochondrial mutaiton analyses</h1>
 
 <p>As part of these tools, our lab has been the primary developers of genotyping software for processing sequencing reads 
 from the protocols and identifying high-confidence single-cell heteroplasmy.</p>
 
 <ul>
-  <li>For analyzing mtDNA (from any ATAC data), we currently recommend the <a href="https://github.com/caleblareau/mgatk">mgatk package</a>.</li>
-  <li>To call mtDNA deletions, we recommend the <a href="https://github.com/caleblareau/mgatk">mgatk-del utility</a> part of mgatk.</li>
+  <li>For analyzing mtDNA (from any ATAC data), we recommend the <a href="https://github.com/caleblareau/mgatk">mgatk package</a>.</li>
+  <li>To call mtDNA deletions and quantify single-cell heteroplasmy, we recommend the <a href="https://github.com/caleblareau/mgatk">mgatk-del utility</a> part of mgatk. A detailed summary of the <a href="https://github.com/caleblareau/mgatk/wiki/Large-deletion-calling-and-heteroplasmy-estimation">toolkit is here</a>
+</li>
   <li>For analyzing MAESTER/mRNA data, we recommend the <a href="https://github.com/caleblareau/maegatk">maegatk workflow</a>.</li>
 </ul>
 
