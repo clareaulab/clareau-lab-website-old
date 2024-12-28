@@ -1,6 +1,26 @@
 
 # Links for reproducibility
 
+# Virus
+- id: with the <a href="https://satpathylab.com/">Satpathy Lab</a>
+  title: <b>Viral reactivation uncovered in existing genomics datasets</b>
+  authors: 
+  - blah
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/hhv6sc.png
+  publisher: <a href="https://clareaulab.com/protocols/virus/index.html">Viruses in -seq data</a>
+  date: '2023-11-30'
+  buttons:
+    - type: github
+      text: Downstream analyses
+      link: caleblareau/hhv6-reactivation
+    - type: geodata
+      text: Datasets
+      link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE210063
+    - type: github
+      text: Pan-viralreactivation 
+      link: caleblareau/serratus-reactivation-screen
+
+
 # mtscatac
 - id: with <a href="https://www.mdc-berlin.de/ludwig">Leif</a> via the <a href="https://www.bloodgenes.org/">Sankaran Lab</a>
   title: <b>Mitochondrial single-cell ATAC-seq</b>
@@ -22,4 +42,68 @@
     - type: github
       text: Genotyping pipeline
       link: caleblareau/mgatk
+
+# MAESTER
+- id: with <a href="https://tymillerlab.org/">Ty Miller Lab</a> and <a href="https://vangalenlab.bwh.harvard.edu/">Peter van Galen Lab</a>
+  title: <b>Mitochondrial Alteration Enrichment from Single-cell Transcriptomes to Establish Relatedness</b>
+  authors: 
+  - A parisomonious method common for profiling 3' scRNA-seq with mitochondrial transcriptome enrichment to increase coverage by more than 50-fold, enabling clonal tracing.  
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/maester.png
+  publisher: <a href="https://clareaulab.com/protocols/mitotracing/index.html#maester">mtscATAC-seq</a>
+  date: '2022-02-24'
+  buttons:
+    - type: github
+      text: Genotyping pipeline
+      link: caleblareau/maegatk
+    - type: geodata
+      text: Datasets
+      link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182685
+    - type: protocolsio
+      text: Manuscript
+      link: https://www.nature.com/articles/s41587-022-01210-8
+    - type: github
+      text: Downstream analyses
+      link: petervangalen/MAESTER-2021
+
+# 10x barcode multiplets
+- id: with  the <a href="https://buenrostrolab.com">Buenrostro Lab</a>
+  title: <b>Uncovering barcode multiplets in 10x scATAC-seq data</b>
+  authors: 
+  - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing.  
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodemultiplets.png
+  publisher: <a href="https://clareaulab.com/protocols/multiplets/index.html">dscATAC-seq</a>
+  date: '2020-02-13'
+  buttons:
+    - type: github
+      text: Processing pipeline
+      link: caleblareau/bap
+    - type: geodata
+      text: Datasets
+      link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE143197
+    - type: github
+      text: Downstream analyses
+      link: https://github.com/caleblareau/barcode-multiplets
+
+
+# dscATAC
+- id: with Fabina and Jen via the <a href="https://buenrostrolab.com">Buenrostro Lab</a>
+  title: <b>Droplet-based single-cell ATAC-seq</b>
+  authors: 
+  - A new droplet-based workflow for the Assay for Transposase Accessible Chromatin via sequencing commercialized by BioRad. 
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/barcodetn5.png
+  publisher: <a href="https://clareaulab.com/protocols/multiplets/index.html">dscATAC-seq</a>
+  date: '2019-08-20'
+  buttons:
+    - type: website
+      text: Commercialization
+      link: https://www.bio-rad.com/en-us/product/ddseq-single-cell-atac-seq-kit-omnition-analysis-software?ID=PEXSR1MC1ORV
+    - type: github
+      text: Processing pipeline
+      link: caleblareau/bap
+    - type: geodata
+      text: Datasets
+      link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE123581
+    - type: github
+      text: Downstream analyses
+      link: buenrostrolab/dscATAC_analysis_code
 
