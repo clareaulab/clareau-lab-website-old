@@ -504,8 +504,7 @@
 <p>Our lab has been active in the development of new technologies to enable
 lineage tracing in humans via mitochondrial DNA mutations. All of these works have been 
 collaborative efforts with the <a href="https://www.mdc-berlin.de/ludwig">Leif Ludwig</a> Lab
-while we were trainees with Aviv Regev and Vijay Sankaran. 
-See a summary of these major technologies, software, and informal guidelines here.</p>
+while we were trainees with Aviv Regev and Vijay Sankaran. See a summary of these major technologies, software, and informal guidelines below.</p>
 
 <h2 id="interested-in-mtdna-tracing">Interested in mtDNA tracing?</h2>
 
@@ -537,15 +536,45 @@ Accessible chromatin profiling can thereby be combined with single-cell whole mi
 <a href="https://www.nature.com/articles/s41587-021-00927-2">ATAC with select antigen profiling by sequencing (ASAP-seq)</a> (with Eleni Mimitou and Peter Smibert); 
 as well as</p>
 
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/researchpngs/asap-seq-wide.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
 <p>The 10x Genomics Multiome kit has further facilitated the integration of transcriptional profiles,
 yielding <a href="https://www.nature.com/articles/s41587-021-00927-2">DOGMA-seq</a> (with Eleni Mimitou and Peter Smibert); 
 this enables the single-cell capture of up to four data modalities, including transcriptome,
 accessible chromatin, surface markers and mtDNA mutations.</p>
 
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/researchpngs/dogma-seq-wide.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
 <h2 id="phage-atac">PHAGE-ATAC</h2>
 <p><a href="https://www.nature.com/articles/s41587-021-01065-5">PHAGE-ATAC</a> (with Evgenij Fiskin),
 which in addition facilitate surface-marker profiling. In our experience, these approaches both work well 
 and right-out-of-the-box if you have experience working with antibodies and/or phages.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/researchpngs/phage-atac-wide.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
 
 <p>Unless you have a specific reason to want the transcriptome (then use DOGMA-seq) or 
 the surface proteome (then use ASAP-seq due to ease of commercially available reagents),
@@ -650,9 +679,17 @@ states and dynamics along a disease trajectory.</p>
 
 <h1 id="pathogenic-mitochondrial-mutations">Pathogenic mitochondrial mutations</h1>
 
-<h2 id="purifying-selection-in-pearson-syndrome">Purifying selection in Pearson Syndrome</h2>
+<h2 id="purifying-selection-in-congenital-mitochondrial-disease">Purifying selection in congenital mitochondrial disease</h2>
 
-<p>xyz</p>
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/researchpngs/pearson-wide.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
   </section>
 
   
@@ -685,7 +722,8 @@ from the protocols and identifying high-confidence single-cell heteroplasmy.</p>
 
 <ul>
   <li>For analyzing mtDNA (from any ATAC data), we currently recommend the <a href="https://github.com/caleblareau/mgatk">mgatk package</a>.</li>
-  <li>For analyzing MAESTER data, we recommend the <a href="https://github.com/caleblareau/maegatk">maegatk workflow</a>.</li>
+  <li>To call mtDNA deletions, we recommend the <a href="https://github.com/caleblareau/mgatk">mgatk-del utility</a> part of mgatk.</li>
+  <li>For analyzing MAESTER/mRNA data, we recommend the <a href="https://github.com/caleblareau/maegatk">maegatk workflow</a>.</li>
 </ul>
 
 <p>The major differences between the software tools <a href="https://github.com/caleblareau/maegatk/wiki/FAQ">are described here</a>.</p>
