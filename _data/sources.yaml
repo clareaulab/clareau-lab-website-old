@@ -20,7 +20,6 @@
     - type: featured
       text: Featured
       link: https://clareaulab.com/publications/?search=featured
-      
 
 # Arthur review
 - id: doi:10.1016/j.tibtech.2024.07.006
