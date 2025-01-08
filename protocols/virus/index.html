@@ -511,9 +511,23 @@
   
 </figure>
 
-<p>Viral latency and reactivation</p>
+<p>Repo for the main code associated with this work is <a href="https://github.com/caleblareau/hhv6-reactivation/tree/main">available here</a></p>
+
+<h2 id="use-serratus-to-perform-a-human">Use Serratus to perform a human</h2>
+<p>For a digest on how to screen all human viruses by all RNA-seq libraries in Serratus, 
+check out the <a href="https://github.com/caleblareau/serratus-reactivation-screen">repo here</a>
+for reproducing the pan-virus screen.</p>
 
 <h2 id="hhv-6b-reference-genome">HHV-6B reference genome</h2>
+
+<p>We developed a kallisto|bustools workflow to rapidly quantify reads from either single-cell or bulk transcriptomes.
+We downloaded the GenBank AF157706 reference transcriptome and created a kallisto index using the default -k 31 (kmer) parameter. 
+The best place for reproducing our HHV-6 <a href="https://github.com/caleblareau/hhv6-reactivation/tree/main/hhv6-reference">pseudoalignment pipeline is here</a>.
+For single-cell libraries, raw sequencing reads were processed using the kallisto <code class="language-plaintext highlighter-rouge">bus</code> command with appropriate hyperparameters for each version
+of the single-cell chemistry (either 14 or 16 bp sequence barcode and 10 or 12 bases of UMI sequence).</p>
+
+<p>After barcode and UMI correction, a plain text sparse matrix was emitted, corresponding to unique HHV-6B reads
+mapping to individual cells in the single-cell sequencing library. For bulk libraries, the same index could be utilized with the standard kallisto <code class="language-plaintext highlighter-rouge">quant</code> execution.</p>
 
 <p><br></p>
   </section>
