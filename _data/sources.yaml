@@ -1,6 +1,27 @@
 
 # highlighted articles
 
+# PERFF
+- id: doi:10.1038/s41588-024-02036-7
+  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perfftf.png
+  buttons:
+    - type: paper
+      text: PDF
+      link: https://clareaulab.github.io/pdfs/AbayStickelsTakizawa-NG-2025.pdf
+    - type: github
+      text: Code
+      link: clareaulab/perffseq_reproducibility
+    - type: twitter
+      text: Tweetorial
+      link: CalebLareau/status/1773350071414788430
+    - type: website
+      text: 10x Genomics Coverage
+      link: https://www.10xgenomics.com/blog/from-rare-cells-to-rich-insights-with-perff-seq
+    - type: featured
+      text: Featured
+      link: https://clareaulab.com/publications/?search=featured
+      
+
 # Arthur review
 - id: doi:10.1016/j.tibtech.2024.07.006
   image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/arthurrev.png
@@ -41,27 +62,6 @@
     - type: featured
       text: Featured
       link: https://clareaulab.com/publications/?search=featured
-      
-      
-# PERFF
-- id: doi:10.1101/2024.03.27.587039
-  image: https://raw.githubusercontent.com/clareaulab/clareau-lab-website/main/images/researchpngs/perfftf.png
-  buttons:
-    - type: paper
-      text: PDF
-      link: https://www.biorxiv.org/content/10.1101/2024.03.27.587039v1.full.pdf
-    - type: github
-      text: Code
-      link: clareaulab/perffseq_reproducibility
-    - type: twitter
-      text: Tweetorial
-      link: CalebLareau/status/1773350071414788430
-    - type: featured
-      text: Featured
-      link: https://clareaulab.com/publications/?search=featured
-    - type: fire
-      text: bioRxiv
-      link: https://clareaulab.com/publications/?search=preprint
       
 
 
