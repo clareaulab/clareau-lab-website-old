@@ -5,9 +5,16 @@ title: PERFF-seq
 # {% include icon.html icon="fa-solid fa-fish-fins" %}PERFF-seq
 
 
-<b>Transcript-specific enrichment enables profiling of rare cell states via scRNA-seq</b>
+<b>Transcript-specific enrichment enables profiling of rare cell states via single-cell RNA sequencing</b>
 
+Single-cell genomics technologies have accelerated our understanding of cell-state heterogeneity in nearly every complex tissue.
+While single-cell genomics can identify rare populations that express specific marker transcript combinations,
+traditional flow sorting requires cell surface markers with high-fidelity antibodies,
+limiting followup study, particularly when nuclei isolation is required. 
+Programmable Enrichment via RNA Flow-FISH by sequencing (PERFF-seq) is our solution to these challenges
+by enabling scRNA-seq profiling of subpopulations defined by the abundance of specific RNA transcripts.
 
+Here's a hub for the key links associated with PERFF-seq. 
 
 ## Critical reagents
 - Molecular Instruments [HCR-FlowFISH](https://www.molecularinstruments.com/)
@@ -15,6 +22,7 @@ title: PERFF-seq
 - Thermo Fisher Scientific [dsDNase](https://www.thermofisher.com/order/catalog/product/EN0771)
 
 ## Key links
+- Go behind the paper with a [Q&A from Tsion!](https://www.10xgenomics.com/blog/from-rare-cells-to-rich-insights-with-perff-seq)
 - Find the full work available on our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2024.03.27.587039v1)
 - Read the step-by-step protocols.io workflow for [PERFF-seq](https://www.protocols.io/view/2-perff-seq-hcr-flow-fish-and-polymer-disassembly-8epv5x8r4g1b/v1) and [cell/nuclei processing](https://www.protocols.io/view/1-perff-seq-cell-and-nuclei-preparation-14egn3k6ql5d/v1)
 - Reproduce all custom code and analyses [from our Github Repository](https://github.com/clareaulab/perffseq_reproducibility)
