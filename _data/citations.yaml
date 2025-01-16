@@ -1455,8 +1455,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1158/2643-3230.BCD-23-0138
-  title: Tracking rare single donor and recipient immune and leukemia cells after
-    allogeneic hematopoietic cell transplantation using mitochondrial DNA mutations
+  title: Tracking Rare Single Donor and Recipient Immune and Leukemia Cells after
+    Allogeneic Hematopoietic Cell Transplantation Using Mitochondrial DNA Mutations
   authors:
   - Livius Penter
   - Nicoletta Cieri
