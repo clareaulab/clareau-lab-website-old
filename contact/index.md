@@ -11,7 +11,6 @@ nav:
 
 ## Come find us at these upcoming events:
 
-- <b>February 8-13, 2025</b> - [23rd Annual Workshop at Bellairs; metagenomics workshop](https://www.mikehallett.science/barbados/small-mighty); Barbados
 - <b>March 25-27, 2025</b> - [12th International Conference on HHV-6 & 7](https://conference.hhv-6foundation.org/); Himeji City, Japan
 - <b>June 1-5, 2025</b> - [FASEB Mechanisms of Mitochondrial DNA Mutation and Repair](https://events.faseb.org/event/mitochondrialdna/summary); Nashville, TN
 
