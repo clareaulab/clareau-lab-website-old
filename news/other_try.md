@@ -1,8 +1,5 @@
 ---
-title: News
-nav:
-  order: 2
-  tooltip: Updates from the lab
+title: Old
 ---
 
 # {% include icon.html icon="fa-solid fa-sun" %}Lab news
