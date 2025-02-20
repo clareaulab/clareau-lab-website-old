@@ -7,6 +7,8 @@ nav:
 
 {% include section.html %}
 
+# {% include icon.html icon="fa-solid fa-sun" %}Lab news
+
 
 # 2025
 
@@ -38,3 +40,5 @@ We were voted the funniest group costume–[which came with a free  :pizza:  par
 # 2023
 
 - *May 18 |* Caleb is named an [Emerging Leader in Computational Oncology](https://componcmsk.org/event/computational-oncology-emerging-leaders-2023/) by Memorial Hospital! Awardees took place in a two day symposium in New York hosted by faculty in the Computational Oncology program.
+
+<br>

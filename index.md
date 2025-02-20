@@ -20,11 +20,10 @@ Our lab is located on the 11th Floor of the Zuckerman Research Building at
 
 ## Navigation
 - Check out [recent updates from the lab](news)
-- See [who we are](team) and [what we're up to](research)
-- Want to support our work? Consider making a donation
-[Lareau Lab Cycle for Survival team today](https://www.cycleforsurvival.org/donate/team-search?team_search=lareau).
-- Looking for opportunities? [See here](outreach)
 - Interested in [PERFF-seq? Click here!](perffseq)
+- See [who we are](team) and [what we're up to](research)
+- Want to support our work? Consider making a donation.
+	- [Lareau Lab Cycle for Survival team](https://www.cycleforsurvival.org/donate/team-search?team_search=lareau)
 
 {% include section.html background="images/scistories-clear-cut.png" dark=false %}
 
